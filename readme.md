@@ -84,7 +84,36 @@ Classic probem in heap, should learn quick select at some point
            
            return result
       ```
-   </details>     
+   </details>    
+
+1. 29 Divide Two Integers
+***Approach 1*** is to look from right to left, and maintain maxRight, if a building is larger than maxRight, add its index to the  result, and update maxRight. In the end, reverse result. TC O(N), SC O(1)  
+***Approach 2*** is to look from left to right, if a building is blocked by current building, remove it from the result, otherwise add its index to the result. TC O(N), SC O(N)
+   <details>
+       
+      ```python
+       # From right to left
+       def findBuildings(self, heights: List[int]) -> List[int]:
+           result = []
+           maxRightHeight = -1
+           for i in range(len(heights) -1, -1, -1):
+               if heights[i] > maxRightHeight:
+                   result.append(i)
+                   maxRightHeight = heights[i]
+           result.reverse()
+           return result
+         
+      #From left to right
+       def findBuildings(self, heights: List[int]) -> List[int]:
+           result = []
+           for i, height in enumerate(heights):
+               while len(result) > 0 and heights[result[-1]] <= height:
+                   result.pop()
+               result.append(i)
+           
+           return result
+      ```
+   </details> 
 
 1. 173 Binary Search Tree Iterator  
 ***Approach 1*** is to flatten the tree using inorder DFS, save the result in an array, and set currCursorPosition = -1. When calling next, increase currCursorPosition. hasNext just need to check whether currCursorPosition + 1 is less than last index. TC O(1) SC O(N)  
@@ -114,42 +143,34 @@ Classic probem in heap, should learn quick select at some point
    </details>   
 
 1. 129 Sum Root to Leaf Numbers  
-***Approach 1*** is to calculate sum in recursive preorder traversal. In each recursion call, the passed parameter is node and pathSum, return 0 if node is null; otherwise increase pathSum considering node value, then return pathSum if node is leaf; Otherwise recursively call left child and right child with pathSum, add them and then return. TC O(N) SC O(N)  
-***Approach 2*** Iterative preorder traversal. Use a stack to store pair of node and current path sum. In each iteration, pop pair of node and curr path sum, then increase path sum considering node value. If node is leaf, then add it to total sum. If node's right is not null, add it to stack; If node.s left is not null, add it to stack.     
+***Approach 1*** Firsly determine whether the result is positive or negative. Try to convert both dividen and divisor to its absolute value, and then do the divide. Beare edge cases that could overflow, i.e. when either dividend or divisor is MIN_INT. The idea is to find the quotient in its binary form. Imagine the quotient is represented as X31, X30 ..., X0. So loop from 31 to 0, at each step, if shift dividend by i bits(equivalent to dividend/ 2 power i and the result is greater than b, then increase quotient with (1 << i equivalent to 2 power i), and reduce divident by b << i equivalent to b multiply 2 power i. In the end, return quotient or -quotient based on it's positive or negative
    <details>
     
       ```python
-         # Recursive
-       def sumNumbers(self, root: Optional[TreeNode]) -> int:
-           def dfs(node, pathSum):         
-               if not node:                
-                   return 0
-   
-               pathSum = pathSum * 10 + node.val
-               if node.left is None and node.right is None:
-                   return pathSum
-                   
-               return dfs(node.left, pathSum) + dfs(node.right, pathSum)
-           
-           return dfs(root, 0)
+    def divide(self, dividend: int, divisor: int) -> int:
+        MIN_INT = -2 ** 31
+        MAX_INT = 2 ** 31 - 1
+        if dividend == MIN_INT and divisor == MIN_INT:
+            return 1
+        elif divisor == MIN_INT:
+            return 0
+        elif dividend == MIN_INT:
+            if divisor == -1:
+                return MAX_INT
+            elif divisor > 0:
+                return -1 + self.divide(dividend + divisor, divisor)
+            else:
+                return 1 + self.divide(dividend - divisor, divisor)
+
+        isPositive = (dividend > 0) == (divisor > 0)
+        dividend = abs(dividend)
+        divisor = abs(divisor)
+        quotient = 0
+        for i in range(31, -1, -1):
+            if (dividend >> i) >= divisor:
+                quotient += (1 << i)
+                dividend -= (divisor << i)
         
-         # Iterative
-       def sumNumbers(self, root: Optional[TreeNode]) -> int:
-           total = 0
-           stack = [(root, 0)]
-           while stack:
-               node, pathSum = stack.pop()
-   
-               pathSum = pathSum * 10 + node.val
-               if node.left is None and node.right is None:
-                   total += pathSum
-               
-               if node.right is not None:
-                   stack.append((node.right, pathSum))
-               
-               if node.left is not None:
-                   stack.append((node.left, pathSum))
-           
-           return total     
+        return quotient if isPositive else -quotient  
       ```
    </details>  
