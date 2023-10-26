@@ -31,7 +31,8 @@
          ```
    </details>
       
-     <details>
+     TC O(N) N is number of nodes since one has to visit each node, SC is O(D) to keep the queues, where D is a tree diameter.
+   <details>
       
       ```python
             def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
