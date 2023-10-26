@@ -65,5 +65,30 @@ Approach 1 is to look from right to left, and maintain maxRight, if a building i
 Approach 2 is to look from left to right, if a building is blocked by current building, remove it from the result, otherwise add its index to the result. TC O(N), SC O(N)
 
 1. 173 Binary Search Tree Iterator  
-Approach 1 is to flatten the tree using inorder DFS, save the result in an array, and set currCursorPosition = -1. When calling next, increase currCursorPosition. hasNext just need to check whether currCursorPosition + 1 is less than last index. TC O(N) SC O(N)
+***Approach 1*** is to flatten the tree using inorder DFS, save the result in an array, and set currCursorPosition = -1. When calling next, increase currCursorPosition. hasNext just need to check whether currCursorPosition + 1 is less than last index. TC O(1) SC O(N)
+***Approach 2*** is to use a stack to store all the left children. In constructor, push all the left children. In next, pop from the stack, and if it has right child, then push all the left children of that node. In hasNext, only check whether stack is empty.   TC O(1) for hasNext, and O(1) on average for next(as for n calls, the total TC is O(N)), SC O(H) where H is the height of the tree
+   <details>
+      
+      ```python
+      class BSTIterator:
+          def __init__(self, root: Optional[TreeNode]):
+              self.stack = []
+              self.pushLeftChildren(root)
+              
+          def pushLeftChildren(self, node):
+              while node:
+                  self.stack.append(node)
+                  node = node.left
+                        
+          def next(self) -> int:
+              topMostNode = self.stack.pop()
+              if topMostNode.right:
+                  self.pushLeftChildren(topMostNode.right)
+      
+              return topMostNode.val       
+      
+          def hasNext(self) -> bool:
+              return len(self.stack) > 0       
+      ```
+   </details>   
  
