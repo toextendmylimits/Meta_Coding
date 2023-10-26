@@ -88,4 +88,44 @@ Approach 2 is to look from left to right, if a building is blocked by current bu
               return len(self.stack) > 0       
       ```
    </details>   
- 
+
+ 1. 129 Sum Root to Leaf Numbers  
+***Approach 1*** is to calculate sum in recursive preorder traversal. In each recursion call, the passed parameter is node and pathSum, return 0 if node is null; otherwise increase pathSum considering node value, then return pathSum if node is leaf; Otherwise recursively call left child and right child with pathSum, add them and then return. TC O(N) SC O(N)  
+***Approach 2*** Iterative preorder traversal. Use a stack to store pair of node and current path sum. In each iteration, pop pair of node and curr path sum, then increase path sum considering node value. If node is leaf, then add it to total sum. If node's right is not null, add it to stack; If node.s left is not null, add it to stack.
+   <details>
+       
+      ```python
+      # Recursive
+    def sumNumbers(self, root: Optional[TreeNode]) -> int:
+        def dfs(node, pathSum):         
+            if not node:                
+                return 0
+
+            pathSum = pathSum * 10 + node.val
+            if node.left is None and node.right is None:
+                return pathSum
+                
+            return dfs(node.left, pathSum) + dfs(node.right, pathSum)
+        
+        return dfs(root, 0)
+        
+      # Iterative
+    def sumNumbers(self, root: Optional[TreeNode]) -> int:
+        total = 0
+        stack = [(root, 0)]
+        while stack:
+            node, pathSum = stack.pop()
+
+            pathSum = pathSum * 10 + node.val
+            if node.left is None and node.right is None:
+                total += pathSum
+            
+            if node.right is not None:
+                stack.append((node.right, pathSum))
+            
+            if node.left is not None:
+                stack.append((node.left, pathSum))
+        
+        return total     
+      ```
+   </details>  
