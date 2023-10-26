@@ -30,9 +30,7 @@
                           queue.append(node.right)
       
               return resultLeft + resultRight[::-1]
-         ```
-      
-      ```python
+         
       #DFS
         def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         result = []
