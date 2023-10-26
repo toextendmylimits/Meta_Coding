@@ -1,6 +1,31 @@
 # A list of Meta high-frequency coding questions 
 
-1. 199 Binary Tree Right Side View Variation  
+1. 199 Binary Tree Right Side View Variation
+   ***Approach 1*** check i from 0 to n(inclusive), whether it's in the distinct numbers(using set)
+    <details>
+
+      ```python
+        def missingNumber(self, nums: List[int]) -> int:
+            distinctNums = set(nums)
+            for i in range(len(nums) + 1):
+                if i not in distinctNums:
+                    return i         
+      ```
+    </details>
+    
+   ***Approach 2*** bitwise exclusive OR  
+    <details>
+
+      ```python
+        def missingNumber(self, nums: List[int]) -> int:
+            result = len(nums)
+            for i, n in enumerate(nums):
+                result ^= i ^ n
+            
+            return result        
+      ```
+    </details>
+    
    ***Approach 1*** BFS - TC O(N) N is number of nodes since one has to visit each node, SC is O(D) to keep the queues, where D is a tree diameter.
    <details>
       
