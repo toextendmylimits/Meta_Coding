@@ -91,7 +91,56 @@ Approach 2 is to look from left to right, if a building is blocked by current bu
 
  1. 129 Sum Root to Leaf Numbers  
    ***Approach 1*** is to calculate sum in recursive preorder traversal. In each recursion call, the passed parameter is node and pathSum, return 0 if node is null; otherwise increase pathSum considering node value, then return pathSum if node is leaf; Otherwise recursively call left child and right child with pathSum, add them and then return. TC O(N) SC O(N)  
-   ***Approach 2*** Iterative preorder traversal. Use a stack to store pair of node and current path sum. In each iteration, pop pair of node and curr path sum, then increase path sum considering node value. If node is leaf, then add it to total sum. If node's right is not null, add it to stack; If node.s left is not null, add it to stack.  
+   ***Approach 2*** Iterative preorder traversal. Use a stack to store pair of node and current path sum. In each iteration, pop pair of node and curr path sum, then increase path sum considering node value. If node is leaf, then add it to total sum. If node's right is not null, add it to stack; If node.s left is not null, add it to stack.
+   <details>
+       
+      ```python
+       #BFS
+            def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+              if not root:
+                  return []
+              
+              resultLeft = []
+              resultRight = []
+              queue = deque([root])
+              while queue:
+                  levelSize = len(queue)
+                  for i in range(levelSize):
+                      node = queue.popleft()
+                      if i == 0:
+                          resultLeft.append(node.val)
+                      if i == levelSize - 1:
+                          resultRight.append(node.val)
+                      
+                      if node.left:
+                          queue.append(node.left)
+                      
+                      if node.right:
+                          queue.append(node.right)
+      
+              return resultLeft + resultRight[::-1]
+         
+      #DFS
+        def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        result = []
+
+        def dfs(node, level):
+            if level == len(result):
+                result.append(node.val)
+            
+            if node.right:
+                dfs(node.right, level + 1)
+            
+            if node.left:
+                dfs(node.left, level + 1)
+
+        if not root:
+            return []
+        
+        dfs(root, 0)
+        return result
+      ```
+   </details>         
    <details>
     
       ```python
