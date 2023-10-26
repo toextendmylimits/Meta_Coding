@@ -2,10 +2,11 @@
 
 1. 199 Binary Tree Right Side View Variation
    
-     ***Approach 1 BFS*** TC O(N) N is number of nodes since one has to visit each node, SC is O(D) to keep the queues, where D is a tree diameter.
+   ***Approach 1 BFS*** TC O(N) N is number of nodes since one has to visit each node, SC is O(D) to keep the queues, where D is a tree diameter.                  
+   ***Approach 2 DFS*** - TC O(N) N is number of nodes since one has to visit each node, SC is O(N) to keep the recursion stack, where H is a tree height. Use DFS to get left view and right view separately and then join it. When getting left view, check left child first while getting right view check right child first.
     <details>
-
       ```python
+       #BFS
             def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
               if not root:
                   return []
@@ -30,11 +31,9 @@
       
               return resultLeft + resultRight[::-1]
          ```
-    </details>              
- ***Approach 2 DFS*** - TC O(N) N is number of nodes since one has to visit each node, SC is O(N) to keep the recursion stack, where H is a tree height. Use DFS to get left view and right view separately and then join it. When getting left view, check left child first while getting right view check right child first.
-   <details>
       
       ```python
+      #DFS
         def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         result = []
 
