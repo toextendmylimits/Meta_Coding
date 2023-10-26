@@ -57,7 +57,7 @@
       ```
    </details>     
    
-1. 347. Top K Frequent Elements  
+1. 347 Top K Frequent Elements  
 Classic probem in heap, should learn quick select at some point
 
  
