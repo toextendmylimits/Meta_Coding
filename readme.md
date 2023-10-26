@@ -142,7 +142,7 @@ Classic probem in heap, should learn quick select at some point
       ```
    </details>   
 
-1. 129 Sum Root to Leaf Numbers  
+1. 29 Divide two integers
 ***Approach 1*** Firsly determine whether the result is positive or negative. Try to convert both dividen and divisor to its absolute value, and then do the divide. Beare edge cases that could overflow, i.e. when either dividend or divisor is MIN_INT. The idea is to find the quotient in its binary form. Imagine the quotient is represented as X31, X30 ..., X0. So loop from 31 to 0, at each step, if shift dividend by i bits(equivalent to dividend/ 2 power i and the result is greater than b, then increase quotient with (1 << i equivalent to 2 power i), and reduce divident by b << i equivalent to b multiply 2 power i. In the end, return quotient or -quotient based on it's positive or negative
    <details>
     
