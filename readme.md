@@ -104,8 +104,7 @@ Classic probem in heap, should learn quick select at some point
                         
           def next(self) -> int:
               topMostNode = self.stack.pop()
-              if topMostNode.right:
-                  self.pushLeftChildren(topMostNode.right)
+              self.pushLeftChildren(topMostNode.right)
       
               return topMostNode.val       
       
