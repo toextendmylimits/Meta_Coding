@@ -5,12 +5,6 @@
    <details>
       
       ```python
-         def a:
-      ```
-   </details>
-     <details>
-         
-         ```python
             def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
               if not root:
                   return []
@@ -35,4 +29,8 @@
       
               return resultLeft + resultRight[::-1]
          ```
+   </details>
+     <details>
+         
+         
        </details>
