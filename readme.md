@@ -54,7 +54,7 @@
         
         dfs(root, 0)
         return result
-         ```
+      ```
    </details>     
    
    
