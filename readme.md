@@ -1,7 +1,7 @@
 # A list of Meta high-frequency coding questions 
 
 1. 199 Binary Tree Right Side View Variation  
-   BFS - TC O(N) N is number of nodes since one has to visit each node, SC is O(D) to keep the queues, where D is a tree diameter.
+   ***Approach 1*** BFS - TC O(N) N is number of nodes since one has to visit each node, SC is O(D) to keep the queues, where D is a tree diameter.
    
    <details>
       
@@ -33,7 +33,7 @@
    </details>  
 
  
-   DFS - TC O(N) N is number of nodes since one has to visit each node, SC is O(N) to keep the recursion stack, where H is a tree height. Use DFS to get left view and right view separately and then join it. When getting left view, check left child first while getting right view check right child first.
+   ***Approach 2*** DFS - TC O(N) N is number of nodes since one has to visit each node, SC is O(N) to keep the recursion stack, where H is a tree height. Use DFS to get left view and right view separately and then join it. When getting left view, check left child first while getting right view check right child first.
    <details>
       
       ```python
