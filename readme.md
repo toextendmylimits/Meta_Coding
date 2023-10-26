@@ -62,6 +62,8 @@ Classic probem in heap, should learn quick select at some point
 
 1. 1762 Buildings with an occean view  
 Approach 1 is to look from right to left, and maintain maxRight, if a building is larger than maxRight, add its index to the  result, and update maxRight. In the end, reverse result. TC O(N), SC O(1)  
-Approach 2 is to look from left to right, if a building is blocked by current building, remove it from the result, otherwise add its index to the result. TC O(N), SC O(N) 
+Approach 2 is to look from left to right, if a building is blocked by current building, remove it from the result, otherwise add its index to the result. TC O(N), SC O(N)
 
+1. 173 Binary Search Tree Iterator
+Approach 1 is to flatten the tree using inorder DFS, save the result in an array, and set currCursorPosition = -1. When calling next, increase currCursorPosition. hasNext just need to check whether currCursorPosition + 1 is less than last index. TC O(N) SC O(N)
  
