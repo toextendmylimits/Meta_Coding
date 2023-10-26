@@ -86,32 +86,44 @@ Classic probem in heap, should learn quick select at some point
       ```
    </details>    
 
-1. 29 Divide Two Integers
-***Approach 1*** is to look from right to left, and maintain maxRight, if a building is larger than maxRight, add its index to the  result, and update maxRight. In the end, reverse result. TC O(N), SC O(1)  
-***Approach 2*** is to look from left to right, if a building is blocked by current building, remove it from the result, otherwise add its index to the result. TC O(N), SC O(N)
+1. 129 Sum Root to Leaf Numbers
+***Approach 1*** is to calculate sum in recursive preorder traversal. In each recursion call, the passed parameter is node and pathSum, return 0 if node is null; otherwise increase pathSum considering node value, then return pathSum if node is leaf; Otherwise recursively call left child and right child with pathSum, add them and then return. TC O(N) SC O(N)
+***Approach 2*** Iterative preorder traversal. Use a stack to store pair of node and current path sum. In each iteration, pop pair of node and curr path sum, then increase path sum considering node value. If node is leaf, then add it to total sum. If node's right is not null, add it to stack; If node.s left is not null, add it to stack.O(N)
    <details>
        
       ```python
-       # From right to left
-       def findBuildings(self, heights: List[int]) -> List[int]:
-           result = []
-           maxRightHeight = -1
-           for i in range(len(heights) -1, -1, -1):
-               if heights[i] > maxRightHeight:
-                   result.append(i)
-                   maxRightHeight = heights[i]
-           result.reverse()
-           return result
-         
-      #From left to right
-       def findBuildings(self, heights: List[int]) -> List[int]:
-           result = []
-           for i, height in enumerate(heights):
-               while len(result) > 0 and heights[result[-1]] <= height:
-                   result.pop()
-               result.append(i)
-           
-           return result
+   # Recursive
+    def sumNumbers(self, root: Optional[TreeNode]) -> int:
+        def dfs(node, pathSum):         
+            if not node:                
+                return 0
+   
+            pathSum = pathSum * 10 + node.val
+            if node.left is None and node.right is None:
+                return pathSum
+                
+            return dfs(node.left, pathSum) + dfs(node.right, pathSum)
+        
+        return dfs(root, 0)
+     
+      # Iterative
+    def sumNumbers(self, root: Optional[TreeNode]) -> int:
+        total = 0
+        stack = [(root, 0)]
+        while stack:
+            node, pathSum = stack.pop()
+   
+            pathSum = pathSum * 10 + node.val
+            if node.left is None and node.right is None:
+                total += pathSum
+            
+            if node.right is not None:
+                stack.append((node.right, pathSum))
+            
+            if node.left is not None:
+                stack.append((node.left, pathSum))
+        
+        return total     
       ```
    </details> 
 
