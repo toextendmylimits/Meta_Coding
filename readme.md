@@ -7,6 +7,29 @@
    <details>
       
       ```python
+                def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        result = []
+
+        def dfs(node, level):
+            if level == len(result):
+                result.append(node.val)
+            
+            if node.right:
+                dfs(node.right, level + 1)
+            
+            if node.left:
+                dfs(node.left, level + 1)
+
+        if not root:
+            return []
+        
+        dfs(root, 0)
+        return result
+         ```
+   </details>   
+   <details>
+      
+      ```python
             def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
               if not root:
                   return []
