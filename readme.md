@@ -186,3 +186,35 @@ Classic probem in heap, should learn quick select at some point
         return quotient if isPositive else -quotient  
       ```
    </details>  
+
+
+1. 2365 Task Scheduler II
+***Approach 1*** The idea is to save the last day that a task is completed in a map. Use variable result to store current day initialize to 0. So looping through the tasks, for each task, if it is last executed, then it must be executed after enough days pass since its last completion, so should be the max value of current day, and previous completion day + space, with addition of 1; If the task has never been executed, then it be executed on next day which is current day plus 1. Then update the last day that a task is completed. In the end, return current day. TC O(N), SC O(N)  
+   <details>
+    
+      ```python
+      # Use normal dict {}
+       def taskSchedulerII(self, tasks: List[int], space: int) -> int:
+           result = 0
+           taskLastComplete = defaultdict(lambda : -2 - space)
+           for task in tasks:
+               if task in taskLastComplete:
+                   result = max(result, taskLastComplete[task] + space) + 1
+               else:
+                   result += 1
+                   
+               taskLastComplete[task] = result
+   
+           return result
+            
+      # Use defaultdict
+       def taskSchedulerII(self, tasks: List[int], space: int) -> int:
+           result = 0
+           taskLastComplete = defaultdict(lambda : -2 - space)
+           for task in tasks:
+               result = max(result, taskLastComplete[task] + space) + 1
+               taskLastComplete[task] = result
+   
+           return result
+      ```
+   </details>  
