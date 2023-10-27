@@ -220,8 +220,8 @@ Classic probem in heap, should learn quick select at some point
    </details>  
 
 1. 621 Task Scheduler  
-***Approach 1*** The idea is to find the minimum number of slots to execute the most frequent tasks, and then see if the remaining tasks can fit into the idle slots.  
-   1. First count the number of occurrences of each task. TC S(N), SC O(N).    
+***Approach 1*** The idea is to find the minimum number of slots to execute the most frequent tasks, and then see if the remaining tasks can fit into the idle slots. TC S(N), SC O(N).   
+   1. First count the number of occurrences of each task.   
    1. Let the max frequency seen be M for task T
    1. We can schedule the first M-1 occurrences of T, each T will be followed by at least N CPU cycles in between successive schedules of T. Total CPU cycles after scheduling M-1 occurrences of T = (M-1) * (N + 1) // 1 comes for the CPU cycle for T itself
    1. Now schedule the final round of tasks. We will need at least 1 CPU cycle of the last occurrence of T. If there are multiple tasks with frequency M, they will all need 1 more cycle. Run through the frequency dictionary and for every element which has frequency == M, add 1 cycle to result.
