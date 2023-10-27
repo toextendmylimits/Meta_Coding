@@ -220,9 +220,13 @@ Classic probem in heap, should learn quick select at some point
    </details>  
 
 1. 621 Task Scheduler  
-***Approach 1***
-   1. The idea is to find the minimum number of slots to execute the most frequent tasks, and then see if the remaining tasks can fit into the idle slots.
-First find the frequency of each tasks, then find the max frequency. If the idle is n, so to execute the most frequent tasks, we can have maxFreq group. From 1st to maxFreq group, one task can be executed, and there are n idle slots which can be used for other tasks. From the maxFreq th step, most frequent task can be executed. Let use result for the minimum number of slots requited, to consider 1st to (maxFreq - 1)th group, result should be (maxFreq - 1) * (n + 1). Now loop through the tasks, for each task, if its frequency is equal to maxFreq, then increase result by 1. This is for the task to be executed at the last group. In the end, if result is less than len(tasks), which means all tasks can fit into the current idle, return result; Otherwise, that means the above idle is not enough, and the remaining tasks can be added to the existing groups, so return len(tasks). TC S(N), SC O(N)  
+***Approach 1*** The idea is to find the minimum number of slots to execute the most frequent tasks, and then see if the remaining tasks can fit into the idle slots.  
+   1. First count the number of occurrences of each task.
+   1. Let the max frequency seen be M for task T
+   1. We can schedule the first M-1 occurrences of T, each T will be followed by at least N CPU cycles in between successive schedules of T. Total CPU cycles after scheduling M-1 occurrences of T = (M-1) * (N + 1) // 1 comes for the CPU cycle for T itself
+   1. Now schedule the final round of tasks. We will need at least 1 CPU cycle of the last occurrence of T. If there are multiple tasks with frequency M, they will all need 1 more cycle. Run through the frequency dictionary and for every element which has frequency == M, add 1 cycle to result.
+   1.In the end, If we have more number of tasks than the max slots we need as computed above we will return the length of the tasks array as we need at least those many CPU cycles.  
+ TC S(N), SC O(N)  
    <details>
     
       ```python
