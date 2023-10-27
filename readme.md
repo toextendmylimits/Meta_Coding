@@ -218,3 +218,21 @@ Classic probem in heap, should learn quick select at some point
            return result
       ```
    </details>  
+
+1. 621 Task Scheduler  
+***Approach 1*** The idea is to find the minimum number of slots to execute the most frequent tasks, and then see if the remaining tasks can fit into the idle slots. First find the frequency of each tasks, then find the max frequency. If the idle is n, so to execute the most frequent tasks, we can have maxFreq group. From 1st to maxFreq group, one task can be executed, and there are n idle slots which can be used for other tasks. From the maxFreq th step, most frequent task can be executed. Let use result for the minimum number of slots requited, to consider 1st to (maxFreq - 1)th group, result should be (maxFreq - 1) * (n + 1). Now loop through the tasks, for each task, if its frequency is equal to maxFreq, then increase result by 1. This is for the task to be executed at the last group. In the end, if result is less than len(tasks), which means all tasks can fit into the current idle, return result; Otherwise, that means the above idle is not enough, and the remaining tasks can be added to the existing groups, so return len(tasks). TC S(N), SC O(N)  
+   <details>
+    
+      ```python
+       def leastInterval(self, tasks: List[str], n: int) -> int:
+           counter = Counter(tasks)
+           maxFreq = max(counter.values())
+           result = (maxFreq - 1) * (n + 1)
+           for taskName, freq in counter.items():
+               if freq == maxFreq:
+                   result += 1
+           
+           return max(len(tasks), result)
+      ```
+   </details>  
+
