@@ -311,3 +311,6 @@ Key observation is that the longest substring should consists characters that ap
            return maxLen
       ```
    </details>  
+
+1. 973 K Closest Points to Origin  
+***Use heap but should learn quick select later***
