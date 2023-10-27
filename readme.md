@@ -285,3 +285,5 @@ We use a stack to keep a decreasing sub-sequence, whenever we see a number x gre
 
 1. 50 Pow(x, n) should solve the problem both recursively and iteratively
 1. 88 Merge Sorted Array 
+1. Find First and Last Position of Element in Sorted Array  
+Binary search
