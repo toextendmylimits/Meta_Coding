@@ -225,7 +225,7 @@ Classic probem in heap, should learn quick select at some point
    1. Let the max frequency seen be M for task T
    1. We can schedule the first M-1 occurrences of T, each T will be followed by at least N CPU cycles in between successive schedules of T. Total CPU cycles after scheduling M-1 occurrences of T = (M-1) * (N + 1) // 1 comes for the CPU cycle for T itself
    1. Now schedule the final round of tasks. We will need at least 1 CPU cycle of the last occurrence of T. If there are multiple tasks with frequency M, they will all need 1 more cycle. Run through the frequency dictionary and for every element which has frequency == M, add 1 cycle to result.
-   1.In the end, If we have more number of tasks than the max slots we need as computed above we will return the length of the tasks array as we need at least those many CPU cycles.   
+   1. In the end, If we have more number of tasks than the max slots we need as computed above we will return the length of the tasks array as we need at least those many CPU cycles.   
    <details>
     
       ```python
