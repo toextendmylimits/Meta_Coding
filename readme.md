@@ -261,3 +261,24 @@ We use a stack to keep a decreasing sub-sequence, whenever we see a number x gre
            return result
       ```
    </details>  
+
+1. 503 Next Greater Element II
+***Approach 1*** Keep a stack with indexes, and the number that the index represent are in decreasing order from bottom to top. TC O(N), SC O(N)  
+   <details>
+    
+      ```python
+       def nextGreaterElements(self, nums: List[int]) -> List[int]:
+           stack = []
+           numsLen = len(nums)
+           result = [-1] * numsLen
+           for i in range(numsLen * 2):
+               num = nums[i % numsLen]
+               while stack and nums[stack[-1]] < num:
+                   result[stack.pop()] = num
+   
+               if i < numsLen:
+                   stack.append(i)
+           
+           return result
+      ```
+   </details>  
