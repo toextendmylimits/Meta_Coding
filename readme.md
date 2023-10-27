@@ -287,3 +287,27 @@ We use a stack to keep a decreasing sub-sequence, whenever we see a number x gre
 1. 88 Merge Sorted Array 
 1. Find First and Last Position of Element in Sorted Array  
 Binary search
+
+1. 424 Longest Repeating Character Replacement  
+Key observation is that the longest substring should consists characters that appears more often, and then replace the less frequent ones. So the idea is to expand the window of substrings that has k chracters to replace. We maintain a window of substring, and the most frequent character in that substring. Use left pointer for start of the window, and right pinter for end of the window. Loop all characters, in each iteration increase frequency of right character, and update max frequency if necessary. If there are more chracters to replace than k, i.e. the window is invalid, (start - end + 1 > maxFreq + k), advance left pointer. Then the window should be valid, so update maxLen if necessary. In the end, return maxLen. TC O(N), SC O(N)
+   <details>
+    
+      ```python
+       def characterReplacement(self, s: str, k: int) -> int:
+           counter = Counter()
+           left = 0
+           maxFreq = 0
+           maxLen = 0
+           for right in range(len(s)):
+               counter[s[right]] += 1
+               if counter[s[right]] > maxFreq:
+                   maxFreq = counter[s[right]]
+   
+               if right - left + 1 > maxFreq + k:
+                   counter[s[left]] -= 1
+                   left += 1
+               
+               maxLen = max(maxLen, right - left + 1)
+           return maxLen
+      ```
+   </details>  
