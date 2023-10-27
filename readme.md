@@ -236,7 +236,7 @@ Classic probem in heap, should learn quick select at some point
       ```
    </details>  
 
-1. 496 Next Greater Element I
+1. 496 Next Greater Element I  
 ***Approach 1*** 
 Key observation:  
 Suppose we have a decreasing sequence followed by a greater number  
