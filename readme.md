@@ -416,3 +416,4 @@ Approach 2 - Use hash map to store index and value
 1. [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)   
 1. [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) 
 1. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) 
+1. [202. Happy Number](https://leetcode.com/problems/happy-number)
