@@ -409,4 +409,4 @@ Approach 2 - Use hash map to store index and value
       ```
    </details>  
 
-   1. 543 Diameter of Binary Tree 
+1. 543 Diameter of Binary Tree 
