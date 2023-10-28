@@ -411,4 +411,5 @@ Approach 2 - Use hash map to store index and value
 
 1. 543 Diameter of Binary Tree
 1. 1213 Intersection of Three Sorted Arrays  
-1. [71. Simplify Path](https://leetcode.com/problems/simplify-path)  
+1. [71. Simplify Path](https://leetcode.com/problems/simplify-path)
+1. [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) 
