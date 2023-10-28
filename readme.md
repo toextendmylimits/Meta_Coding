@@ -320,3 +320,91 @@ Key observation is that the longest substring should consists characters that ap
 
 1. 973 K Closest Points to Origin  
 ***Use heap but should learn quick select later***
+
+1. 1570 Dot Product of Two Sparse Vectors
+Approach 1 - Save a list of index and value pairs for non zero element. If only one vector is sparse, apply binary search to find its idx  
+Approach 2 - Use hash map to store index and value   
+
+    <details>
+    
+      ```python
+      # Save a list of index and value pairs
+      class SparseVector:
+          def __init__(self, nums: List[int]):
+              self.nonZeroIdxVal = []
+              for i, n in enumerate(nums):
+                  self.nonZeroIdxVal.append((i, n))
+              
+              
+      
+          # Return the dotProduct of two sparse vectors
+          def dotProduct(self, vec: 'SparseVector') -> int:
+              result = 0
+              i = 0
+              j = 0
+              while i < len(self.nonZeroIdxVal) and j < len(vec.nonZeroIdxVal):
+                  ownIdxVal = self.nonZeroIdxVal[i]
+                  otherIdxVal = vec.nonZeroIdxVal[j]
+                  if ownIdxVal[0] == otherIdxVal[0]:
+                      result += ownIdxVal[1] * otherIdxVal[1]
+                      i += 1
+                      j += 1
+                  elif otherIdxVal[0] < otherIdxVal[0]:
+                      i += 1
+                  else:
+                      j += 1
+              
+              return result
+
+      # Binary Search
+      class SparseVector:
+          def __init__(self, nums: List[int]):
+              self.nonZeroIdxVal = []
+              for i, n in enumerate(nums):
+                  self.nonZeroIdxVal.append((i, n))
+              
+          def dotProduct(self, vec: 'SparseVector') -> int:
+              result = 0
+              if len(self.nonZeroIdxVal) > len(vec.nonZeroIdxVal):
+                  return vec.dotProduct(self.nonZeroIdxVal)        
+      
+              for i, idxVal in enumerate(self.nonZeroIdxVal):
+                  idx = self.__findIdx(vec.nonZeroIdxVal, idxVal[0])
+                  result += idxVal[1] * vec.nonZeroIdxVal[idx][1]
+              
+              return result
+          
+          def __findIdx(self, idxValList, idx):
+              left = 0
+              right = len(idxValList) - 1
+              while left <= right:
+                  mid = left + (right - left) // 2
+                  midIdxVal = idxValList[mid]
+                  if midIdxVal[0] == idx:
+                      return mid
+                  elif midIdxVal[0] < idx:
+                      left = mid + 1
+                  else:
+                      right -= 1
+              
+              return -1
+
+      # Use Hash map
+      class SparseVector:
+          def __init__(self, nums: List[int]):
+              self.nonZeroIdxValMap = {}
+              for i, num in enumerate(nums):
+                  if num != 0:
+                      self.nonZeroIdxValMap[i] = num
+              
+              
+      
+          # Return the dotProduct of two sparse vectors
+          def dotProduct(self, vec: 'SparseVector') -> int:
+              result = 0
+              for i, num in vec.nonZeroIdxValMap.items():
+                  if i in self.nonZeroIdxValMap:
+                      result += num * self.nonZeroIdxValMap[i]
+              return result      
+      ```
+   </details>  
