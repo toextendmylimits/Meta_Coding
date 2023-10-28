@@ -321,7 +321,7 @@ Key observation is that the longest substring should consists characters that ap
 1. 973 K Closest Points to Origin  
 ***Use heap but should learn quick select later***
 
-1. 1570 Dot Product of Two Sparse Vectors
+1. 1570 Dot Product of Two Sparse Vectors  
 Approach 1 - Save a list of index and value pairs for non zero element. If only one vector is sparse, apply binary search to find its idx  
 Approach 2 - Use hash map to store index and value   
 
