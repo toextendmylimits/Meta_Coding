@@ -415,3 +415,4 @@ Approach 2 - Use hash map to store index and value
 1. [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
 1. [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)   
 1. [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) 
+1. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) 
