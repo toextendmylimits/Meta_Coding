@@ -419,4 +419,5 @@ Approach 2 - Use hash map to store index and value
 1. [202. Happy Number](https://leetcode.com/problems/happy-number)
 1. [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)
 1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
-1. [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)  
+1. [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)
+1. [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) 
