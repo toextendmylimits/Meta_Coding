@@ -423,3 +423,4 @@ Approach 2 - Use hash map to store index and value
 1. [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) 
 1. [680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)
 1. [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
+1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
