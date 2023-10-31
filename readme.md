@@ -427,3 +427,4 @@ Approach 2 - Use hash map to store index and value
 1. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)
 1. [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)
 1. [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string) 
+1. [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings)
