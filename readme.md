@@ -425,3 +425,4 @@ Approach 2 - Use hash map to store index and value
 1. [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
 1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
 1. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)
+1. [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)
