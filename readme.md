@@ -434,3 +434,4 @@ Approach 2 - Use hash map to store index and value
 1. [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions)
 1. [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)
 1. [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
+1. [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) 
