@@ -436,4 +436,5 @@ Approach 2 - Use hash map to store index and value
 1. [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
 1. [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)
 1. [670. Maximum Swap](https://leetcode.com/problems/maximum-swap)
-1. [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)
+1. [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)  
+1. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)
