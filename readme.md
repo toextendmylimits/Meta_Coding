@@ -430,3 +430,4 @@ Approach 2 - Use hash map to store index and value
 1. [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings)
 1. [146. LRU Cache](https://leetcode.com/problems/lru-cache)
 1. [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation)  
+1. [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
