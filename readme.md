@@ -439,3 +439,4 @@ Approach 2 - Use hash map to store index and value
 1. [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)  
 1. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)  
 1. [401. Binary Watch](https://leetcode.com/problems/binary-watch)
+1. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  
