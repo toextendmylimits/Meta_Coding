@@ -441,3 +441,4 @@ Approach 2 - Use hash map to store index and value
 1. [401. Binary Watch](https://leetcode.com/problems/binary-watch)
 1. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 1. [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
+1. [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)
