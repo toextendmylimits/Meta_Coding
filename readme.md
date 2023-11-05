@@ -446,6 +446,7 @@ Approach 2 - Use hash map to store index and value
 1. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
 1. [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
 1. [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)
+1. [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) 
  
 # Not high-frequency
 1. [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one)
