@@ -444,6 +444,7 @@ Approach 2 - Use hash map to store index and value
 1. [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
 1. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+1. [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
  
 # Not high-frequency
 1. [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one) 
