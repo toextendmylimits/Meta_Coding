@@ -452,3 +452,5 @@ Approach 2 - Use hash map to store index and value
  
 # Difficult to work on later
 1. [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii)
+1. [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters), same as 316
+1. 
