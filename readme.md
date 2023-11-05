@@ -447,4 +447,7 @@ Approach 2 - Use hash map to store index and value
 1. [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
  
 # Not high-frequency
-1. [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one) 
+1. [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one)
+ 
+# Difficult to work on later
+1. [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii)
