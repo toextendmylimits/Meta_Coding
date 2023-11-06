@@ -6,4 +6,5 @@
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)        | YES                     | NO                    | No need to practice again    |
 | [1762 Buildings with an occean view](https://leetcode.com/problems/buildings-with-an-ocean-view)  | YES                 | YES                   | Need to practice solution using stack   |
 | [129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)            | YES                 | YES                   | Need to practice again   |
-| [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   | Need to practice again  |
+| [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   |                          |
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                            | YES                 | YES                   | Not 100% clear           |
