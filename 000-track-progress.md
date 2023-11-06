@@ -8,3 +8,4 @@
 | [129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)            | YES                 | YES                   | Need to practice again   |
 | [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   |                          |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                            | YES                 | YES                   | Not 100% clear           |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                        | YES                 | NO                    |                          |
