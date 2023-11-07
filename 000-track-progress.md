@@ -12,6 +12,7 @@
 | [1676. Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv) | YES                 |YES                   | Not 100% clear
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | YES                 |YES                   | Not 100% clear
 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | NO                 |YES                   | More practice
+| [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal) | YES                 |YES                   | Not 100% clear
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)            | YES                     | NO                    | No need to practice again 
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)       | YES                 | NO                   |                          |
 | [1762 Buildings with an occean view](https://leetcode.com/problems/buildings-with-an-ocean-view)  | YES                 | YES                   | Need to practice solution using stack   |                         
@@ -19,7 +20,7 @@
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                        | YES                 | YES                    | Not 100% clear               | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)       | YES                  | YES                  | Not 100% clear   
 | [1213. Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)       | YES                  | YES                  | Not 100% clear     
 | [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays)     | NO                  | YES                  | Not 100% clear
-| [202. Happy Number](https://leetcode.com/problems/happy-number)                                ç
+| [202. Happy Number](https://leetcode.com/problems/happy-number)                                
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)                  | YES                 | NO                    |                          |
 [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)                          | YES                  | NO                  |
 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)       | NO                  | YES                  | Practice two pointers, binary search 
