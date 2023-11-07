@@ -27,3 +27,4 @@
 |[680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)                   | YES                 | NO                    | very clear 
 |[1216. Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii)               | YES                 | YES                    | Still difficult, practice more
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)| YES                 | YES                    | Practice more
+| [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)     | YES                 | YES                    | Still difficult, practice more
