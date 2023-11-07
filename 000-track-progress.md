@@ -9,3 +9,4 @@
 | [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   |                          |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                            | YES                 | YES                   | Not 100% clear           |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                        | YES                 | NO                    |                          |
+| [34. Find First and Last Position of Element in Sorted Array]([https://leetcode.com/problems/merge-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/))                   | YES                 | NO                    |                          |
