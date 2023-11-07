@@ -1,12 +1,12 @@
 # Track progress starting on 6 Nov 2023
 | Question                                                                                      | Bug-free for first time | Need practice again | Note                         
-| ---------------------------------------------------------------------                         | ----------------------- |---------------------|------------------------------
-| [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)                         | YES                     | NO                    | No need to practice again    
+| ---------------------------------------------------------------------                         | ----------------------- |---------------------|------------------------------ 
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | YES                     | YES                   | Need to practice DFS    
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | YES                     | YES                   | Not very clear 
 | [129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)            | YES                 | YES                   | Need to practice again   
 | [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   | 
 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)                          | YES                 | YES                   | Need to practice again 
+| [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | YES                 |YES                   | Need to code concisely
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)            | YES                     | NO                    | No need to practice again 
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)       | YES                 | NO                   |                          |
 | [1762 Buildings with an occean view](https://leetcode.com/problems/buildings-with-an-ocean-view)  | YES                 | YES                   | Need to practice solution using stack   |                         
@@ -16,3 +16,4 @@
 | [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays)     | NO                  | YES                  | Not 100% clear
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)                  | YES                 | NO                    |                          |
 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)       | NO                  | YES                  | Practice two pointers, binary search 
+| [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)                         | YES                     | NO                    | No need to practice again   
