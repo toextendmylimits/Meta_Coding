@@ -24,6 +24,7 @@
 [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)                          | YES                  | NO                  |
 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)       | NO                  | YES                  | Practice two pointers, binary search 
 | [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)                         | YES                     | NO                    | No need to practice again   
+| [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation)           | YES                 | NO                    | very clear 
 |[680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)                   | YES                 | NO                    | very clear 
 |[1216. Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii)               | YES                 | YES                    | Still difficult, practice more
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)| YES                 | YES                    | Practice more
