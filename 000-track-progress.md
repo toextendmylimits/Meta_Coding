@@ -10,6 +10,7 @@
 | [1644. Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii) | YES                 | YES                   | Not 100% clear
 | [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | YES                 |YES                   | Need to code concisely
 | [1676. Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv) | YES                 |YES                   | Not 100% clear
+| [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | YES                 |YES                   | Not 100% clear
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)            | YES                     | NO                    | No need to practice again 
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)       | YES                 | NO                   |                          |
 | [1762 Buildings with an occean view](https://leetcode.com/problems/buildings-with-an-ocean-view)  | YES                 | YES                   | Need to practice solution using stack   |                         
