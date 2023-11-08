@@ -18,6 +18,7 @@
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)       | YES                 | NO                   |                          |
 | [1762 Buildings with an occean view](https://leetcode.com/problems/buildings-with-an-ocean-view)  | YES                 | YES                   | Need to practice solution using stack   |   
 |[71. Simplify Path](https://leetcode.com/problems/simplify-path)                                   | YES                 |YES                   | Not 100% clear
+|[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)                      | NO                 |YES                   | Very difficult
 |[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)  | YES                 | NO                   | 
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                            | YES                 | YES                   | Not 100% clear           
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                        | YES                 | YES                    | Not 100% clear               | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)       | YES                  | YES                  | Not 100% clear   
