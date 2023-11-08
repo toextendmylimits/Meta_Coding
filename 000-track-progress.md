@@ -22,6 +22,7 @@
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)                      | NO                 |YES                   | Very difficult
 [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions)       | NO                 |YES                   | Very difficult
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)                | NO                 |YES                   | Very difficult
+| [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)             | NO                 |YES                   | Very difficult
 |[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)  | YES                 | NO                   | 
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                            | YES                 | YES                   | Not 100% clear           
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                        | YES                 | YES                    | Not 100% clear               | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)       | YES                  | YES                  | Not 100% clear   
