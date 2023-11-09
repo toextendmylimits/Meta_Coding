@@ -29,7 +29,8 @@
 | [1213. Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)       | YES                  | YES                  | Not 100% clear     
 | [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays)     | NO                  | YES                  | Not 100% clear
 | [202. Happy Number](https://leetcode.com/problems/happy-number) 
-|[408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)    | YES                  | YES                  | Not 100% clear                          
+|[408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)    | YES                  | YES                  | Not 100% clear    
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)      | YES                  | YES                  | Not 100% clear                      
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)                  | YES                 | NO                    |                          |
 [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)                          | YES                  | NO                  |
 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)       | NO                  | YES                  | Practice two pointers, binary search 
