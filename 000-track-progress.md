@@ -44,3 +44,4 @@
 |[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)    | NO                 | YES                    | Still difficult, practice more
 |[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string)              | YES                 | NO                    | 
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings)        | NO                 | YES                    | Still difficult, practice more
+|[1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)| YES                 | YES                    | Still difficult, practice more
