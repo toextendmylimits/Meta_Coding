@@ -42,3 +42,5 @@
 |[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)        | YES                 | YES                    | Still difficult, practice more
 |[523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)    | YES                 | YES                    | Still difficult, practice more
 |[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)    | NO                 | YES                    | Still difficult, practice more
+|[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string)              | YES                 | NO                    | 
+|[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings)        | NO                 | YES                    | Still difficult, practice more
