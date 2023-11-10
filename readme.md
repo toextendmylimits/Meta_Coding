@@ -438,12 +438,10 @@ Approach 2 - Use hash map to store index and value
 1. [670. Maximum Swap](https://leetcode.com/problems/maximum-swap)
 1. [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)  
 1. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)  
-1. [401. Binary Watch](https://leetcode.com/problems/binary-watch)
 1. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 1. [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)
 1. [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
-1. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
 1. [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
 1. [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)
 1. [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
@@ -451,8 +449,10 @@ Approach 2 - Use hash map to store index and value
  
 # Not high-frequency
 1. [233. Number of Digit One](https://leetcode.com/problems/number-of-digit-one)
+1. [401. Binary Watch](https://leetcode.com/problems/binary-watch)
  
 # Difficult to work on later
+1. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
 1. [549. Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii)
 1. [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters), same as 316
 1. [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes)
