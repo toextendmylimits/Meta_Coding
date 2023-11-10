@@ -56,3 +56,4 @@
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)| NO                 | YES                    | Inorder is very difficult, practice more
 |[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)| NO                 | YES                    | Still difficult
 |[670. Maximum Swap](https://leetcode.com/problems/maximum-swap) | NO                 | YES                    | Still difficult, use list(str(num)) to convert string to digits
+|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | NO                 | YES                    | Beware to change flowerbed for spot used for planting
