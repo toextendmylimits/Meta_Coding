@@ -11,6 +11,7 @@
 | [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | YES                 |YES                   | Need to code concisely
 | [1676. Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv) | YES                 |YES                   | Not 100% clear
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | YES                 |YES                   | Not 100% clear
+| [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree) | YES                 |YES                   | Not 100% clear 
 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | NO                 |YES                   | More practice
 | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal) | YES                 |YES                   | Not 100% clear
 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | NO                 |YES                 |Difficult
