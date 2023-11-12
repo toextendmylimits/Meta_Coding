@@ -2,7 +2,7 @@
 | Question                                                                                      | Bug-free for second time | Need practice again | Note                         
 | ---------------------------------------------------------------------                         | ----------------------- |---------------------|------------------------------ 
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | NO                     | YES                   | Didn't check null when enqueuing, also work on DFS more   
-| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | YES                     | YES                   | Not very clear 
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | YES                     | NO                   | The key observation to make is: the longest path has to be between two leaf nodes 
 | [129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)            | YES                 | YES                   | Need to practice again   
 | [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   |  
 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)                          | YES                 | YES                   | Need to practice again 
