@@ -4,7 +4,7 @@
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | NO                     | YES                   | Didn't check null when enqueuing, also work on DFS more   
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | YES                     | NO                   | The key observation is: the longest path has to be between two leaf nodes 
 | [129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)            | NO                 | YES                   | Return wrong value for DFS 
-| [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   |  
+| [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   | Push node instead of value into stack. In method next, push left most children of popped item's right child.
 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)                          | YES                 | YES                   | Need to practice again 
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | YES                 | YES                   | Need to practice again  
 | [1644. Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii) | YES                 | YES                   | Not 100% clear
