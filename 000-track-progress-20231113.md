@@ -8,7 +8,7 @@
 | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)                          | YES                 | YES                   | Practice DFS again, also practice iterative way
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | YES                 | YES                   | Need to practice again  
 | [1644. Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii) | YES                 | YES                   | Not 100% clear
-| [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | YES                 |YES                   | Need to code concisely
+| [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) | NO                 |YES                   | Use parent not next as it's not a typical linked list
 | [1676. Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv) | YES                 |YES                   | Not 100% clear
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | YES                 |YES                   | Not 100% clear
 | [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree) | YES                 |YES                   | Not 100% clear 
