@@ -1,7 +1,7 @@
 # Track progress on 13 Nov 2023
 | Question                                                                                      | Bug-free for second time | Need practice again | Note                         
 | ---------------------------------------------------------------------                         | ----------------------- |---------------------|------------------------------ 
-| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | YES                     | YES                   | Need to practice DFS    
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | NO                     | YES                   | Didn't check null when enqueuing   
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | YES                     | YES                   | Not very clear 
 | [129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)            | YES                 | YES                   | Need to practice again   
 | [173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)      | NO                  | YES                   |  
