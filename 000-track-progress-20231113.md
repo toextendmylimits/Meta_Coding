@@ -25,7 +25,7 @@
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)                | NO                 |YES                   | Very difficult
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii)             | NO                 |YES                   | Very difficult
 |[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)  | YES                 | NO                   | 
-| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                            | YES                 | YES                   | Not 100% clear           
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                                            | NO                 | YES                   | Forget multiply x if n is odd        
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                        | YES                 | YES                    | Not 100% clear               | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)       | YES                  | YES                  | Not 100% clear   
 | [1213. Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)       | YES                  | YES                  | Not 100% clear     
 | [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays)     | NO                  | YES                  | Not 100% clear
