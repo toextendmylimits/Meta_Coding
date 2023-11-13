@@ -15,7 +15,7 @@
 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | YES                 |YES                   | More practice
 | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal) | NO                 |YES                   | Need to be extremely familiar
 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | NO                 |YES                 |Not very familiar
-| [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)                             | NO                 |YES                   | More practice
+| [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)                             | NO                 |YES                   | Still need more practice
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)            | YES                     | NO                    | No need to practice again 
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)       | YES                 | NO                   |                          |
 | [1762 Buildings with an occean view](https://leetcode.com/problems/buildings-with-an-ocean-view)  | YES                 | YES                   | Need to practice solution using stack   |   
