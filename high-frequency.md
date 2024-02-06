@@ -1,10 +1,10 @@
 # High frequency questions
 1. [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)
-2. [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)  
+1. [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)  
    Use Stack. Need to practice a few more times.
-4. [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)  
+1. [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)  
    Need to practice this a few times as well.
-5. [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)  
+1. [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)  
    Difficult. Need to go through this a few times.
-6. [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view)  
+1. [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view)  
    Need to practice both from right to left, and from left to right.
