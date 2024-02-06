@@ -6,3 +6,5 @@
    Need to practice this a few times as well.
 5. [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)  
    Difficult. Need to go through this a few times.
+6. [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view)  
+   Need to practice both from right to left, and from left to right.
