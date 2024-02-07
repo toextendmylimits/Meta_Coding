@@ -16,7 +16,14 @@
 1. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)
 1. [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  
    Should learn heap and quick select.
-   
+
    If there is time, I should check bucket sort as well.  
 1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
    Should learn how to not use stack later.  
+1. [71. Simplify Path](https://leetcode.com/problems/simplify-path)  
+   Remember to check whether stack is empty before popping
+   
+# Check Later
+1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
+   Should learn how to not use stack.  
+
