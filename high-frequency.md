@@ -9,3 +9,5 @@
 1. [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view)  
    Need to practice both from right to left, and from left to right.
 1. [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
+1. [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)
+   Save pairs of index and values. Use two pointer or binary search  
