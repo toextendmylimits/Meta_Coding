@@ -14,3 +14,5 @@
 1. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)  
    Need to practice a few more times.
 1. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)
+1. [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)  
+   Should learn heap and quick select.  
