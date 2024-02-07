@@ -18,3 +18,5 @@
    Should learn heap and quick select.
    
    If there is time, I should check bucket sort as well.  
+1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
+   Should learn how to not use stack later.  
