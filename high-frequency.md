@@ -12,4 +12,5 @@
 1. [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)  
    Save pairs of index and values. Use two pointer or binary search
 1. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)  
-   Need to practice a few more times.  
+   Need to practice a few more times.
+1. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight)
