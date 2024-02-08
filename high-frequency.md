@@ -27,7 +27,9 @@
 1. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 1. [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
 1. [50. Pow(x, n)](https://leetcode.com/problems/powx-n)
-1. [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)           
+1. [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)
+1. [670. Maximum Swap](https://leetcode.com/problems/maximum-swap)  
+   Check digits[i] >= digits[right]. Don't neglect the ==            
 # Check Later
 1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
    Should learn how to not use stack.  
