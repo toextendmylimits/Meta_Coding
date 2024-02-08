@@ -29,7 +29,9 @@
 1. [50. Pow(x, n)](https://leetcode.com/problems/powx-n)
 1. [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)
 1. [670. Maximum Swap](https://leetcode.com/problems/maximum-swap)  
-   Check digits[i] >= digits[right]. Don't neglect the ==            
+   Check digits[i] >= digits[right]. Don't neglect the ==    
+1. [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
+   
 # Check Later
 1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
    Should learn how to not use stack.  
