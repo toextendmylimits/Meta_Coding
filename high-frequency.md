@@ -24,7 +24,8 @@
    Remember to check whether stack is empty before popping
 1. [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)  
    Should practice a few more times. Make sure the condition check is super clear.
-   
+1. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+     
 # Check Later
 1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
    Should learn how to not use stack.  
