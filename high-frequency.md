@@ -42,6 +42,7 @@
 10. [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)
 11. [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)
 12. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
+13. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
    
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
