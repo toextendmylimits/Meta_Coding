@@ -32,6 +32,7 @@
    Check digits[i] >= digits[right]. Don't neglect the ==    
 1. [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
 2. [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+3. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)
    
 # Check Later
 1. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
