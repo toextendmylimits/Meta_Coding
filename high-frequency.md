@@ -37,6 +37,7 @@
 5. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 6. [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 7. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)
+8. [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
    
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
