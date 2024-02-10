@@ -35,6 +35,7 @@
 3. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)
 4. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 5. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+6. [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
    
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
