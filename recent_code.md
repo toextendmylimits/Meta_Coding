@@ -6,3 +6,4 @@
 5. [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view)
 6. [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 7. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+8. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)
