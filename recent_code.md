@@ -13,3 +13,11 @@
 12. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
     Follow up, k edit
 13. [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
+14. 給兩個相同長度的integer array, 分別表示從A城市到B城市每天去程和回程的票價. 要找出來回票價加總最便宜是多少,規定不能同天來回, 回程要在去程之後.
+舉例: departure=[10, 8, 9, 11, 7], arrival=[8, 8, 10, 7, 9], 那結果是15 (departure[1] + arrival[3] = 8 + 7 = 15)
+
+    代码见我的解答：https://www.1point3acres.com/bbs/thread-1044373-1-1.html
+16. [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string）
+    
+    代码见我的解答：https://www.1point3acres.com/bbs/thread-1044373-1-1.html
+
