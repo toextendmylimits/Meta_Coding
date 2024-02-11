@@ -9,3 +9,4 @@
 8. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)
 9. [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)
 10. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
+11. [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) 
