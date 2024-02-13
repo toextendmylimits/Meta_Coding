@@ -46,7 +46,8 @@
    
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
-2. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
+2. [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)  (Not use stack)
+3. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)  
    Should learn how to not use stack.  
 1. [224. Basic Calculator](https://leetcode.com/problems/basic-calculator)
 1. [65. Valid Number](https://leetcode.com/problems/valid-number)
