@@ -55,3 +55,4 @@
 1. [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word)
 2. [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)
 3. [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island)
+4. [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view) There are occean view from both sides
