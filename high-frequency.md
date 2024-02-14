@@ -58,3 +58,4 @@
 3. [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island)
 4. [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view) There are occean view from both sides
 5. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) Follow up: k edit. Use DP
+6. [398. Random Pick Index](https://leetcode.com/problems/random-pick-index)
