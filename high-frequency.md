@@ -59,3 +59,4 @@
 4. [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view) There are occean view from both sides
 5. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) Follow up: k edit. Use DP
 6. [398. Random Pick Index](https://leetcode.com/problems/random-pick-index)
+7. [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings)
