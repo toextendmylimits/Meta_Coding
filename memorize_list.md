@@ -14,3 +14,4 @@
    Use list(str(num)) to convert a number to string array. str(num).split() wouldn't really work.
 9. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) Learn quick select later.
 10. [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
+11. [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) Learn how to solve follow up questions later.
