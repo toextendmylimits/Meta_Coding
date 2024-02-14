@@ -61,3 +61,5 @@
 6. [398. Random Pick Index](https://leetcode.com/problems/random-pick-index)
 7. [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings)
 8. [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)
+9. [139. Word Break](https://leetcode.com/problems/word-break) Difficult
+10. [140. Word Break II](https://leetcode.com/problems/word-break-ii)
