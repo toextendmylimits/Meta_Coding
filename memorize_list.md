@@ -15,3 +15,4 @@
 9. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) Learn quick select later.
 10. [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 11. [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) Learn how to solve follow up questions later.
+12. [31. Next Permutation](https://leetcode.com/problems/next-permutation) Very difficult so just memorize the code
