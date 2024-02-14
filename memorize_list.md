@@ -6,3 +6,5 @@
    Should learn how to not use stack later.
 5. [71. Simplify Path](https://leetcode.com/problems/simplify-path)  
    Remember to check whether stack is empty before popping. Also check not empty string and not . before adding to stack
+6. [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
+   Practice DFS more. Also practice BFS approach
