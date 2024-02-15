@@ -22,4 +22,5 @@
     代码见我的解答：https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 17. 合并3个非递减数组，并且去掉重复。  
     和1213有点像，具体见我的解答：https://www.1point3acres.com/bbs/thread-1044373-1-1.html
+18. Check if an array can be sorted after one swap https://www.geeksforgeeks.org/check-if-array-can-be-sorted-with-one-swap/
 
