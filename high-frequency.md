@@ -47,7 +47,8 @@
 15. [15. 3Sum](https://leetcode.com/problems/3sum)
 16. [146. LRU Cache](https://leetcode.com/problems/lru-cache) Very familiar, but should have quick look as well.
 17. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) Very familiar. No need to practice again.
-18. [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) Very difficult. Practice more  
+18. [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) Very difficult. Practice more
+19. [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) May learn approach of O(1) space later
    
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
