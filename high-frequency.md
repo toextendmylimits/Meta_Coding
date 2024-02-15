@@ -52,6 +52,7 @@
 20. [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) Difficult. Discard intervals based on end time
 21. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) Difficult. More practice.
 22. [415. Add Strings](https://leetcode.com/problems/add-strings)
+23. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
    
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
