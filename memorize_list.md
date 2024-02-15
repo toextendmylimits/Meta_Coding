@@ -18,3 +18,4 @@
 12. [31. Next Permutation](https://leetcode.com/problems/next-permutation) Very difficult so just memorize the code
 13. [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) Very difficult. Practice more
 19. [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) May learn approach of O(1) space later
+20. [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) Difficult. Discard intervals based on end time
