@@ -53,6 +53,7 @@
 21. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) Difficult. More practice.
 22. [415. Add Strings](https://leetcode.com/problems/add-strings)
 23. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+24. [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe) Don't forget to check condition first before changing diagSum or antiDiagSum
    
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
