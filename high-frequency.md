@@ -73,3 +73,4 @@
 9. [139. Word Break](https://leetcode.com/problems/word-break) Difficult
 10. [140. Word Break II](https://leetcode.com/problems/word-break-ii)
 11. [15. 3Sum](https://leetcode.com/problems/3sum) Check no-sort later
+12. [1868. Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays)
