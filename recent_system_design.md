@@ -3,3 +3,10 @@
 2. 在instagram上加入auction/bidding的功能
 我畫的diagram如下面附圖,僅供參考
 https://www.1point3acres.com/bbs/thread-1044373-1-1.html
+3.  SD
+Ads aggregation
+这轮两个面试官， 应该是training。不计分， 答得不错
+4. 第二轮
+design yelp。很常见的题目，
+和面试官讨论了geohash 和quad tree的 pros
+and cons。因为mock过很多次这个design 所以答得不错
