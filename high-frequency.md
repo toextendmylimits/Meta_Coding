@@ -54,6 +54,12 @@
 22. [415. Add Strings](https://leetcode.com/problems/add-strings)
 23. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 24. [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe) Don't forget to check condition first before changing diagSum or antiDiagSum
+25. [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)  
+    Very difficult.   
+    for each even or odd diagonal, there are three cases:  
+        1. there is room to go that direction   
+        2. there is no row space to go further but there is col space   
+        3. there is no col space to go further but there is row space  
    
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
