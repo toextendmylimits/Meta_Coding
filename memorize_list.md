@@ -16,3 +16,5 @@
 10. [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 11. [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) Learn how to solve follow up questions later.
 12. [31. Next Permutation](https://leetcode.com/problems/next-permutation) Very difficult so just memorize the code
+13. [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) Very difficult. Practice more
+19. [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) May learn approach of O(1) space later
