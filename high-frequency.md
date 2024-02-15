@@ -60,7 +60,10 @@
         1. there is room to go that direction   
         2. there is no row space to go further but there is col space   
         3. there is no col space to go further but there is row space  
- 26. [200. Number of Islands](https://leetcode.com/problems/number-of-islands) Very familiar. Just a quick look  
+ 26. [200. Number of Islands](https://leetcode.com/problems/number-of-islands) Very familiar. Just a quick look
+ 27. [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) Easy. Quick look.
+
+
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
 2. [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)  (Not use stack)
