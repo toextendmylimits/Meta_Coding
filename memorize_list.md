@@ -27,3 +27,4 @@
         2. there is no row space to go further but there is col space   
         3. there is no col space to go further but there is row space 
 23. [133. Clone Graph](https://leetcode.com/problems/clone-graph)
+24. [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) Should practice more to be more clear.
