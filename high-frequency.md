@@ -67,6 +67,7 @@
  30. [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) Should practice more to be more clear.
  31. [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) A little difficult. Practice more.
  32. [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)
+ 33. [38. Count and Say](https://leetcode.com/problems/count-and-say)
 
 
 # Check Later
