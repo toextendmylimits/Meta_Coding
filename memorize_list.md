@@ -28,3 +28,4 @@
         3. there is no col space to go further but there is row space 
 23. [133. Clone Graph](https://leetcode.com/problems/clone-graph)
 24. [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) Should practice more to be more clear.
+25. [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) A little difficult. Practice more.
