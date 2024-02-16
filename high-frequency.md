@@ -90,3 +90,4 @@
 11. [15. 3Sum](https://leetcode.com/problems/3sum) Check no-sort later
 12. [1868. Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays)
 13. [721. Accounts Merge](https://leetcode.com/problems/accounts-merge)
+14. [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays)
