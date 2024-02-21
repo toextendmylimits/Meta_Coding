@@ -20,7 +20,7 @@
 19. [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) May learn approach of O(1) space later
 20. [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) Difficult. Discard intervals based on end time
 21. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) Difficult. More practice.
-22. [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)
+22. [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)  
     Refer https://leetcode.com/problems/diagonal-traverse/solutions/203060/java-solution-with-clear-explanation/  
     Very difficult.   
     for each even or odd diagonal, there are three cases:  
