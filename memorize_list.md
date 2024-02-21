@@ -20,13 +20,14 @@
 19. [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) May learn approach of O(1) space later
 20. [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) Difficult. Discard intervals based on end time
 21. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) Difficult. More practice.
-22. [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)  
+22. [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)
+    Refer https://leetcode.com/problems/diagonal-traverse/solutions/203060/java-solution-with-clear-explanation/  
     Very difficult.   
     for each even or odd diagonal, there are three cases:  
         1. there is room to go that direction   
         2. there is no row space to go further but there is col space   
         3. there is no col space to go further but there is row space 
-23. [133. Clone Graph](https://leetcode.com/problems/clone-graph)  
+24. [133. Clone Graph](https://leetcode.com/problems/clone-graph)  
     Difficult. Practice again.  
 
     Beware BFS, to always add neighbors regardless of whether the node has been copied before.   
