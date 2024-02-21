@@ -26,7 +26,10 @@
         1. there is room to go that direction   
         2. there is no row space to go further but there is col space   
         3. there is no col space to go further but there is row space 
-23. [133. Clone Graph](https://leetcode.com/problems/clone-graph)
-24. [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) Should practice more to be more clear.
-25. [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) A little difficult. Practice more.
-26. [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)
+23. [133. Clone Graph](https://leetcode.com/problems/clone-graph)  
+    Difficult. Practice again.  
+
+    Beware BFS, to always add neighbors regardless of whether the node has been copied before.   
+25. [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) Should practice more to be more clear.
+26. [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) A little difficult. Practice more.
+27. [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)
