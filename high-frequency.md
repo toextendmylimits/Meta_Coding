@@ -72,6 +72,7 @@
  35. [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
  36. [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
  37. [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/)
+ 38. [38. Count and Say](https://leetcode.com/problems/count-and-say)
 
 
 # Check Later
