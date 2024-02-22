@@ -35,3 +35,5 @@
 26. [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) A little difficult. Practice more.
 27. [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)  Difficult. Practice many more times.
 28. [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/) Practice more to write code bug-free.
+29. [38. Count and Say](https://leetcode.com/problems/count-and-say)  
+   Difficult. Practice a few more times. 
