@@ -37,3 +37,5 @@
 28. [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/) Practice more to write code bug-free.
 29. [38. Count and Say](https://leetcode.com/problems/count-and-say)  
    Difficult. Practice a few more times. 
+30. [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)
+     Extremely difficult. Memorize the code. Refer https://leetcode.com/problems/stickers-to-spell-word/solutions/108333/rewrite-of-contest-winner-s-solution/
