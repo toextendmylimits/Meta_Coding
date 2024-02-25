@@ -80,7 +80,7 @@
 41. [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)
 42. [65. Valid Number](https://leetcode.com/problems/valid-number)
 43. [139. Word Break](https://leetcode.com/problems/word-break/) Very difficult. Just memorize it
-
+44. [140. Word Break II](https://leetcode.com/problems/word-break-ii/) Backtrack
 # Check Later
 1. [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)
 2. [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)  (Not use stack)
@@ -104,4 +104,4 @@
 13. [721. Accounts Merge](https://leetcode.com/problems/accounts-merge)
 14. [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays)
 15. [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point)
-16. [65. Valid Number](https://leetcode.com/problems/valid-number)
+
