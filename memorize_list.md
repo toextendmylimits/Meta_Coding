@@ -48,3 +48,4 @@
   Only 2 steps:
     1. Explore every island using DFS, count its area, give it an island index and save the result to a {index: area} map.
     1. Loop every cell == 0, check its connected islands and calculate total islands area.
+36. [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)
