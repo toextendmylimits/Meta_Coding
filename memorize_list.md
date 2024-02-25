@@ -44,6 +44,7 @@
 33. [139. Word Break](https://leetcode.com/problems/word-break/) Very difficult. Just memorize it
 34. [140. Word Break II](https://leetcode.com/problems/word-break-ii/) Backtrack
 35. [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island)  
+    https://leetcode.com/problems/making-a-large-island/solutions/127032/c-java-python-straight-forward-o-n-2-with-explanations/  
   Only 2 steps:
     1. Explore every island using DFS, count its area, give it an island index and save the result to a {index: area} map.
     1. Loop every cell == 0, check its connected islands and calculate total islands area.
