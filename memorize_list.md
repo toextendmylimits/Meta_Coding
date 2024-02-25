@@ -42,3 +42,4 @@
 31. [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)
 32. [65. Valid Number](https://leetcode.com/problems/valid-number) Very difficult.
 33. [139. Word Break](https://leetcode.com/problems/word-break/) Very difficult. Just memorize it
+34. [140. Word Break II](https://leetcode.com/problems/word-break-ii/) Backtrack
