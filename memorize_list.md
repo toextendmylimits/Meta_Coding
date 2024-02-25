@@ -41,3 +41,4 @@
      Extremely difficult. Memorize the code. Refer https://leetcode.com/problems/stickers-to-spell-word/solutions/108333/rewrite-of-contest-winner-s-solution/
 31. [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)
 32. [65. Valid Number](https://leetcode.com/problems/valid-number) Very difficult.
+33. [139. Word Break](https://leetcode.com/problems/word-break/) Very difficult. Just memorize it
