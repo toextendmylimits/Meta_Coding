@@ -45,5 +45,5 @@
 34. [140. Word Break II](https://leetcode.com/problems/word-break-ii/) Backtrack
 35. [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island)  
   Only 2 steps:
-    i. Explore every island using DFS, count its area, give it an island index and save the result to a {index: area} map.
-    i. Loop every cell == 0, check its connected islands and calculate total islands area.
+    1. Explore every island using DFS, count its area, give it an island index and save the result to a {index: area} map.
+    1. Loop every cell == 0, check its connected islands and calculate total islands area.
