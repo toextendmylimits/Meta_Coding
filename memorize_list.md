@@ -44,7 +44,7 @@
 31. [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)
 32. [65. Valid Number](https://leetcode.com/problems/valid-number)  
    Very difficult. Refer https://leetcode.com/problems/valid-number/solutions/23942/ac-java-solution-with-clear-explanation/  
-34. [139. Word Break](https://leetcode.com/problems/word-break/) Very difficult. Just memorize it
+34. [139. Word Break](https://leetcode.com/problems/word-break/) Very difficult. Just memorize it. Refer approach 5
 35. [140. Word Break II](https://leetcode.com/problems/word-break-ii/) Backtrack
 36. [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island)  
     https://leetcode.com/problems/making-a-large-island/solutions/127032/c-java-python-straight-forward-o-n-2-with-explanations/  
