@@ -106,4 +106,5 @@
 13. [721. Accounts Merge](https://leetcode.com/problems/accounts-merge)
 14. [689. Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays)
 15. [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point)
+16. [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings)
 
