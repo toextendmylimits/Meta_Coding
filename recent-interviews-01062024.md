@@ -65,7 +65,9 @@
 * Ads click aggregation
 * Proximity
 * Youtube
-  Refer important link https://www.1point3acres.com/bbs/thread-1067711-1-1.html  
+  Refer important link https://www.1point3acres.com/bbs/thread-1067711-1-1.html
+1. Design Instagram post photos, get feed, follow/unfollow user  
+   https://www.1point3acres.com/bbs/thread-1067696-1-1.html
 1. detect fraud information  
    https://www.1point3acres.com/bbs/thread-1068267-1-1.html
 ## BQ
