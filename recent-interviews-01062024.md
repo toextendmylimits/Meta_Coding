@@ -5,3 +5,6 @@
 
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
+
+## BQ
+1. BQ: 常规问题。自豪项目，conflict
