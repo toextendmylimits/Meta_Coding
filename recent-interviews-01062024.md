@@ -44,6 +44,9 @@
    第一题解答见 https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
+2. 设计news feed API  
+   https://www.1point3acres.com/bbs/thread-1068372-1-1.html
 
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
+2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
