@@ -21,6 +21,21 @@
 10. 43 Multiply Strings
 11. 48 Rotate Image
 12. 54 Spiral Matrix
+13. 323 Number of Connected Components in an Undirected Graph
+1. 79 Word Search
+2. 939 Minimum Area Rectangle
+3. 350 Intersection of Two Arrays II
+4. 224 Basic Calculator
+5. 1356 Sort Integers by The Number of 1 Bits
+6. 5 Longest Palindromic Substring
+7. 46 Permutations
+8. 1041 Robot Bounded In Circle
+9. 456 132 Pattern
+10. 1944 Number of Visible People in a Queue
+11. 549 Binary Tree Longest Consecutive Sequence II
+12. 21 Merge Two Sorted Lists
+13. 983 Minimum Cost For Tickets
+14. 124 Binary Tree Maximum Path Sum
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
