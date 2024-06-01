@@ -46,6 +46,9 @@
    Should think how to expand to k (which will be a follow up), then also mention 1216. Valid Palindrome III if possible
 1. 437 Path Sum III
     https://www.1point3acres.com/bbs/thread-1068242-1-1.html
+1. 133 Clone Graph
+2. 71 Simplify Path  
+   https://www.1point3acres.com/bbs/thread-1067772-1-1.html
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
