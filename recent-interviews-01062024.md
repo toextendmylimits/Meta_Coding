@@ -8,7 +8,10 @@
     仪器而已稍有不同，是指定两个node的位置，比如交换第二个和第三个，这俩位置作为input的一部分  
     其他的题差不多的  
     面试官是国人，年级比较大的面试官，可能没有紧跟近期的面经吧   
-    https://www.1point3acres.com/bbs/thread-1068970-1-1.html   
+    https://www.1point3acres.com/bbs/thread-1068970-1-1.html
+1. 138 Copy List with Random Pointer
+2. 140 Word Break II
+3. 270 Closest Binary Search Tree Value
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
