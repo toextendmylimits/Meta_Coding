@@ -49,7 +49,8 @@
 1. 133 Clone Graph
 2. 71 Simplify Path  
    https://www.1point3acres.com/bbs/thread-1067772-1-1.html
-1. 23 Merge k Sorted Lists
+1. 1047 Remove All Adjacent Duplicates In String
+2. 23 Merge k Sorted Lists
   https://www.1point3acres.com/bbs/thread-1067616-1-1.html
 1. 236 Lowest Common Ancestor of a Binary Tree
 ## System Design
