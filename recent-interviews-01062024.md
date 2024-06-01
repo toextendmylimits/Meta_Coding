@@ -42,6 +42,10 @@
    https://www.1point3acres.com/bbs/thread-1069124-1-1.html
 
    第一题解答见 https://www.1point3acres.com/bbs/thread-1044373-1-1.html
+1. 680 Valid Palindrome II 
+   Should think how to expand to k (which will be a follow up), then also mention 1216. Valid Palindrome III if possible
+1. 437 Path Sum III
+    https://www.1point3acres.com/bbs/thread-1068242-1-1.html
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
