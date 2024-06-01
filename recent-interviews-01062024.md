@@ -12,6 +12,8 @@
 1. 138 Copy List with Random Pointer
 2. 140 Word Break II
 3. 270 Closest Binary Search Tree Value
+4. 273 Integer to English Words
+5. 277 Find the Celebrity
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
