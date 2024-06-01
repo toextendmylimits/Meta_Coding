@@ -36,6 +36,7 @@
 12. 21 Merge Two Sorted Lists
 13. 983 Minimum Cost For Tickets
 14. 124 Binary Tree Maximum Path Sum
+15. 7 Reverse Integer
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -72,8 +73,11 @@
   Refer important link https://www.1point3acres.com/bbs/thread-1067711-1-1.html
 1. Design Instagram post photos, get feed, follow/unfollow user  
    https://www.1point3acres.com/bbs/thread-1067696-1-1.html
+1. SD (product track): Design a chess game, 要求可以撤回上一步  
+   https://www.1point3acres.com/bbs/thread-1067280-1-1.html
 1. detect fraud information  
    https://www.1point3acres.com/bbs/thread-1068267-1-1.html
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
+3. Failure/proud/conflict when right/conflict when wrong/push back/Feedback/Difficult colleague/Incomplete info
