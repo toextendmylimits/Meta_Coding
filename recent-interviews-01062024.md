@@ -55,6 +55,16 @@
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
    https://www.1point3acres.com/bbs/thread-1068372-1-1.html
+1. * Live comment
+* Leetcode coding contest website
+* Presence indicator
+* Ins bidding
+*‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ News feed
+* Dropbox
+* Ads click aggregation
+* Proximity
+* Youtube
+  Refer important link https://www.1point3acres.com/bbs/thread-1067711-1-1.html  
 1. detect fraud information  
    https://www.1point3acres.com/bbs/thread-1068267-1-1.html
 ## BQ
