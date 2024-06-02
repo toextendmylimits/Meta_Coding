@@ -119,6 +119,8 @@
 2. 938 Range Sum of BST
 3. 283 Move Zeroes
 4. 200 Number of Islands
+5. 1762 Buildings With an Ocean View
+6. 408 Valid Word Abbreviation
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
