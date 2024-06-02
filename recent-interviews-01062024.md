@@ -93,6 +93,9 @@
 1. 33 Search in Rotated Sorted Array
 2. 499 The Maze III  
    https://www.1point3acres.com/bbs/thread-1066706-1-1.html
+1. 65 Valid Number
+2. 227 Basic Calculator II， 224 Basic Calculator， 772 Basic Calculator III
+3. 19 Remove Nth Node From End of List
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
