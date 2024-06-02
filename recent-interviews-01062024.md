@@ -36,6 +36,8 @@
 12. 21 Merge Two Sorted Lists
 13. 983 Minimum Cost For Tickets
 14. 124 Binary Tree Maximum Path Sum
+15. 1762 Buildings With an Ocean View
+16. 408 Valid Word Abbreviation
 ### 根据面经自己整理的
 16. 7 Reverse Integer
 17. 160 Intersection of Two Linked Lists
