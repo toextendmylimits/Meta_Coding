@@ -107,7 +107,7 @@
 7. 528 Random Pick with Weight
 8. 146 LRU Cache
 9. 162 Find Peak Element 要会写brute force solution
-10. 827 Making A Large Island
+10. 827 Making A Large Island 写完巴尔其又回去问能不能优化 因为就剩10分钟 聊了bin‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ary search的解就开始问问题了
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
