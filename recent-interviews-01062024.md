@@ -103,7 +103,7 @@
 5. 339 Nested List Weight Sum
 6. 88 Merge Sorted Array
 7. 528 Random Pick with Weight
-8. 
+8. 146 LRU Cache
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
