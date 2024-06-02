@@ -49,6 +49,7 @@
 2.  207 Course Schedule  
     followup是有没有别的做法，复杂度是什么  
     https://www.1point3acres.com/bbs/thread-1067172-1-1.html
+1.  739 Daily Temperatures
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -85,6 +86,11 @@
 1. 1650 Lowest Common Ancestor of a Binary Tree III
 2. 347 Top K Frequent Elements
    https://www.1point3acres.com/bbs/thread-1067090-1-1.html
+1. 498 Diagonal Traverse  
+   第一题对角线遍历矩阵，不需要改变方向。也就是简化版的死酒吧  
+   https://www.1point3acres.com/bbs/thread-1066750-1-1.html
+1. 346 Moving Average from Data Stream
+
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -107,9 +113,11 @@
 1. detect fraud information  
    https://www.1point3acres.com/bbs/thread-1068267-1-1.html
 1. Design Spotify
-2. System Design Product：Ticketmaster for cinemas https://www.1point3acres.com/bbs/thread-1067076-1-1.html  
+2. System Design Product：Ticketmaster for cinemas https://www.1point3acres.com/bbs/thread-1067076-1-1.html
+3. Product Architecture Design: design dropbox. 全程drive对话，自己说哪里是bottleneck，如何解决，面试官的问题都回答上了，后期dive in主要着重于how to chunk large file in detail, get updated file list 的时候如何提高performance，get updated file list的时候有什么edge case吗，如何解决。面试官最后looking very good。
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
 3. Failure/proud/conflict when right/conflict when wrong/push back/Feedback/Difficult colleague/Incomplete info
 4. proud proj, chanllenge, conflict, bias for action, useful feedback
+5. hardest replatiship，conflict, what did you learn from your tech lead, what do you want to improve?
