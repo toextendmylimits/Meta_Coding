@@ -52,7 +52,9 @@
 1.  739 Daily Temperatures
 2.  - calculator变种， 表达式只有加法和乘法， 商量了一下能不能用stack做，被拒绝了，要求constant space，最后写完口头跑test的时候发现有点bug
 1.  1541 Minimum Insertions to Balance a Parentheses String
-2.  1443 Minimum Time to Collect All Apples in a Tree    
+2.  1443 Minimum Time to Collect All Apples in a Tree
+3.  30 Substring with Concatenation of All Words   简化版的伞领，只用判断string是不是concatenation
+4.  895 Maximum Frequency Stack
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -101,9 +103,11 @@
 3. 19 Remove Nth Node From End of List
 4. 543 Diameter of Binary Tree
 5. 339 Nested List Weight Sum
-6. 88 Merge Sorted Array
+6. 88 Merge Sorted Array 要求跳过duplicates
 7. 528 Random Pick with Weight
 8. 146 LRU Cache
+9. 162 Find Peak Element 要会写brute force solution
+10. 827 Making A Large Island
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -115,6 +119,7 @@
 * Ins bidding
 *‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ News feed
 * Dropbox
+  SD: design ‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍google drive
 * Ads click aggregation
 * Proximity
   设计一个nearby live event的推荐系统
