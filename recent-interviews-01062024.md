@@ -132,6 +132,8 @@
 第二个SD是status查询，重点是考察怎么建索引要搜索更高效。
    Target E6  
   https://www.1point3acres.com/bbs/thread-1066514-1-1.html  
+1.  SD： 设计关键词搜索服务
+ 
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
