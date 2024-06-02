@@ -73,6 +73,15 @@
    被问了点乘最优解 又写了个index存list的，一开始用的hashmap。  
    https://www.1point3acres.com/bbs/thread-1067270-1-1.html
 1. 1249 Minimum Remove to Make Valid Parentheses
+1. 332 Reconstruct Itinerary
+   第一題是332簡化版, 不用考慮重複的機票
+3. 根据字符顺利把字符串排序  
+  Input words = ["cat", "bat", "tab"]  
+  Input Alphabet = ["c", "b", "a", "t"]  
+  Output: True  
+  順序是c<b<a<b  
+  所以cat<bat<tab  
+  https://www.1point3acres.com/bbs/thread-1067091-1-1.html  
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
