@@ -101,6 +101,9 @@
 3. 19 Remove Nth Node From End of List
 4. 543 Diameter of Binary Tree
 5. 339 Nested List Weight Sum
+6. 88 Merge Sorted Array
+7. 528 Random Pick with Weight
+8. 
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
