@@ -50,6 +50,8 @@
     followup是有没有别的做法，复杂度是什么  
     https://www.1point3acres.com/bbs/thread-1067172-1-1.html
 1.  739 Daily Temperatures
+2.  - calculator变种， 表达式只有加法和乘法， 商量了一下能不能用stack做，被拒绝了，要求constant space，最后写完口头跑test的时候发现有点bug
+      
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -96,6 +98,7 @@
 1. 65 Valid Number
 2. 227 Basic Calculator II， 224 Basic Calculator， 772 Basic Calculator III
 3. 19 Remove Nth Node From End of List
+4. 543 Diameter of Binary Tree
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -120,9 +123,14 @@
 1. Design Spotify
 2. System Design Product：Ticketmaster for cinemas https://www.1point3acres.com/bbs/thread-1067076-1-1.html
 3. Product Architecture Design: design dropbox. 全程drive对话，自己说哪里是bottleneck，如何解决，面试官的问题都回答上了，后期dive in主要着重于how to chunk large file in detail, get updated file list 的时候如何提高performance，get updated file list的时候有什么edge case吗，如何解决。面试官最后looking very good。
+4. 第一个SD是爬虫，有一些限定条件，比如说一万台机器，尽可能让每台机器的load evenly distributed。这道题做了非常多的back of envelope calculation，要计算 different instance types handling different types of work，应该是比较贴近production的一道题。
+第二个SD是status查询，重点是考察怎么建索引要搜索更高效。
+   Target E6  
+  https://www.1point3acres.com/bbs/thread-1066514-1-1.html  
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
 3. Failure/proud/conflict when right/conflict when wrong/push back/Feedback/Difficult colleague/Incomplete info
 4. proud proj, chanllenge, conflict, bias for action, useful feedback
 5. hardest replatiship，conflict, what did you learn from your tech lead, what do you want to improve?
+6. BQ都是常规问题，most proud project/conflict resolution/g‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍rowth area/make quick decision/etc。
