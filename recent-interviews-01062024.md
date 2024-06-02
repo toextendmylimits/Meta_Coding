@@ -125,6 +125,8 @@
 2. System Design Product：Ticketmaster for cinemas https://www.1point3acres.com/bbs/thread-1067076-1-1.html
 3. Product Architecture Design: design dropbox. 全程drive对话，自己说哪里是bottleneck，如何解决，面试官的问题都回答上了，后期dive in主要着重于how to chunk large file in detail, get updated file list 的时候如何提高performance，get updated file list的时候有什么edge case吗，如何解决。面试官最后looking very good。
 4. 第一个SD是爬虫，有一些限定条件，比如说一万台机器，尽可能让每台机器的load evenly distributed。这道题做了非常多的back of envelope calculation，要计算 different instance types handling different types of work，应该是比较贴近production的一道题。
+
+ 爬虫 照着alex xu的材料答出来了，deep dive了一部分，但这个题目还有个限制条件，降低带宽使用，毛子指着我设计一个部分问有没啥问题，我说了bottleneck，他点点头，然后就接‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍着design了
 第二个SD是status查询，重点是考察怎么建索引要搜索更高效。
    Target E6  
   https://www.1point3acres.com/bbs/thread-1066514-1-1.html  
