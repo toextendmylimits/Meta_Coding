@@ -81,13 +81,17 @@
   Output: True  
   順序是c<b<a<b  
   所以cat<bat<tab  
-  https://www.1point3acres.com/bbs/thread-1067091-1-1.html  
+  https://www.1point3acres.com/bbs/thread-1067091-1-1.html
+1. 1650 Lowest Common Ancestor of a Binary Tree III
+2. 347 Top K Frequent Elements
+   https://www.1point3acres.com/bbs/thread-1067090-1-1.html
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
    https://www.1point3acres.com/bbs/thread-1068372-1-1.html
 1. * Live comment
-* Leetcode coding contest website
+* Leetcode coding contest website  
+  hackerrank 比赛系统 加一个全局用户分数排序https://www.1point3acres.com/bbs/thread-1067090-1-1.html
 * Presence indicator
 * Ins bidding
 *‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ News feed
@@ -107,3 +111,4 @@
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
 3. Failure/proud/conflict when right/conflict when wrong/push back/Feedback/Difficult colleague/Incomplete info
+4. proud proj, chanllenge, conflict, bias for action, useful feedback
