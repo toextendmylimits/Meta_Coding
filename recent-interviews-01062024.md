@@ -154,6 +154,8 @@
    Target E6  
   https://www.1point3acres.com/bbs/thread-1066514-1-1.html  
 1.  SD： 设计关键词搜索服务
+2.  SD 1： 设计hotel booking system。hotel得confirm预定，得pull availability等等  
+    SD 2： 设计leetcode
  
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
