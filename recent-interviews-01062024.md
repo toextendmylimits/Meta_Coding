@@ -114,6 +114,7 @@
     return any valid space split string: 'hello world how are you doing'.  
 
 1. 560 Subarray Sum Equals K，523 Continuous Subarray Sum， 类似523， 更简单，只要找是否有一个sub array和为target。 pre sum.
+2. 938 Range Sum of BST
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
