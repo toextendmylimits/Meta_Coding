@@ -51,7 +51,8 @@
     https://www.1point3acres.com/bbs/thread-1067172-1-1.html
 1.  739 Daily Temperatures
 2.  - calculator变种， 表达式只有加法和乘法， 商量了一下能不能用stack做，被拒绝了，要求constant space，最后写完口头跑test的时候发现有点bug
-1.  1541 Minimum Insertions to Balance a Parentheses String      
+1.  1541 Minimum Insertions to Balance a Parentheses String
+2.  1443 Minimum Time to Collect All Apples in a Tree    
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -99,6 +100,7 @@
 2. 227 Basic Calculator II， 224 Basic Calculator， 772 Basic Calculator III
 3. 19 Remove Nth Node From End of List
 4. 543 Diameter of Binary Tree
+5. 339 Nested List Weight Sum
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
