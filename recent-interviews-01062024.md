@@ -108,6 +108,12 @@
 8. 146 LRU Cache
 9. 162 Find Peak Element 要会写brute force solution
 10. 827 Making A Large Island 写完巴尔其又回去问能不能优化 因为就剩10分钟 聊了bin‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ary search的解就开始问问题了
+11. 140. Word Break II
+    简易版只返回其中一个string  
+    input: (str, words): like str='helloworldhowareyoudoing', words=['hello','world','are','you','how','doing','good']  
+    return any valid space split string: 'hello world how are you doing'.  
+
+1. 560 Subarray Sum Equals K，523 Continuous Subarray Sum， 类似523， 更简单，只要找是否有一个sub array和为target。 pre sum.
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
