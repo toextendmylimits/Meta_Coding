@@ -72,6 +72,7 @@
 1. 1570 Dot Product of Two Sparse Vectors  
    被问了点乘最优解 又写了个index存list的，一开始用的hashmap。  
    https://www.1point3acres.com/bbs/thread-1067270-1-1.html
+1. 1249 Minimum Remove to Make Valid Parentheses
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -92,6 +93,7 @@
    https://www.1point3acres.com/bbs/thread-1067280-1-1.html
 1. detect fraud information  
    https://www.1point3acres.com/bbs/thread-1068267-1-1.html
+1. Design Spotify
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
