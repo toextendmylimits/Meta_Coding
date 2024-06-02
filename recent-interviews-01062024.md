@@ -36,7 +36,15 @@
 12. 21 Merge Two Sorted Lists
 13. 983 Minimum Cost For Tickets
 14. 124 Binary Tree Maximum Path Sum
-15. 7 Reverse Integer
+### 根据面经自己整理的
+16. 7 Reverse Integer
+17. 160 Intersection of Two Linked Lists
+18. 有点像leetcode interval intersection list 但是找的是union  
+    https://www.1point3acres.com/bbs/thread-1067273-1-1.html
+1.  121 Best Time to Buy and Sell Stock
+2.  140. Word Break II  
+    要四零 （这道题我写出来之后加问了如果dictionary很长如何优化：经提示修改了code，答案如下：先把input dictionary list存成一个dictionary，举个例子 如果given string是 “abcd” 那么可能的word是 [a,ab,abc,abcd] 看一下是否在dictionary 里面 再按照愿题的方法dfs）  
+    https://www.1point3acres.com/bbs/thread-1067273-1-1.html   
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
