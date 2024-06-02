@@ -90,7 +90,9 @@
    第一题对角线遍历矩阵，不需要改变方向。也就是简化版的死酒吧  
    https://www.1point3acres.com/bbs/thread-1066750-1-1.html
 1. 346 Moving Average from Data Stream
-
+1. 33 Search in Rotated Sorted Array
+2. 499 The Maze III  
+   https://www.1point3acres.com/bbs/thread-1066706-1-1.html
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
