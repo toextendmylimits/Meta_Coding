@@ -60,6 +60,9 @@
 5.  merge 3 sorted list. expand into merge k sorted list
 6.  71 Simplify Path 实现cd。两个input， 一个current dir 一个cd 的dir， output cd之后的dir, 无 follow up
 7. 227 Basic Calculator II 简化版，只有加和乘。口头说了stack 方法和最优解O(N)/O(1) 方法，最后写了最优解， 无follow up。
+8. 1091 Shortest Path in Binary Matrix 要output path吗？backtracking instead of bfs
+9. 第一轮 LC 1249 Minimum Remove to Make Valid parentheses Follow up: LC 301 remove invalid parenth‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eses
+10. 435 Non-overlapping Intervals
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -125,11 +128,14 @@
 5. 1762 Buildings With an Ocean View
 6. 408 Valid Word Abbreviation
 7. 65 Valid Number 没有e的变体。follow up: 有e的情况 （就是原题了）
-8. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
-9. 1004 Max Consecutive Ones III
-10. 314 Binary Tree Vertical Order Traversal
-11. 109 Convert Sorted List to Binary Search Tree
-12. 987 Vertical Order Traversal of a Binary Tree
+8. 986 Interval List Intersections
+9. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
+10. 1004 Max Consecutive Ones III
+11. 314 Binary Tree Vertical Order Traversal
+12. 109 Convert Sorted List to Binary Search Tree
+13. 987 Vertical Order Traversal of a Binary Tree
+14. 38 Count and Say
+15. 31 Next Permutation
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
