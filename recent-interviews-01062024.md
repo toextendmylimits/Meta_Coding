@@ -155,6 +155,8 @@
 21. 1091 Shortest Path in Binary Matrix 要output path吗？backtracking instead of bfs
 22. 282 Expression Add Operators Refer https://www.1point3acres.com/bbs/thread-1061734-1-1.html
 23. 346 Moving Average from Data Stream
+24. 9 380 Insert Delete GetRandom O(1)
+25. 215 Kth Largest Element in an Array 要写Quick Select
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -202,6 +204,11 @@
 需要返回当前整个游戏的top N player、当前用户的前后N个player
 返回当前用户朋友的top N player、当前用户朋友的前后N个playe
 6. ads click/view event aggregation and query
+7. 3 design没复习到 是设计一个auction system。 用户可以view current bid price 然就可以bid with higher price。 主要问了如果bid at same price 怎么解决c‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍onflict。以及怎么scale一个很hot的auction。https://www.1point3acres.com/bbs/thread-1061421-1-1.html
+8. 2）国人小哥sd （infra），简单自我介绍： 然后设计有点像wechat status 的功能， 加了个search 的requirement。 国人小哥非常nice and patient。 有constant feedback并且非常direct 的说他想聊一些什么。非常感谢。
+
+https://www.1point3acres.com/bbs/thread-1060947-1-1.html
+
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
