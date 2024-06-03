@@ -128,6 +128,8 @@
 8. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
 9. 1004 Max Consecutive Ones III
 10. 314 Binary Tree Vertical Order Traversal
+11. 109 Convert Sorted List to Binary Search Tree
+12. 987 Vertical Order Traversal of a Binary Tree
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
