@@ -110,7 +110,7 @@
 2. 227 Basic Calculator II， 224 Basic Calculator， 772 Basic Calculator III
 3. 19 Remove Nth Node From End of List
 4. 543 Diameter of Binary Tree
-5. 339 Nested List Weight Sum 有followup问如何implement NestedInteger class
+5. 339 Nested List Weight Sum 有followup问如何implement NestedInteger class https://www.1point3acres.com/bbs/thread-1063191-1-1.html
 6. 88 Merge Sorted Array 要求跳过duplicates
 7. 528 Random Pick with Weight
 8. 146 LRU Cache
