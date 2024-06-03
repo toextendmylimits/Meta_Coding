@@ -57,6 +57,9 @@
 2.  1443 Minimum Time to Collect All Apples in a Tree
 3.  30 Substring with Concatenation of All Words   简化版的伞领，只用判断string是不是concatenation
 4.  895 Maximum Frequency Stack
+5.  merge 3 sorted list. expand into merge k sorted list
+6.  71 Simplify Path 实现cd。两个input， 一个current dir 一个cd 的dir， output cd之后的dir, 无 follow up
+7. 227 Basic Calculator II 简化版，只有加和乘。口头说了stack 方法和最优解O(N)/O(1) 方法，最后写了最优解， 无follow up。
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -91,7 +94,7 @@
   所以cat<bat<tab  
   https://www.1point3acres.com/bbs/thread-1067091-1-1.html
 1. 1650 Lowest Common Ancestor of a Binary Tree III
-2. 347 Top K Frequent Elements
+2. 347 Top K Frequent Elements 学习QuickSelect if time permitted
    https://www.1point3acres.com/bbs/thread-1067090-1-1.html
 1. 498 Diagonal Traverse  
    第一题对角线遍历矩阵，不需要改变方向。也就是简化版的死酒吧  
@@ -121,6 +124,10 @@
 4. 200 Number of Islands
 5. 1762 Buildings With an Ocean View
 6. 408 Valid Word Abbreviation
+7. 65 Valid Number 没有e的变体。follow up: 有e的情况 （就是原题了）
+8. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
+9. 1004 Max Consecutive Ones III
+10. 314 Binary Tree Vertical Order Traversal
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
