@@ -145,6 +145,9 @@
 17. 199 Binary Tree Right Side View 需要会写DFS
 18. 332 Reconstruct Itinerary 散散儿简化版（需要跟面试官clarify 简化后就是medium难度）
 19. 1161 Maximum Level Sum of a Binary Tree
+20. 第二道是随机返回数组中任一最大值的index，two pass秒了。问有没有one pass的方法，描述了一下没有让写代码。
+
+    https://www.1point3acres.com/bbs/thread-1062135-1-1.html说是经典的蓄水池算法
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
