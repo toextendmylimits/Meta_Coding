@@ -124,8 +124,9 @@
 7. 528 Random Pick with Weight
 8. 146 LRU Cache
 9. 162 Find Peak Element 要会写brute force solution
-10. 827 Making A Large Island 写完巴尔其又回去问能不能优化 因为就剩10分钟 聊了bin‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ary search的解就开始问问题了
-11. 140. Word Break II
+    一溜儿变种，要求找local minimum
+11. 827 Making A Large Island 写完巴尔其又回去问能不能优化 因为就剩10分钟 聊了bin‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ary search的解就开始问问题了
+12. 140. Word Break II
     简易版只返回其中一个string  
     input: (str, words): like str='helloworldhowareyoudoing', words=['hello','world','are','you','how','doing','good']  
     return any valid space split string: 'hello world how are you doing'.  
@@ -157,6 +158,8 @@
 23. 346 Moving Average from Data Stream
 24. 9 380 Insert Delete GetRandom O(1)
 25. 215 Kth Largest Element in an Array 要写Quick Select
+26. 266 Palindrome Permutation
+27. 62 Unique Paths
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -208,7 +211,7 @@
 8. 2）国人小哥sd （infra），简单自我介绍： 然后设计有点像wechat status 的功能， 加了个search 的requirement。 国人小哥非常nice and patient。 有constant feedback并且非常direct 的说他想聊一些什么。非常感谢。
 
 https://www.1point3acres.com/bbs/thread-1060947-1-1.html
-
+9. ticketmaster
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
