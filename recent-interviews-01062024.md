@@ -150,6 +150,8 @@
 20. 第二道是随机返回数组中任一最大值的index，two pass秒了。问有没有one pass的方法，描述了一下没有让写代码。
 
     https://www.1point3acres.com/bbs/thread-1062135-1-1.html说是经典的蓄水池算法
+21. 1091 Shortest Path in Binary Matrix 要output path吗？backtracking instead of bfs
+22. 282 Expression Add Operators Refer https://www.1point3acres.com/bbs/thread-1061734-1-1.html
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -173,6 +175,9 @@
    https://www.1point3acres.com/bbs/thread-1067280-1-1.html
 1. detect fraud information  
    https://www.1point3acres.com/bbs/thread-1068267-1-1.html
+
+   detect copyright-violated video。
+   https://www.1point3acres.com/bbs/thread-1061882-1-1.html
 1. Design Spotify
 2. System Design Product：Ticketmaster for cinemas https://www.1point3acres.com/bbs/thread-1067076-1-1.html
 3. Product Architecture Design: design dropbox. 全程drive对话，自己说哪里是bottleneck，如何解决，面试官的问题都回答上了，后期dive in主要着重于how to chunk large file in detail, get updated file list 的时候如何提高performance，get updated file list的时候有什么edge case吗，如何解决。面试官最后looking very good。
