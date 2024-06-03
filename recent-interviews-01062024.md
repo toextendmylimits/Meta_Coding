@@ -79,7 +79,7 @@
 1. 133 Clone Graph
 2. 71 Simplify Path  
    https://www.1point3acres.com/bbs/thread-1067772-1-1.html
-1. 1047 Remove All Adjacent Duplicates In String
+1. 1047 Remove All Adjacent Duplicates In String 第二题  衣领思琪变种  需要消除所有的相同的  abbbac => aac =>c https://www.1point3acres.com/bbs/thread-1061528-1-1.html
 2. 23 Merge k Sorted Lists
   https://www.1point3acres.com/bbs/thread-1067616-1-1.html
 1. 236 Lowest Common Ancestor of a Binary Tree
@@ -152,6 +152,7 @@
     https://www.1point3acres.com/bbs/thread-1062135-1-1.html说是经典的蓄水池算法
 21. 1091 Shortest Path in Binary Matrix 要output path吗？backtracking instead of bfs
 22. 282 Expression Add Operators Refer https://www.1point3acres.com/bbs/thread-1061734-1-1.html
+23. 346 Moving Average from Data Stream
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
