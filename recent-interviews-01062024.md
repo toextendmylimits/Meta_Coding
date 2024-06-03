@@ -64,6 +64,8 @@
 9. 第一轮 LC 1249 Minimum Remove to Make Valid parentheses Follow up: LC 301 remove invalid parenth‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eses
 10. 435 Non-overlapping Intervals
 11. 找不到题号 大概题意就是让sort一个数组 已知每一个元素离它的sorted position距离不超过k https://www.geeksforgeeks.org/nearly-sorted-algorithm/
+12. 480 Sliding Window Median
+13. 1209 Remove All Adjacent Duplicates in String II
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -137,7 +139,7 @@
 9. Facebook | Merge two interval lists https://leetcode.com/discuss/interview-question/124616/
 10. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
 11. 1004 Max Consecutive Ones III
-12. 314 Binary Tree Vertical Order Traversal
+12. 314 Binary Tree Vertical Order Traversal 也要看下DFS怎么做的，因为followup可能会问到
 13. 109 Convert Sorted List to Binary Search Tree
 14. 987 Vertical Order Traversal of a Binary Tree
 15. 38 Count and Say
