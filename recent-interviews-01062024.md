@@ -63,6 +63,7 @@
 8. 1091 Shortest Path in Binary Matrix 要output path吗？backtracking instead of bfs
 9. 第一轮 LC 1249 Minimum Remove to Make Valid parentheses Follow up: LC 301 remove invalid parenth‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eses
 10. 435 Non-overlapping Intervals
+11. 找不到题号 大概题意就是让sort一个数组 已知每一个元素离它的sorted position距离不超过k https://www.geeksforgeeks.org/nearly-sorted-algorithm/
 ## 电面
 1. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
@@ -88,7 +89,11 @@
    https://www.1point3acres.com/bbs/thread-1067270-1-1.html
 1. 1249 Minimum Remove to Make Valid Parentheses
 1. 332 Reconstruct Itinerary
-   第一題是332簡化版, 不用考慮重複的機票
+   第一題是332簡化版, 不用考慮重複的機票。
+
+   大概就是有且只有一个正确答案，但起点不告诉你 https://www.1point3acres.com/bbs/thread-1062380-3-1.html
+
+   有可能像 2097 Valid Arrangement of Pairs。参考上面链接里的评论
 3. 根据字符顺利把字符串排序  
   Input words = ["cat", "bat", "tab"]  
   Input Alphabet = ["c", "b", "a", "t"]  
@@ -129,13 +134,17 @@
 6. 408 Valid Word Abbreviation
 7. 65 Valid Number 没有e的变体。follow up: 有e的情况 （就是原题了）
 8. 986 Interval List Intersections 变形 Union two non- overlapping interval list
-9. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
-10. 1004 Max Consecutive Ones III
-11. 314 Binary Tree Vertical Order Traversal
-12. 109 Convert Sorted List to Binary Search Tree
-13. 987 Vertical Order Traversal of a Binary Tree
-14. 38 Count and Say
-15. 31 Next Permutation
+9. Facebook | Merge two interval lists https://leetcode.com/discuss/interview-question/124616/
+10. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
+11. 1004 Max Consecutive Ones III
+12. 314 Binary Tree Vertical Order Traversal
+13. 109 Convert Sorted List to Binary Search Tree
+14. 987 Vertical Order Traversal of a Binary Tree
+15. 38 Count and Say
+16. 31 Next Permutation
+17. 199 Binary Tree Right Side View 需要会写DFS
+18. 332 Reconstruct Itinerary 散散儿简化版（需要跟面试官clarify 简化后就是medium难度）
+19. 1161 Maximum Level Sum of a Binary Tree
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -171,7 +180,15 @@
 1.  SD： 设计关键词搜索服务
 2.  SD 1： 设计hotel booking system。hotel得confirm预定，得pull availability等等  
     SD 2： 设计leetcode
- 
+3. top k song 要搞明白是整体上还是只针对个人 https://www.1point3acres.com/bbs/thread-1062907-1-1.html
+4. 第三轮：system design
+设计一个streaming service
+需要支持video play、recommendation、subscription
+5. 第五轮：system design
+设计一个gaming leaderboard
+需要返回当前整个游戏的top N player、当前用户的前后N个player
+返回当前用户朋友的top N player、当前用户朋友的前后N个playe
+6. ads click/view event aggregation and query
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
