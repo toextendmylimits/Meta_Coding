@@ -216,3 +216,4 @@ https://www.1point3acres.com/bbs/thread-1060947-1-1.html
 4. proud proj, chanllenge, conflict, bias for action, useful feedback
 5. hardest replatiship，conflict, what did you learn from your tech lead, what do you want to improve?
 6. BQ都是常规问题，most proud project/conflict resolution/g‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍rowth area/make quick decision/etc。
+7. 行为：骄傲的项目，push back别人，通过实验验证自己的观点从而推动项目的例子，别人给你不好的feedback你是怎么改善/提升自己的
