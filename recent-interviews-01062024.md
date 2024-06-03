@@ -110,7 +110,7 @@
 2. 227 Basic Calculator II， 224 Basic Calculator， 772 Basic Calculator III
 3. 19 Remove Nth Node From End of List
 4. 543 Diameter of Binary Tree
-5. 339 Nested List Weight Sum
+5. 339 Nested List Weight Sum 有followup问如何implement NestedInteger class
 6. 88 Merge Sorted Array 要求跳过duplicates
 7. 528 Random Pick with Weight
 8. 146 LRU Cache
@@ -128,7 +128,7 @@
 5. 1762 Buildings With an Ocean View
 6. 408 Valid Word Abbreviation
 7. 65 Valid Number 没有e的变体。follow up: 有e的情况 （就是原题了）
-8. 986 Interval List Intersections
+8. 986 Interval List Intersections 变形 Union two non- overlapping interval list
 9. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
 10. 1004 Max Consecutive Ones III
 11. 314 Binary Tree Vertical Order Traversal
