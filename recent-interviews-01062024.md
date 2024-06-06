@@ -139,9 +139,9 @@
 5. 1762 Buildings With an Ocean View
 6. 408 Valid Word Abbreviation
 7. 65 Valid Number 没有e的变体。follow up: 有e的情况 （就是原题了）
-8. 986 Interval List Intersections 变形 Union two non- overlapping interval list
-9. Facebook | Merge two interval lists https://leetcode.com/discuss/interview-question/124616/
-10. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/
+8. 986 Interval List Intersections 变形 Union two non- overlapping interval list   
+   Facebook | Merge two interval lists https://leetcode.com/discuss/interview-question/124616/   
+   56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/   
 11. 1004 Max Consecutive Ones III
 12. 314 Binary Tree Vertical Order Traversal 也要看下DFS怎么做的，因为followup可能会问到
 13. 109 Convert Sorted List to Binary Search Tree
