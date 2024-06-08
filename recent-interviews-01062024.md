@@ -158,7 +158,6 @@
     https://www.1point3acres.com/bbs/thread-1062135-1-1.html说是经典的蓄水池算法
 21. 1091 Shortest Path in Binary Matrix 要output path吗？backtracking instead of bfs
 22. 282 Expression Add Operators Refer https://www.1point3acres.com/bbs/thread-1061734-1-1.html
-23. 346 Moving Average from Data Stream
 24. 9 380 Insert Delete GetRandom O(1)
 25. 215 Kth Largest Element in an Array 要写Quick Select
 26. 266 Palindrome Permutation
