@@ -68,7 +68,7 @@
 12. 480 Sliding Window Median
 13. 1209 Remove All Adjacent Duplicates in String II
 ## 电面
-1. 109. Convert Sorted List to Binary Search Tree https://www.1point3acres.com/bbs/thread-1070386-1-1.html
+1. 109 Convert Sorted List to Binary Search Tree https://www.1point3acres.com/bbs/thread-1070386-1-1.html
 2. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
    第二题是给两个BST，输出排序后的数组，要求不能‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍递归要用栈  
    https://www.1point3acres.com/bbs/thread-1069124-1-1.html
