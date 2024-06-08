@@ -119,7 +119,7 @@
 1. 33 Search in Rotated Sorted Array
 2. 499 The Maze III  
    https://www.1point3acres.com/bbs/thread-1066706-1-1.html
-1. 65 Valid Number
+1. 65 Valid Number 没有e的变体。follow up: 有e的情况 （就是原题了）
 2. 227 Basic Calculator II， 224 Basic Calculator， 772 Basic Calculator III
 3. 19 Remove Nth Node From End of List
 4. 543 Diameter of Binary Tree
@@ -141,7 +141,6 @@
 4. 200 Number of Islands
 5. 1762 Buildings With an Ocean View
 6. 408 Valid Word Abbreviation
-7. 65 Valid Number 没有e的变体。follow up: 有e的情况 （就是原题了）
 8. 986 Interval List Intersections 变形 Union two non- overlapping interval list   
    Facebook | Merge two interval lists https://leetcode.com/discuss/interview-question/124616/   
    56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/   
