@@ -111,7 +111,8 @@
 1. 1650 Lowest Common Ancestor of a Binary Tree III
 2. 347 Top K Frequent Elements 学习QuickSelect if time permitted
    https://www.1point3acres.com/bbs/thread-1067090-1-1.html
-1. 498 Diagonal Traverse  
+1. 1424 Diagonal Traverse II
+2. 498 Diagonal Traverse  
    第一题对角线遍历矩阵，不需要改变方向。也就是简化版的死酒吧  
    https://www.1point3acres.com/bbs/thread-1066750-1-1.html
 1. 346 Moving Average from Data Stream
