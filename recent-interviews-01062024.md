@@ -214,6 +214,7 @@ https://www.1point3acres.com/bbs/thread-1060947-1-1.html
 9. ticketmaster  
 10. System Design 1: Online chess gaming platform + leaderboard
 11. System Design 2: Hacker version Web crawler  
+    第二轮就有些惨了，面试官是个华人小伙，一上来就很严肃，我主动问好他也不接，直接上题。题也是很奇怪，说假如我是一个黑客，黑进一个有10K台机器的一个公司，这10K个机器通过internet互相连接，无本地连接，然后我要用这些机器去爬一个超大型网站的网页，注意只需要爬一个domain的，然后要求尽量减少机器之间的traffic，问怎么设计。我在题意理解上就出了问题，我以为这个超大网站就在这个10K台机器上，所以设计的是单机的爬虫，后来时间过了大半才明白这个网站跟这10K台机器无关。最后这一轮基本上是惨不忍睹的  
     https://www.1point3acres.com/bbs/thread-1070595-1-1.html
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
