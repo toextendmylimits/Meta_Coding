@@ -210,8 +210,11 @@
 7. 3 design没复习到 是设计一个auction system。 用户可以view current bid price 然就可以bid with higher price。 主要问了如果bid at same price 怎么解决c‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍onflict。以及怎么scale一个很hot的auction。https://www.1point3acres.com/bbs/thread-1061421-1-1.html
 8. 2）国人小哥sd （infra），简单自我介绍： 然后设计有点像wechat status 的功能， 加了个search 的requirement。 国人小哥非常nice and patient。 有constant feedback并且非常direct 的说他想聊一些什么。非常感谢。
 
-https://www.1point3acres.com/bbs/thread-1060947-1-1.html
-9. ticketmaster
+https://www.1point3acres.com/bbs/thread-1060947-1-1.html  
+9. ticketmaster  
+10. System Design 1: Online chess gaming platform + leaderboard
+11. System Design 2: Hacker version Web crawler  
+    https://www.1point3acres.com/bbs/thread-1070595-1-1.html
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
