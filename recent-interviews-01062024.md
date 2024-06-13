@@ -75,6 +75,8 @@
 11. 找不到题号 大概题意就是让sort一个数组 已知每一个元素离它的sorted position距离不超过k https://www.geeksforgeeks.org/nearly-sorted-algorithm/
 12. 480 Sliding Window Median
 13. 1209 Remove All Adjacent Duplicates in String II
+14. Merging Distinct Elements from Two Sorted Arrays https://www.1point3acres.com/bbs/thread-1060301-1-1.html
+15. 691. Stickers to Spell Word 高频
 ## 电面
 1. 109 Convert Sorted List to Binary Search Tree https://www.1point3acres.com/bbs/thread-1070386-1-1.html
 2. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
@@ -151,8 +153,10 @@
 5. 1762 Buildings With an Ocean View
 6. 408 Valid Word Abbreviation
 8. 986 Interval List Intersections 变形 Union two non- overlapping interval list   
-   Facebook | Merge two interval lists https://leetcode.com/discuss/interview-question/124616/   
-   56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/   
+   Facebook | Merge two interval lists https://leetcode.com/discuss/interview-question/124616/
+   https://leetcode.com/discuss/interview-question/883800/facebook-phone-merge-sorted-arrays-merge-two-sorted-interval-lists   
+10. 56 Merge Intervals follow up: 不用sort() 怎么写， 我用的heap, 小哥表示ok https://leetcode.com/problems/merge-intervals/solutions/1338834/python-2-solutions-heap-sort-clean-concise/   
+  
 11. 1004 Max Consecutive Ones III
 12. 314 Binary Tree Vertical Order Traversal 也要看下DFS怎么做的，因为followup可能会问到
 13. 109 Convert Sorted List to Binary Search Tree
@@ -169,6 +173,24 @@
 25. 215 Kth Largest Element in an Array 要写Quick Select
 26. 266 Palindrome Permutation
 27. 62 Unique Paths
+28. 958 Check Completeness of a Binary Tree
+29. 317 Shortest Distance from All Buildings
+30. 1060 Missing Element in Sorted Array
+31. 921 Minimum Add to Make Parentheses Valid
+32. 494 Target Sum
+33. 43 Multiply Strings
+34. 1382 Balance a Binary Search Tree
+35. 124 Binary Tree Maximum Path Sum
+36. 1213 Intersection of Three Sorted Arrays 要想一下如何求并集
+37. 65 Valid Number 好像是陆吾 简化版，不考虑e，当时不记得做过这个题，临时做的，遗漏了一些case,提示下改好了 高频
+38. 636 Exclusive Time of Functions 高频
+39. 1539 Kth Missing Positive Number 高频
+40. 219. Contains Duplicate II 高频
+41. 14 Longest Common Prefix 高频
+42. 16 3Sum Closest
+43. 18 4Sum
+44. 64 Minimum Path Sum
+45. 708  Insert into a Sorted Circular Linked List 高频
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -190,7 +212,7 @@
   Refer important link https://www.1point3acres.com/bbs/thread-1067711-1-1.html
 1. Design Instagram post photos, get feed, follow/unfollow user  
    https://www.1point3acres.com/bbs/thread-1067696-1-1.html
-1. SD (product track): Design a chess game, 要求可以撤回上一步  
+1. SD (product track): Design a chess game, 要求可以撤回上一步  chess带leaderboard， 主要问了game service里可以撤回上一步要怎么设计， leaderboard怎么设计
    https://www.1point3acres.com/bbs/thread-1067280-1-1.html
 1. detect fraud information  
    https://www.1point3acres.com/bbs/thread-1068267-1-1.html
@@ -227,6 +249,10 @@ https://www.1point3acres.com/bbs/thread-1060947-1-1.html
 11. System Design 2: Hacker version Web crawler  
     第二轮就有些惨了，面试官是个华人小伙，一上来就很严肃，我主动问好他也不接，直接上题。题也是很奇怪，说假如我是一个黑客，黑进一个有10K台机器的一个公司，这10K个机器通过internet互相连接，无本地连接，然后我要用这些机器去爬一个超大型网站的网页，注意只需要爬一个domain的，然后要求尽量减少机器之间的traffic，问怎么设计。我在题意理解上就出了问题，我以为这个超大网站就在这个10K台机器上，所以设计的是单机的爬虫，后来时间过了大半才明白这个网站跟这10K台机器无关。最后这一轮基本上是惨不忍睹的  
     https://www.1point3acres.com/bbs/thread-1070595-1-1.html
+12. SD: 设计google map中，选择一个地点，可以拖拽看到周围街景的那个功能。主要问了问怎么hash longtitude/latitude，看看alex xu绿皮书Google map那一章会有帮助。以及如何降低latency，如何存储image等等。
+13. metrics monitoring
+14. 设计metric monitering系统，但是面的时候比较注重考察metric collecting的那部分
+metrics是engagement metric like tapping， 然后问了 fetching/querying (showing in UI dash-board)
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
@@ -235,3 +261,9 @@ https://www.1point3acres.com/bbs/thread-1060947-1-1.html
 5. hardest replatiship，conflict, what did you learn from your tech lead, what do you want to improve?
 6. BQ都是常规问题，most proud project/conflict resolution/g‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍rowth area/make quick decision/etc。
 7. 行为：骄傲的项目，push back别人，通过实验验证自己的观点从而推动项目的例子，别人给你不好的feedback你是怎么改善/提升自己的
+8. 8. // tell me 某个failure或做的不好的，然后 if you did it again, how would you do it differently
+// experience that someone values it differently, and cause the delay
+// limited time line (hard time line)
+// how to priority stuffs/tasks, experience that handle different‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ tasks
+// different opinions (persuade other, by persuade by others),
+// turn out other one was right
