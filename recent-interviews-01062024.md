@@ -176,7 +176,9 @@
 1. * Live comment
 * Leetcode coding contest website  
   hackerrank 比赛系统 加一个全局用户分数排序https://www.1point3acres.com/bbs/thread-1067090-1-1.html
-* Presence indicator
+* Presence indicator  
+  然后设计有点像wechat status 的功能， 加了个search 的requirement。 国人小哥非常nice and patient。 有constant feedback并且非常direct 的说他想聊一些什么。非常感谢。  
+  https://www.1point3acres.com/bbs/thread-1060947-1-1.html  
 * Ins bidding  是设计一个auction system。 用户可以view current bid price 然就可以bid with higher price。 主要问了如果bid at same pric‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍e 怎么解决conflict。以及怎么scale一个很hot的auction。
 *‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ News feed
 * Dropbox
