@@ -1,5 +1,5 @@
 # Recent interviews as 01/06/2024 
-一亩三分地面经看到2个月前，Page 10
+一亩三分地面经看到2个月前，Page 21
 ## Coding
 1. 62 Unique Paths   
   Need to output path
@@ -191,6 +191,17 @@
 43. 18 4Sum
 44. 64 Minimum Path Sum
 45. 708  Insert into a Sorted Circular Linked List 高频
+46. 207 Course Schedule 高频
+47. 155 Min Stack
+48. 8 String to Integer (atoi)
+49. 50 pow 考虑 n 为INT_MIN时溢出 https://www.1point3acres.com/bbs/thread-1055257-1-1.html
+50. Find the number of occurrences of an element in a sorted array https://leetcode.com/discuss/interview-question/124724/
+51. 给一个array[1,3,2,5,7,9,4,8], 和window size K=3， output average of every other element in window as an array, in this case [1, 8/3 , 3, 14/3, 11/3, 17/3], 一开始想了暴力解法 O(n^2); 后来用了两个presum O(n) 搞定 https://www.1point3acres.com/bbs/thread-1054982-1-1.html
+52. 415 Add Strings 高频
+53. 39 Combination Sum, 40 Combination Sum II
+54. 253 Meeting Rooms II 高频
+55. 127 Word Ladder
+56. Find largest subtree sum in a binary tree https://www.1point3acres.com/bbs/thread-1054551-1-1.html
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
