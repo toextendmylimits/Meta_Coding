@@ -39,10 +39,15 @@
 14. 124 Binary Tree Maximum Path Sum
 15. 1762 Buildings With an Ocean View
 16. 408 Valid Word Abbreviation
+17. 
 ### 根据面经自己整理的
 1. basic calculator 只有加和乘，但是要做成costant time不能用stack
 2. closest point to all buildings
    https://www.1point3acres.com/bbs/thread-1071180-1-1.html
+1. 249 Group Shifted Strings
+2.  1091 Shortest Path in Binary Matrix 输出路径
+3.  680 Valid Palindrome II
+4.  65 Valid Number
 16. 7 Reverse Integer
 17. 160 Intersection of Two Linked Lists
 18. 有点像leetcode interval intersection list 但是找的是union  
@@ -115,7 +120,7 @@
 1. 1650 Lowest Common Ancestor of a Binary Tree III
 2. 347 Top K Frequent Elements 学习QuickSelect if time permitted
    https://www.1point3acres.com/bbs/thread-1067090-1-1.html
-1. 1424 Diagonal Traverse II
+1. 1424 Diagonal Traverse II 研究O（1）space as well
 2. 498 Diagonal Traverse  
    第一题对角线遍历矩阵，不需要改变方向。也就是简化版的死酒吧  
    https://www.1point3acres.com/bbs/thread-1066750-1-1.html
@@ -172,7 +177,7 @@
 * Leetcode coding contest website  
   hackerrank 比赛系统 加一个全局用户分数排序https://www.1point3acres.com/bbs/thread-1067090-1-1.html
 * Presence indicator
-* Ins bidding
+* Ins bidding  是设计一个auction system。 用户可以view current bid price 然就可以bid with higher price。 主要问了如果bid at same pric‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍e 怎么解决conflict。以及怎么scale一个很hot的auction。
 *‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ News feed
 * Dropbox
   SD: design ‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍google drive
