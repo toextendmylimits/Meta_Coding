@@ -40,6 +40,9 @@
 15. 1762 Buildings With an Ocean View
 16. 408 Valid Word Abbreviation
 ### 根据面经自己整理的
+1. basic calculator 只有加和乘，但是要做成costant time不能用stack
+2. closest point to all buildings
+   https://www.1point3acres.com/bbs/thread-1071180-1-1.html
 16. 7 Reverse Integer
 17. 160 Intersection of Two Linked Lists
 18. 有点像leetcode interval intersection list 但是找的是union  
