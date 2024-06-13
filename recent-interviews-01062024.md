@@ -81,6 +81,7 @@
 1. 133 Clone Graph
 2. 71 Simplify Path  
    https://www.1point3acres.com/bbs/thread-1067772-1-1.html
+   两个input， 一个current dir 一个cd 的dir， output cd之后的dir, 无 follow up
 1. 1047 Remove All Adjacent Duplicates In String 第二题  衣领思琪变种  需要消除所有的相同的  abbbac => aac =>c https://www.1point3acres.com/bbs/thread-1061528-1-1.html
 
    参考 https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/
