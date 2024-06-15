@@ -202,6 +202,12 @@
 54. 253 Meeting Rooms II 高频
 55. 127 Word Ladder
 56. Find largest subtree sum in a binary tree https://www.1point3acres.com/bbs/thread-1054551-1-1.html
+57. 129  Sum Root to Leaf Numbers 高频 root-to-leaf的path上有多个负数的话：如果负数的个数是奇数，这个path就被当作负数，是偶数个的话就被当作正数 https://www.1point3acres.com/bbs/thread-1054478-1-1.html
+58. Addition of String Numbers https://leetcode.com/discuss/interview-question/551052/facebook-phone-enterprise-engineer-addition-of-string-numbers
+59. 350 Intersection of Two Arrays II
+60. 138 Copy List with Random Pointer 高频 掌握O（1）space写法
+61. 708. Insert into a Sorted Circular Linked List 高频
+
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -278,3 +284,6 @@ metrics是engagement metric like tapping， 然后问了 fetching/querying (show
 // how to priority stuffs/tasks, experience that handle different‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍ tasks
 // different opinions (persuade other, by persuade by others),
 // turn out other one was right
+
+## 很有用的资料
+https://www.1point3acres.com/bbs/thread-1053340-1-1.html讲了很多系统设计的资料
