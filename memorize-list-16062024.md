@@ -6,4 +6,5 @@
 | 249. Group Shifted Strings | Need practice more.
 | 65. Valid Number | Difficult
 | 670. Maximum Swap | Difficult
+| 636. Exclusive Time of Functions | 
 
