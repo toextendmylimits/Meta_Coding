@@ -207,7 +207,20 @@
 59. 350 Intersection of Two Arrays II
 60. 138 Copy List with Random Pointer 高频 掌握O（1）space写法
 61. 708. Insert into a Sorted Circular Linked List 高频
-
+62. 1522 Diameter of N-Ary Tree
+63. 给一组数，给了个范围，求missing value组，value是一个range的话输出需要破折号。target O(k)给一组数，给了个范围，求missing value组，value是一个range的话输出需要破折号。target O(k)
+64. 给一组数，求最大两数sum，要求两数不相邻。target O(N)。https://www.1point3acres.com/bbs/thread-1052356-1-1.html
+65. 4 Median of Two Sorted Arrays 稍微高频
+66. 73 Set Matrix Zeroes 要熟练掌握
+67. 29 Divide Two Integers 比较难，有时间时再掌握
+68. Check if each node in a binary tree is the average of all its children
+69. 2265 Count Nodes Equal to Average of Subtree
+70. 寻找数组中的每个数字的能够找到从左边最接近的较小数字 比如：输入的[3,4,2,7,4,5] 需要输出[-1,3,-1,2,2,4]. 类似删除括号的题目用stack来做。 不过刚开始的时候没看懂-1的出处，经过进一步跟面试官确认才知道原来要‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍求如果没有找到结果，就返回-1.原题目中没有出现，遇到的话可以跟面试官进一步的确认 https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/ https://www.1point3acres.com/bbs/thread-1051542-1-1.html
+71. 66 Plus One 容易，应该熟练掌握
+72. 合并两个‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍有序数组，要求合并后不能有重复 https://www.1point3acres.com/bbs/thread-1050945-1-1.html
+73. 310. Minimum Height Tree
+74. 一溜二 - 变体，找 local min 但定义是小于"等于"邻居，而且 array 中可以有 duplicate 邻居，用 binary search 做，我自己觉得跟原题应该做法没区别，因为 <= 所以即使有相同的邻居也无妨，但面试官似乎觉得我的做法有 bug ... 讨论了一下他说不能跟我说更多了就 move on 第二题了 https://www.1point3acres.com/bbs/thread-1050777-1-1.html
+75. 五二吧 - 原题，用 binary search 做完之后问了要怎么测试，我说可以跑个 1000 次看分布是不是跟想要的probability 一样，面试官说太 flaky，我说那我把 function 拆成 prefix sum + random + binary search 的部分然后给除了random 之外的两个部分写 unit test，面试官似乎还是没有很满意，但就没继续说下去了
 ## System Design
 1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
 2. 设计news feed API  
@@ -270,6 +283,9 @@ https://www.1point3acres.com/bbs/thread-1060947-1-1.html
 13. metrics monitoring
 14. 设计metric monitering系统，但是面的时候比较注重考察metric collecting的那部分
 metrics是engagement metric like tapping， 然后问了 fetching/querying (showing in UI dash-board)
+metrics是engagement metric like tapping， 然后问了 fetching/querying (showing in UI dash-board)
+15. wikipedia crawler，需要crawl url exact once, 以及distribute load to clusterwikipedia crawler，需要crawl url exact once, 以及distribute load to cluster https://www.1point3acres.com/bbs/thread-1052293-1-1.html
+
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
