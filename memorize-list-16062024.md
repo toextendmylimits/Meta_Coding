@@ -8,4 +8,6 @@
 | 670. Maximum Swap | Difficult
 | 636. Exclusive Time of Functions | 
 | 270. Closest Binary Search Tree Value | Difficult. Just memorize the code
+| 1539. Kth Missing Positive Number | Just memorize the code
+
 
