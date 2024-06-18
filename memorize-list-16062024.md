@@ -16,6 +16,7 @@
 | 1047 Remove All Adjacent Duplicates In String 第二题  衣领思琪变种  需要消除所有的相同的  abbbac => aac =>c https://www.1point3acres.com/bbs/thread-1061528-1-1.html |
 | 426. Convert Binary Search Tree to Sorted Doubly Linked List |
 | Merge three sorted-arrays, and de-duplicate https://www.1point3acres.com/bbs/thread-1044373-1-1.html | 
+| 1213. Intersection of Three Sorted Arrays | 
 | 953. Verifying an Alien Dictionary | Memorize code
 | 33. Search in Rotated Sorted Array | Memorize the logic
 | 38 Count and Say | 
