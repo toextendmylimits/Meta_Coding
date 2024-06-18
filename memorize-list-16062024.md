@@ -26,3 +26,4 @@
 | 1091 Shortest Path in Binary Matrix 要output path吗？backtracking instead of bfs |
 | 62. Unique Paths	Practice backtrack to output all paths | 
 | 1060. Missing Element in Sorted Array | Memorize code
+| 8. String to Integer (atoi) |
