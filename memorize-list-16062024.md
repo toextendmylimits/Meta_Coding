@@ -17,3 +17,4 @@
 | 426. Convert Binary Search Tree to Sorted Doubly Linked List |
 | Merge three sorted-arrays, and de-duplicate https://www.1point3acres.com/bbs/thread-1044373-1-1.html | 
 | 953. Verifying an Alien Dictionary | Memorize code
+| 33. Search in Rotated Sorted Array | Memorize the logic
