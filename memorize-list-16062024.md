@@ -5,6 +5,7 @@
 | 827. Making A Large Island | Beware to change cell to islandId in DFS, and check wehther next cell is 0 when connecting islands
 | 249. Group Shifted Strings | Need practice more.
 | 65. Valid Number | Difficult
+| 219. Contains Duplicate II |
 | 670. Maximum Swap | Difficult
 | 636. Exclusive Time of Functions | 
 | 270. Closest Binary Search Tree Value | Difficult. Just memorize the code
