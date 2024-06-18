@@ -7,6 +7,7 @@
 | 249. Group Shifted Strings | Need practice more.
 | 14. Longest Common Prefix | Easy, but beware index correcly
 | 65. Valid Number | Difficult
+| 708. Insert into a Sorted Circular Linked List | Three cases
 | 219. Contains Duplicate II |
 | 670. Maximum Swap | Difficult
 | 636. Exclusive Time of Functions | 
@@ -28,4 +29,5 @@
 | 1060. Missing Element in Sorted Array | Memorize code
 | 8. String to Integer (atoi) |
 | 138 Copy List with Random Pointer 高频 掌握O（1）space写法 |
+
 
