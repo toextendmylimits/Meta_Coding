@@ -1,7 +1,8 @@
 # Recent interviews as 01/06/2024 
 一亩三分地面经看到2个月前，Page 21
 ## Coding
-1. 62 Unique Paths   
+1. https://leetcode.com/discuss/interview-question/1735416/facebook-phone-average-sum-of-descendants-equal-to-node-value
+2. 62 Unique Paths   
   Need to output path
 1. 19 Remove Nth Node From End of List
 2. 1721 Swapping Nodes in a Linked List
@@ -78,6 +79,7 @@
 13. 1209 Remove All Adjacent Duplicates in String II
 14. Merging Distinct Elements from Two Sorted Arrays https://www.1point3acres.com/bbs/thread-1060301-1-1.html
 15. 691. Stickers to Spell Word 高频
+
 ## 电面
 1. 109 Convert Sorted List to Binary Search Tree https://www.1point3acres.com/bbs/thread-1070386-1-1.html
 2. 第一题给了去程和返程航班的价格，求最便宜的往返航班总价  
