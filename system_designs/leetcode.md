@@ -29,7 +29,9 @@ Storage: User submission: 10k users * 20 submissions * 100kB = 20 G a day, a mon
 1. POST /problems/{problemId}/sumbit, reqeust: userId, code, lanuage response: status, test_case: 
 2. GET /contests/{contestId}/leaderboard, response: ranking
 
-# High-level architecture
-https://github.com/toextendmylimits/Meta_Coding/assets/10056698/a7c98a04-ad43-4a55-b9bf-13447a57c984
+# High-level design
+
     
-    
+ ![Screen Shot 2024-06-29 at 10 54 04 pm](https://github.com/toextendmylimits/Meta_Coding/assets/10056698/bfa7f765-6050-4ae3-b527-8a268947d572)
+ 
+   
