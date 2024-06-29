@@ -41,5 +41,14 @@ Storage: User submission: 10k users * 20 submissions * 100kB = 20 G a day, a mon
     5. User scores and rankings are stored in an in-memory data store, such as Redis. Redis has a built-in data structure called sorted set that is tailored for the leaderboard purpose. We can use (contest_id, user_id) as the key and scores as the value and Redis sorted set will automatically ranks the users by their scores.
  5. Contest service  
     responsible for retrieving contest related information such as questions, date of contest etc from the contest database.
- 
+
+ # Detailed design
+ Detailed Design Q&A
+Q1: How to prevent users from submitting malicious code that messes up our service internals?
+
+A: Run each test case inside sandboxes like Docker containers and only allow the containers to access temporary storage (e.g., Linux's /tmp folder).
+
+Q2: In what format should the test cases be stored and how should they be used?
+
+A: Each test case has an input file and an expected output file. Each problem has a driver code for each language that parses the input file. When user submitted code is executed by the docker container, an output file is created in a temporary folder mounted on the container. The output file can be compared to the expected output file for correctness.
    
