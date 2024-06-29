@@ -225,7 +225,7 @@
 74. 一溜二 - 变体，找 local min 但定义是小于"等于"邻居，而且 array 中可以有 duplicate 邻居，用 binary search 做，我自己觉得跟原题应该做法没区别，因为 <= 所以即使有相同的邻居也无妨，但面试官似乎觉得我的做法有 bug ... 讨论了一下他说不能跟我说更多了就 move on 第二题了 https://www.1point3acres.com/bbs/thread-1050777-1-1.html
 75. 五二吧 - 原题，用 binary search 做完之后问了要怎么测试，我说可以跑个 1000 次看分布是不是跟想要的probability 一样，面试官说太 flaky，我说那我把 function 拆成 prefix sum + random + binary search 的部分然后给除了random 之外的两个部分写 unit test，面试官似乎还是没有很满意，但就没继续说下去了
 ## System Design
-1. l‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eetcode
+1. L6 downgrade 到L5.VO1: System Design: 设计手机测试实验室。要求大概是submit的code change 会出发对应的test cases， 然后test cases 需要在手机集群上跑。需要support adhoc 的 test cases 和 daily schedule 的 integration test cases。https://www.1point3acres.com/bbs/thread-1072099-1-1.html
 2. 设计news feed API  
    https://www.1point3acres.com/bbs/thread-1068372-1-1.html
 1. * Live comment
