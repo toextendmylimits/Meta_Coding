@@ -51,4 +51,7 @@ A: Run each test case inside sandboxes like Docker containers and only allow the
 Q2: In what format should the test cases be stored and how should they be used?
 
 A: Each test case has an input file and an expected output file. Each problem has a driver code for each language that parses the input file. When user submitted code is executed by the docker container, an output file is created in a temporary folder mounted on the container. The output file can be compared to the expected output file for correctness.
-   
+
+# Reference
+1. https://www.hellointerview.com/learn/system-design/answer-keys/leetcode
+2. https://systemdesignschool.io/problems/leetcode/solution
