@@ -26,7 +26,21 @@ getAdMetrics/{adId}
 1. Advertisers query the system for aggregated click metrics.
 
 # Highlevel designs
-1) Users can click on ads and be redirected to the target
+1. Users can click on ads and be redirected to the target
 Let's start with the easy part, when a user clicks on an ad in their browser, we need to make sure that they're redirected to the advertiser's website. We'll introduce a Ad Placement Service which will be responsible for placing ads on the website and associating them with the correct redirect URL.
 
 When a user clicks on an ad which was placed by the Ad Placement Service, we will send a request to our /click endpoint, which will track the click and then redirect the user to the advertiser's website.
+
+Use real time analytics with stream processing
+
+## Deep dive
+1. Scalability - horizontal scaling for click processer, message queue, stream event processer, OLAP db
+2. Hot shard - Further partition by adding a randomId after adId
+3. How to ensure we don't lose data
+4. - message queue retention date of 7 days
+   - checkpointing stream processor save states to permenant data store peoriodically
+5.  How can we prevent abuse from users clicking on ads multiple times?  Generate a Unique impression ID
+6. How can we ensure that advertisers can query metrics at low latency?
+
+# Reference
+https://www.hellointerview.com/learn/system-design/answer-keys/ad-click-aggregator
