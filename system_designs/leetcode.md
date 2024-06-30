@@ -46,7 +46,7 @@ Storage: User submission: 10k users * 20 submissions * 100kB = 20 G a day, a mon
  Detailed Design Q&A
 Q1: How to prevent users from submitting malicious code that messes up our service internals?
 
-A: Run each test case inside sandboxes like Docker containers and only allow the containers to access temporary storage (e.g., Linux's /tmp folder).
+A: Run each test case inside sandboxes like Docker containers and only allow the containers to access temporary storage (e.g., Linux's /tmp folder). We'd use docker containers while limiting network access, setting CPU and memory bounds, and enforcing a timeout on the code execution
 
 Q2: In what format should the test cases be stored and how should they be used?
 
