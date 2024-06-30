@@ -20,10 +20,10 @@ User-submitted code retained for one month
 3. Security: user-submitted code should not pose a thread to the service
 
 # Resource estimation
-Storage for code: 1k, Read: Write, 100: 1,
-QPS: 10k users * 20 times * 20 test / 2 hours = 4 million / 7600 = 500 QPS
-Storage: User submission: 10k users * 20 submissions * 100kB = 20 G a day, a month 600G  
-        Test data: 200k submssions * 20 test * 10kB = 40 GB day, a month: 1.2T  
+Storage for code: 1k, Read: Write, 100: 1,  
+QPS: 10k users * 20 times * 20 test / 2 hours = 4 million / 7600 = 500 QPS  
+Storage: User submission: 10k users * 20 submissions * 100kB = 20 G a day, a month 600G    
+        Test data: 200k submssions * 20 test * 10kB = 40 GB day, a month: 1.2T    
 
 # API
 1. POST /problems/{problemId}/sumbit, reqeust: userId, code, lanuage response: status, test_case: 
