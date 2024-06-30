@@ -8,11 +8,11 @@ System design of leetcode/hackerank code contest platform
 4. Realtime leaderboard show top users
 
 ## Scalability requirements
-10k concucurrent users
-1 contest a day, last 2 hours
-User submit 20 times for solution
-Each problem has 20 test cases
-User-submitted code retained for one month
+10k concucurrent users  
+1 contest a day, last 2 hours  
+User submit 20 times for solution  
+Each problem has 20 test cases  
+User-submitted code retained for one month  
 
 ## Non-func
 1. Low latency: The leaderboard should be updated live
