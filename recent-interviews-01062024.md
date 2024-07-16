@@ -42,10 +42,14 @@
 16. 408 Valid Word Abbreviation
 17. 
 ### 根据面经自己整理的
-1. 39 Combination Sum
-2. 76 Minimum Window Substring
-3. basic calculator 只有加和乘，但是要做成costant time不能用stack
-4. closest point to all buildings
+1. 116 Populating Next Right Pointers in Each Node
+2. Leetcode word ladder, 只用返回一个有效的路径
+3. 79 Word Search
+4. 1060 Missing Element in Sorted Array O(n), binary search
+5. 39 Combination Sum
+6. 76 Minimum Window Substring
+7. basic calculator 只有加和乘，但是要做成costant time不能用stack
+8. closest point to all buildings
    https://www.1point3acres.com/bbs/thread-1071180-1-1.html
 1. 249 Group Shifted Strings
 2.  1091 Shortest Path in Binary Matrix 输出路径
