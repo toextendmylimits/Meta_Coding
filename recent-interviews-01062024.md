@@ -311,3 +311,6 @@ metrics是engagement metric like tapping， 然后问了 fetching/querying (show
 
 ## 很有用的资料
 https://www.1point3acres.com/bbs/thread-1053340-1-1.html讲了很多系统设计的资料
+
+### behaviour questions
+https://www.1point3acres.com/bbs/thread-895663-1-1.html
