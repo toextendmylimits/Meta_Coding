@@ -13,3 +13,8 @@
 2. Different language choice, kotlin vs Java
 3. Push to write clean code
 4. Push for developers to do more unit test and manual test
+5. Enum value
+
+## Feedback
+1. Automated test were neglected
+2. Improved communication https://github.com/toextendmylimits/Amazon_coding/blob/main/000-lp.md#critical-feedback-to-imrpove-communication
