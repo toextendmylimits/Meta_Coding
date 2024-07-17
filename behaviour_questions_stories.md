@@ -25,3 +25,6 @@
 
 ## Learn
 1. Learn front-end technologies when front-end engineers were away
+
+## Do something out of my responsibility
+1. Look into system issue after weekend restart https://github.com/toextendmylimits/Amazon_coding/blob/main/000-lp.md#ownership
