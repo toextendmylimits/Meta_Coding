@@ -46,10 +46,11 @@
 2. Leetcode word ladder, 只用返回一个有效的路径
 3. 79 Word Search
 4. 1060 Missing Element in Sorted Array O(n), binary search
-5. 39 Combination Sum
-6. 76 Minimum Window Substring
-7. basic calculator 只有加和乘，但是要做成costant time不能用stack
-8. closest point to all buildings
+5. 190 Reverse Bits (AI coding, follow-up meomrization https://www.1point3acres.com/bbs/thread-1076475-1-1.html)
+6. 39 Combination Sum
+7. 76 Minimum Window Substring
+8. basic calculator 只有加和乘，但是要做成costant time不能用stack
+9. closest point to all buildings
    https://www.1point3acres.com/bbs/thread-1071180-1-1.html
 1. 249 Group Shifted Strings
 2.  1091 Shortest Path in Binary Matrix 输出路径
