@@ -22,3 +22,6 @@
 ## Take risk
 1. Release fix to production issue mid of day [https://github.com/toextendmylimits/Amazon_coding/blob/main/000-lp.md#critical-feedback-to-imrpove-communication](https://github.com/toextendmylimits/Amazon_coding/blob/main/000-lp.md#released-fix-to-production-issue-although-there-was-risk)
 2. Use new way to panic which deviate from how it worked before https://github.com/toextendmylimits/Amazon_coding/blob/main/000-lp.md#made-a-functionality-work-differently-to-what-clients-used-to
+
+## Learn
+1. Learn front-end technologies when front-end engineers were away
