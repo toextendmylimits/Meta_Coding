@@ -12,10 +12,10 @@
   I should also prepare for a list of 10 common meta behaviour questions.
   
 2. On 16 July 2024, I should be familiar very another 3 system design questions:
-  1. Dropbox
-  2. Web cralwer
-  3. Youtube
-  4. Uber/Proximity service
+   1. Dropbox
+   2. Web cralwer
+   3. Youtube
+   4. Uber/Proximity service
 
   Solve another 20 meta coding questions.
 3. On 17 July 2024, I should solve another 20 meta coding questions, and review all the system design questions I have done.
