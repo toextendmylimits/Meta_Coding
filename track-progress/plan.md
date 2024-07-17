@@ -1,11 +1,11 @@
 # Plan for preparing meta interviews
 1. On evening 15 July 2024 I should be really familiar with 6 system design questions:
-  1. Ads click aggregator
-  2. Leetcode
-  3. Facebook live comments
-  4. Facebook news feed
-  5. Ticket master
-  6. Whatsapp
+   1. Ads click aggregator
+   2. Leetcode
+   3. Facebook live comments
+   4. Facebook news feed
+   5. Ticket master
+   6. Whatsapp
 
   And I should work on the top 40 meta coding questions already. 
 
