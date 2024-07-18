@@ -10,3 +10,4 @@
 | 1091. Shortest Path in Binary Matrix | Need to review. Beware to return shortest path using backtrace
 | 827. Making A Large Island | Difficult. Memorize main logic
 | 973. K Closest Points to Origin | Not difficult, but seems not familiar, practice again
+| 398. Random Pick Index | Memorize reservior sampling algorithm
