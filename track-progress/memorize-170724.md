@@ -9,3 +9,4 @@
 | 708. Insert into a Sorted Circular Linked List | Too difficult, just memorize the three cases and code
 | 1091. Shortest Path in Binary Matrix | Need to review. Beware to return shortest path using backtrace
 | 827. Making A Large Island | Difficult. Memorize main logic
+| 973. K Closest Points to Origin | Not difficult, but seems not familiar, practice again
