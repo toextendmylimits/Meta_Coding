@@ -296,18 +296,18 @@ metrics是engagement metric like tapping， 然后问了 fetching/querying (show
 
 https://leetcode.com/discuss/interview-experience/4428743/Meta-Onsite-System-Design-Questions
 Infra
-messaging system 2
-Design something similar to Instagram reels.
-Design Instagram upload and feed service 2
-Design Leetcode Judging System 3
-cloud sharing
-Top k frequently played songs for an apple music like service.
-Ad aggregator 2
-Web crawler (Slight variation) 2
-Job scheduler
-System to store and search (query) through facebook status updates.
-System to store and search (query) through facebook status updates. These are text based updates.
-Ticket booking workflow. Really deep dives into concurrency control and race condition resolutions.
+messaging system 2  
+Design something similar to Instagram reels.  
+Design Instagram upload and feed service 2  
+Design Leetcode Judging System 3  
+cloud sharing  
+Top k frequently played songs for an apple music like service.  
+Ad aggregator 2  
+Web crawler (Slight variation) 2  
+Job scheduler  
+System to store and search (query) through facebook status updates.  
+System to store and search (query) through facebook status updates. These are text based updates.  
+Ticket booking workflow. Really deep dives into concurrency control and race condition resolutions.  
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
