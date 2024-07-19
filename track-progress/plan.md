@@ -20,3 +20,9 @@
   Solve another 20 meta coding questions.
 3. On 17 July 2024, I should solve another 20 meta coding questions, and review all the system design questions I have done.
 4. On 18 July 2024, I should have a look another 4 system design questions.
+
+# Urgent change
+On 19 July 2024, I still haven't finished preparation for system design, coding and behaviour questions. This is really terrible! What I should for today and the weekends:
+1. Practice 10 common meta interview system design questions
+2. Prepare answers for common meta behaviour questions
+3. Go through the top 80 meta coding questions
