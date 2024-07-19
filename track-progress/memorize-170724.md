@@ -13,3 +13,4 @@
 | 398. Random Pick Index | Memorize reservior sampling algorithm
 | 636. Exclusive Time of Functions | Practice again
 | 670. Maximum Swap | Practice again
+| 199. Binary Tree Right Side View | Also practice DFS
