@@ -15,3 +15,4 @@
 | 670. Maximum Swap | Practice again
 | 199. Binary Tree Right Side View | Also practice DFS
 | 270. Closest Binary Search Tree Value | Difficult, memorize the code
+| 56. Merge Intervals | Also memorize approach using heap
