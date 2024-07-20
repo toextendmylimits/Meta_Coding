@@ -25,6 +25,11 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 - Tell me about a project you were on that grew in scope and timeline in an unexpected way
 
 ## Resolving Conflict 
+### Stories:
+1. Big bang approach vs incremental change
+2. Programming choice Kotlin vs Java
+3. Push developers across different teams to have more unit test
+
 - Tell me about the most difficult working relationship that you've had
 - Tell me about a time you disagreed with a colleague and later found out your initial stance was not entirely correct.
 - Tell me about a time when you faced pushback regarding your approach on a project
