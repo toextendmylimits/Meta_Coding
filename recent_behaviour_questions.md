@@ -30,6 +30,7 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 2. Programming choice Kotlin vs Java
 3. Push developers across different teams to have more unit test
 
+### Questions
 - Tell me about the most difficult working relationship that you've had
 - Tell me about a time you disagreed with a colleague and later found out your initial stance was not entirely correct.
 - Tell me about a time when you faced pushback regarding your approach on a project
@@ -37,6 +38,10 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 - Tell me about a time you needed to push for a change that you knew would be unpopular with some people
 
 ## Driving Results
+### Stories
+1. Rewrite orderbook
+
+### Questions
 - Tell me about a result you achieved for your team that you are most proud of
 - Tell me about a time when a project you were on failed to meet agreed upon requirements
 - Tell me about a time a leader asked you to do something that you didn't view as the highest priority
