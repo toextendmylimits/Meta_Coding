@@ -32,10 +32,11 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 
 ### Questions
 - Tell me about the most difficult working relationship that you've had
-- Tell me about a time you disagreed with a colleague and later found out your initial stance was not entirely correct.
 - Tell me about a time when you faced pushback regarding your approach on a project
 - Describe a decision you disagreed with, and how it impacted your work
 - Tell me about a time you needed to push for a change that you knew would be unpopular with some people
+
+- Tell me about a time you disagreed with a colleague and later found out your initial stance was not entirely correct.
 
 ## Driving Results
 ### Stories
@@ -43,9 +44,14 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 
 ### Questions
 - Tell me about a result you achieved for your team that you are most proud of
+- 
 - Tell me about a time when a project you were on failed to meet agreed upon requirements
+
 - Tell me about a time a leader asked you to do something that you didn't view as the highest priority
+- 
 - Tell me about a time when you volunteered to take on a important portion of a critical project
+- Tell me about a time when you took initiative to complete an important project for your team
+- 
 - Tell me about a time when you faced a significant setback that forced you to reprioritize your work
 - Tell me about a time when you needed to overcome a barrier in your work to achieve an end result
-- Tell me about a time when you took initiative to complete an important project for your team
+
