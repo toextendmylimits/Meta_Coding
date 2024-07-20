@@ -11,7 +11,7 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 ## Growing Continuously 
 ### Stories
 1. Improve communication
-2. Better project planning
+2. Better project planning - neglected automatated test
 3. 
 - Tell me about a time that a peer or manager gave you specific, actionable feedback for improvement.
 - Describe a time when you had to quickly learn something new and complex in order to ramp up for a project or solve a problem
