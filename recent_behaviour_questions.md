@@ -9,6 +9,10 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 - https://interviewing.io/blog/how-software-engineering-behavioral-interviews-are-evaluated-meta
 - 
 ## Growing Continuously 
+### Stories
+1. Improve communication
+2. Better project planning
+3. 
 - Tell me about a time that a peer or manager gave you specific, actionable feedback for improvement.
 - Describe a time when you had to quickly learn something new and complex in order to ramp up for a project or solve a problem
 - Tell me a specific example of how a new skill set you grew in recent years help you improve
@@ -18,10 +22,18 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 - Describe a specific example that demonstrates how you balanced your own prof development with the day to day demands of your role
 
 ## Embracing Ambiguity 
+### Stories
+1. Solve urgent production issue
+2. Rewrite orderbook applications - requirements are not clear
+
+### Questions
 - Tell me about a time when you needed to act quickly on something but did not have a clear idea on how to best proceed
-- Tell me about a time you had to pivot mid-project due to project requirements or stakeholders expectations changing
-- Tell me about a time when you had to adopt an experimental approach to resolving something
 - Tell me about a time when you didn't have all of the desired info to solve a tech problem and how it was resolved
+
+- Tell me about a time you had to pivot mid-project due to project requirements or stakeholders expectations changing
+- 
+- Tell me about a time when you had to adopt an experimental approach to resolving something
+
 - Tell me about a project you were on that grew in scope and timeline in an unexpected way
 
 ## Resolving Conflict 
