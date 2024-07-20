@@ -5,6 +5,9 @@
 * the development areas for myself
 from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 
+## How behaviour interviews are evaluated
+- https://interviewing.io/blog/how-software-engineering-behavioral-interviews-are-evaluated-meta
+- 
 ## Growing Continuously 
 - Tell me about a time that a peer or manager gave you specific, actionable feedback for improvement.
 - Describe a time when you had to quickly learn something new and complex in order to ramp up for a project or solve a problem
