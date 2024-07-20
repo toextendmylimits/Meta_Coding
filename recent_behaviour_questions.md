@@ -10,7 +10,7 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 - 
 ## Growing Continuously 
 ### Stories
-1. Improve communication
+1. Improve communication - Auction platform
 2. Better project planning - neglected automatated test
 3. 
 - Tell me about a time that a peer or manager gave you specific, actionable feedback for improvement.
@@ -25,6 +25,7 @@ from: https://www.1point3acres.com/bbs/thread-1044373-1-1.html
 ### Stories
 1. Solve urgent production issue
 2. Rewrite orderbook applications - requirements are not clear
+3. Have bespoke RFQ - project timeline moved up
 
 ### Questions
 - Tell me about a time when you needed to act quickly on something but did not have a clear idea on how to best proceed
