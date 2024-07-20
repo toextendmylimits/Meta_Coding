@@ -6,7 +6,7 @@
 3. Automated release process
 
 ## Deadline
-1. Project deadline was moved up
+1. Project deadline was moved up mid market match
 
 ## Conflict
 1. How changes shuould be made? Big bang approach vs incremental change
