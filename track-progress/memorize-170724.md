@@ -17,3 +17,4 @@
 | 270. Closest Binary Search Tree Value | Difficult, memorize the code
 | 56. Merge Intervals | Also memorize approach using heap
 | 23. Merge k Sorted Lists | Beware edge case when start + 1 == end
+| 31. Next Permutation | Practice again, beware how to find rightIdx
