@@ -31,3 +31,4 @@
 | 139. Word Break | Difficult, memorize code
 | 140. Word Break II | Difficult, memorize code
 | 863. All Nodes Distance K in Binary Tree | Difficult, memorize the code
+| 5. Longest Palindromic Substring | Memorize code
