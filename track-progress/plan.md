@@ -26,3 +26,6 @@ On 19 July 2024, I still haven't finished preparation for system design, coding 
 1. Practice 10 common meta interview system design questions
 2. Prepare answers for common meta behaviour questions
 3. Go through the top 80 meta coding questions
+
+# Major change on 23 Jul 2024
+Given there are only 6 days before the Meta interviews, and I haven't practiced the common meta system design interview questions. In the following three days, I should really focus on system design questions, aiming to practice 10 questions.
