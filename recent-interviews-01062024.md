@@ -329,3 +329,4 @@ https://www.1point3acres.com/bbs/thread-1053340-1-1.html讲了很多系统设计
 
 ### behaviour questions
 https://www.1point3acres.com/bbs/thread-895663-1-1.html
+https://interviewing.io/blog/how-software-engineering-behavioral-interviews-are-evaluated-meta
