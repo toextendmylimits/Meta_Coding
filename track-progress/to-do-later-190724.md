@@ -7,3 +7,4 @@
 | 1868. Product of Two Run-Length Encoded Arrays | Difficult
 | 317. Shortest Distance from All Buildings | Difficult
 | 489. Robot Room Cleaner | 
+| 4. Median of Two Sorted Arrays | Too difficult, very low chance
