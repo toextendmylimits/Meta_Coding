@@ -21,3 +21,4 @@
 | 133. Clone Graph | Practice again, memorize BFS
 | 14. Longest Common Prefix | Beware defect word[i] != firstWord[i] (Not j !!!)
 | 1539. Kth Missing Positive Number | Master brute force and binary search, dry run test case as well
+| 523. Continuous Subarray Sum | Familiar, but beware currSum += k (not n which is element of nums)
