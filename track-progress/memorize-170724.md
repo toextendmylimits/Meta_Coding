@@ -26,3 +26,4 @@
 | 1047. Remove All Adjacent Duplicates In String | Beware variation of removing more than two adjacent duplicates
 | 3. Longest Substring Without Repeating Characters | Master both approaches of sliding window
 | 33. Search in Rotated Sorted Array | Familiar, just have a quick look
+| 207. Course Schedule | Needs another practice
