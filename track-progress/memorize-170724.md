@@ -24,3 +24,4 @@
 | 523. Continuous Subarray Sum | Familiar, but beware currSum += k (not n which is element of nums)
 | 76. Minimum Window Substring | Difficult sliding window, memorize it
 | 1047. Remove All Adjacent Duplicates In String | Beware variation of removing more than two adjacent duplicates
+| 3. Longest Substring Without Repeating Characters | Master both approaches of sliding window
