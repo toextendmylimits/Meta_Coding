@@ -29,7 +29,7 @@
 | 207. Course Schedule | Needs another practice
 | 42. Trapping Rain Water | Practice again
 | 139. Word Break | Difficult, memorize code
-| 140. Word Break II | Difficult, memorize code
+| 140. Word Break II | Difficult, memorize code, TC O(N*2^N), SC O(N*2^N)
 | 863. All Nodes Distance K in Binary Tree | Difficult, memorize the code
 | 5. Longest Palindromic Substring | Memorize code
 | 57. Insert Interval | Familiar, quick look
