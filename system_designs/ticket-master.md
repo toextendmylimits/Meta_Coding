@@ -34,11 +34,11 @@
   1.select seat 
     - POST /booking/reserve 
     - Request header: JWT | SessionToken, body: { eventId, seatNo }
-    - Response body: {bookingId, ticketIds:[]}
+    - Response body: {ticketId}
 
   2.pay ticket
-    - PUT /booking/:bookingId/confirm
+    - PUT /booking/:ticketId/confirm
     - Request header: JWT | SessionToken
-    - Response: success/failure, {ticketIds:[],paymentDetais:""}
+    - Response: success/failure, {ticketId,paymentDetais:""}
 - search events
 - GET /events/search?keyword={keyword}&start={start}&end={end} -> Partial Events[]
