@@ -32,13 +32,13 @@
 - view events GET /events/:eventId -> Event,Venue,Performer,Ticket[]
 - book events  
   1.select seat 
-    - POST /booking/reserve -> bookingId, {ticketIds:[]}
+    - POST /booking/reserve 
     - Request header: JWT | SessionToken, body: { eventId, seatNo }
-    - Response body: {ticketId}
+    - Response body: {bookingId, ticketIds:[]}
 
   2.pay ticket
     - PUT /booking/:bookingId/confirm
     - Request header: JWT | SessionToken
-    - Response: success/failure, {paymentDetais:""}
+    - Response: success/failure, {ticketIds:[],paymentDetais:""}
 - search events
 - GET /events/search?keyword={keyword}&start={start}&end={end} -> Partial Events[]
