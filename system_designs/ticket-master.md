@@ -4,6 +4,7 @@
 - View upcoming events
 - Book tickets to upcoming events
 - Search for upcoming events
+- 
 ------------out of scope--------
 - view booked events
 - dynamic pricing for popular events
@@ -14,6 +15,7 @@
 - High consitency for booking tickets(no double booking)
 - Scalibility to 10m users, read heavy, read/write ratio 100
 - Scalibility to handle surge of popular events
+
 ---------------out of scope-----------
 - protect user data
 - provide secure transcations for payment
