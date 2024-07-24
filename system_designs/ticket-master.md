@@ -13,6 +13,7 @@
 ### Non-functional requirements
 - High availability for searching and viewing events
 - High consitency for booking tickets(no double booking)
+- Low latency search
 - Scalibility to 10m users, read heavy, read/write ratio 100
 - Scalibility to handle surge of popular events
 
