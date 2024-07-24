@@ -34,4 +34,4 @@
   1.select seat POST /booking -> bookingId, {ticketIds:[]}  
   2.pay ticket PATCH /booking/:bookingId -> success/failure, {paymentDetais:""}
 - search events
-- GET /events/search?keyword={keyword}&start={start}&end={end} -> events
+- GET /events/search?keyword={keyword}&start={start}&end={end} -> Partial Events[]
