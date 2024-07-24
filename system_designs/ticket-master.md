@@ -43,3 +43,5 @@
     - Response: success/failure, {ticketId,paymentDetais:""}
 - search events
 - GET /events/search?keyword={keyword}&start={start}&end={end} -> Partial Events[]
+
+## High-level designs
