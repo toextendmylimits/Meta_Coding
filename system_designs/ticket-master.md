@@ -31,7 +31,14 @@
 ### API
 - view events GET /events/:eventId -> Event,Venue,Performer,Ticket[]
 - book events  
-  1.select seat POST /booking -> bookingId, {ticketIds:[]}  
-  2.pay ticket PATCH /booking/:bookingId -> success/failure, {paymentDetais:""}
+  1.select seat 
+    - POST /booking/reserve -> bookingId, {ticketIds:[]}
+    - Request header: JWT | SessionToken, body: { eventId, seatNo }
+    - Response body: {ticketId}
+
+  2.pay ticket
+    - PUT /booking/:bookingId/confirm
+    - Request header: JWT | SessionToken
+    - Response: success/failure, {paymentDetais:""}
 - search events
 - GET /events/search?keyword={keyword}&start={start}&end={end} -> Partial Events[]
