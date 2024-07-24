@@ -4,7 +4,7 @@
 - View upcoming events
 - Book tickets to upcoming events
 - Search for upcoming events
-- 
+
 ------------out of scope--------
 - view booked events
 - dynamic pricing for popular events
@@ -20,6 +20,7 @@
 - protect user data
 - provide secure transcations for payment
 - fault tolerant
+- 
 ## Core Entities & API
 ### Core Entities
 - Event
@@ -29,8 +30,8 @@
 - Booking
 ### API
 - view events GET /events/:eventId -> Event,Venue,Performer,Ticket[]
-- book events
-  1.select seat POST /booking -> bookingId, {ticketIds:[]}
+- book events  
+  1.select seat POST /booking -> bookingId, {ticketIds:[]}  
   2.pay ticket PATCH /booking/:bookingId -> success/failure, {paymentDetais:""}
 - search events
 - GET /events/search?keyword={keyword}&start={start}&end={end} -> events
