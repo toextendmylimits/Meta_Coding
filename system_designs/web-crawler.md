@@ -3,7 +3,7 @@
 ## Requirements
 ### Functional requirements
 - crawl the full web starting froms seed urls
-- extract the text data and store
+- extract the text data and store  
 --------------out of scope-------------  
 - handle non-text data(image,video)
 - handle dynmaic content
@@ -17,7 +17,7 @@
 - Fault tolerant
 - Politeness
 - Scale to 10B pages
-- Efficient
+- Efficient  
 -----------out of scope------------
 - compliance to adhere to legal requirements and privacy regulations
 - cost to operatet the system within budget constraints
