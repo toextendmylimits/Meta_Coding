@@ -6,7 +6,7 @@
 5. facebook 評論系統(?), 有點忘記細節了
 6. design zoom https://www.1point3acres.com/bbs/thread-1074751-1-1.html
 7. 设计收集广告点击的系统
-8. 爬虫
+8. 爬虫 https://leetcode.com/discuss/interview-question/system-design/962461/facebook-system-design-web-crawler https://leetcode.com/discuss/interview-question/system-design/124657/Facebook-or-System-Design-or-A-web-crawler-that-will-crawl-Wikipedia
 11. proximity service
 12. 设计手机测试实验室。要求大概是submit的code change 会出发对应的test cases， 然后test cases 需要在手机集群上跑。需要support adhoc 的 test cases 和 daily schedule 的 integration test cases。https://www.1point3acres.com/bbs/thread-1072099-1-1.html
 13. price tracker 中东人. 看的是油管system design fight club的视频 https://www.1point3acres.com/bbs/thread-1071142-1-1.html
