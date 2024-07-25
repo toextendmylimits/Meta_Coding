@@ -1,4 +1,7 @@
 # System design questions that appear in recent interviews
+1. Whatsapp/Facebook messager
+2. Design a typeahead box for a search engine.
+4. 
 1. 酒店预订系统
 2. 编程竞赛(coding contest)和实时分数排名(https://www.1point3acres.com/bbs/thread-1076708-1-1.html)
 3. top k
@@ -12,6 +15,7 @@
 13. price tracker Design an Amazon price tracker like CamelCamelCamel. 中东人. 看的是油管system design fight club的视频 https://www.1point3acres.com/bbs/thread-1071142-1-1.html
 14. dropbox https://www.1point3acres.com/bbs/thread-1070386-1-1.html
 15. netflix https://www.1point3acres.com/bbs/thread-1070329-1-1.html
+16. Design an online Chess Game. Assume it needs to be fast, reliable, and support 100m MAU playing 1 game a week.
 17. 设计因斯塔 (product track)
 10. 设计post的隐私设置 https://www.1point3acres.com/bbs/thread-1073344-1-1.html (product track)
 11. 设计news feed API (product track)
