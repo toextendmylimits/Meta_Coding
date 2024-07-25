@@ -8,8 +8,10 @@
 7. 设计收集广告点击的系统
 8. 爬虫
 9. 设计因斯塔 (product track)
-10. proximity service
-11. 设计post的隐私设置 https://www.1point3acres.com/bbs/thread-1073344-1-1.html (product track)
+10. 设计post的隐私设置 https://www.1point3acres.com/bbs/thread-1073344-1-1.html (product track)
+11. proximity service
+12. 设计手机测试实验室。要求大概是submit的code change 会出发对应的test cases， 然后test cases 需要在手机集群上跑。需要support adhoc 的 test cases 和 daily schedule 的 integration test cases。https://www.1point3acres.com/bbs/thread-1072099-1-1.html
+
 1. 挂在了系统社稷，要求为20毅潜在买他用户设计国季像淇游戏，要求存下这局淇的每一步状态，并要求实时牌铭。我设计的一塌糊涂，后来才发现似乎并不简单？
 2. 在instagram上加入auction/bidding的功能
 我畫的diagram如下面附圖,僅供參考
