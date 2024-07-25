@@ -4,7 +4,7 @@
 ### Functional requirements
 - crawl the full web starting froms seed urls
 - extract the text data and store
---------------out of scope-------------
+--------------out of scope-------------  
 - handle non-text data(image,video)
 - handle dynmaic content
 
