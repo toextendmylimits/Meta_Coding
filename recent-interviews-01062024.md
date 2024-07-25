@@ -299,6 +299,7 @@ metrics是engagement metric like tapping， 然后问了 fetching/querying (show
 Please check https://medium.com/@oak_98247/top-meta-software-engineer-system-design-product-architecture-interview-questions-cd0bb56777c0  
 https://leetcode.com/discuss/interview-experience/4428743/Meta-Onsite-System-Design-Questions  
 https://www.1point3acres.com/bbs/thread-1077724-1-1.html  
+https://docs.google.com/document/d/1CfhUNMXd7xhO_jUG5B9jJpczdA4erurQnLiUECBZWro/edit?pli=1  
 Infra
 messaging system 2  
 Design something similar to Instagram reels.  
