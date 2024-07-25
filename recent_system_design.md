@@ -3,7 +3,7 @@
 2. 编程竞赛(coding contest)和实时分数排名(https://www.1point3acres.com/bbs/thread-1076708-1-1.html)
 3. top k
 4.  游戏leaderboard，需要有global&friends排名 。这题准备过 但是面试官侧重点是怎么去sort我是没想到的。。。 https://www.1point3acres.com/bbs/thread-1075578-1-1.html
-5. facebook 評論系統(?), 有點忘記細節了
+5. facebook 評論系統(?), 有點忘記細節了FB live comment how are data stored cross regions? how were data synced cross regions? Can US users sees comments from European users? how to handle peak scenario, such as some live stream event? https://www.1point3acres.com/bbs/thread-1067711-1-1.html
 6. design zoom https://www.1point3acres.com/bbs/thread-1074751-1-1.html
 7. 设计收集广告点击的系统
 8. 爬虫 https://leetcode.com/discuss/interview-question/system-design/962461/facebook-system-design-web-crawler https://leetcode.com/discuss/interview-question/system-design/124657/Facebook-or-System-Design-or-A-web-crawler-that-will-crawl-Wikipedia
@@ -12,7 +12,6 @@
 13. price tracker 中东人. 看的是油管system design fight club的视频 https://www.1point3acres.com/bbs/thread-1071142-1-1.html
 14. dropbox https://www.1point3acres.com/bbs/thread-1070386-1-1.html
 15. netflix https://www.1point3acres.com/bbs/thread-1070329-1-1.html
-16. FB live comment how are data stored cross regions? how were data synced cross regions? Can US users sees comments from European users? how to handle peak scenario, such as some live stream event? https://www.1point3acres.com/bbs/thread-1067711-1-1.html
 17. 设计因斯塔 (product track)
 10. 设计post的隐私设置 https://www.1point3acres.com/bbs/thread-1073344-1-1.html (product track)
 11. 设计news feed API (product track)
