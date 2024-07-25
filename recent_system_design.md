@@ -12,6 +12,7 @@
 13. price tracker 中东人. 看的是油管system design fight club的视频 https://www.1point3acres.com/bbs/thread-1071142-1-1.html
 14. 设计因斯塔 (product track)
 10. 设计post的隐私设置 https://www.1point3acres.com/bbs/thread-1073344-1-1.html (product track)
+11. Ticketmaster
 14. product design 是 ig auction
 15. product design2 是ig newsfeed，追问了怎么处理new post来通知用户的情况
 1. 挂在了系统社稷，要求为20毅潜在买他用户设计国季像淇游戏，要求存下这局淇的每一步状态，并要求实时牌铭。我设计的一塌糊涂，后来才发现似乎并不简单？
