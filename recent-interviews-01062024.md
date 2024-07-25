@@ -46,13 +46,13 @@
 2. 116 Populating Next Right Pointers in Each Node
 3. Leetcode word ladder, 只用返回一个有效的路径
 4. 127 Word Ladder
-5. 79 Word Search
-6. 1060 Missing Element in Sorted Array O(n), binary search
-7. 190 Reverse Bits (AI coding, follow-up meomrization https://www.1point3acres.com/bbs/thread-1076475-1-1.html)
-8. 39 Combination Sum
-9. 76 Minimum Window Substring
-10. basic calculator 只有加和乘，但是要做成costant time不能用stack
-11. closest point to all buildings
+5. 1778 Shortest Path in a Hidden Grid
+6. 79 Word Search
+7. 1060 Missing Element in Sorted Array O(n), binary search
+8. 190 Reverse Bits (AI coding, follow-up meomrization https://www.1point3acres.com/bbs/thread-1076475-1-1.html)
+9. 39 Combination Sum
+11. basic calculator 只有加和乘，但是要做成costant time不能用stack
+12. closest point to all buildings
    https://www.1point3acres.com/bbs/thread-1071180-1-1.html
 1. 249 Group Shifted Strings
 2.  1091 Shortest Path in Binary Matrix 输出路径
