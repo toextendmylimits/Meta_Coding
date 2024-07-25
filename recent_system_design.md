@@ -9,7 +9,8 @@
 8. 爬虫
 11. proximity service
 12. 设计手机测试实验室。要求大概是submit的code change 会出发对应的test cases， 然后test cases 需要在手机集群上跑。需要support adhoc 的 test cases 和 daily schedule 的 integration test cases。https://www.1point3acres.com/bbs/thread-1072099-1-1.html
-13. 设计因斯塔 (product track)
+13. price tracker 中东人. 看的是油管system design fight club的视频 https://www.1point3acres.com/bbs/thread-1071142-1-1.html
+14. 设计因斯塔 (product track)
 10. 设计post的隐私设置 https://www.1point3acres.com/bbs/thread-1073344-1-1.html (product track)
 14. product design 是 ig auction
 15. product design2 是ig newsfeed，追问了怎么处理new post来通知用户的情况
