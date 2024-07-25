@@ -48,9 +48,10 @@
 4. 127 Word Ladder
 5. 1778 Shortest Path in a Hidden Grid
 6. 79 Word Search
-7. 1060 Missing Element in Sorted Array O(n), binary search
-8. 190 Reverse Bits (AI coding, follow-up meomrization https://www.1point3acres.com/bbs/thread-1076475-1-1.html)
-9. 39 Combination Sum
+7. https://leetcode.com/discuss/interview-question/1735416/facebook-phone-average-sum-of-descendants-equal-to-node-value
+8. 1060 Missing Element in Sorted Array O(n), binary search
+9. 190 Reverse Bits (AI coding, follow-up meomrization https://www.1point3acres.com/bbs/thread-1076475-1-1.html)
+10. 39 Combination Sum
 11. basic calculator 只有加和乘，但是要做成costant time不能用stack
 12. closest point to all buildings
    https://www.1point3acres.com/bbs/thread-1071180-1-1.html
