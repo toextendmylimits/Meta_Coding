@@ -44,4 +44,5 @@
    Response: {status,latitude,longtitude}  
 5. Ride status update
    PATCH /rides/status/update  
-   Request: { rideId, status:pickedup | completed}     
+   Request: { rideId, status:pickedup | droppedoff}       
+   Response: next location to go   
