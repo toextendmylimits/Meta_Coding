@@ -53,8 +53,9 @@
 9. 190 Reverse Bits (AI coding, follow-up meomrization https://www.1point3acres.com/bbs/thread-1076475-1-1.html)
 10. 39 Combination Sum
 11. 二叉树改成链表 https://www.1point3acres.com/bbs/thread-1072426-1-1.html
-12. basic calculator 只有加和乘，但是要做成costant time不能用stack
-13. closest point to all buildings
+12. 129 Sum Root to Leaf Numbers（follow up一个node的数字是个多位数怎么办，先str()一下在for loop即可）
+13. basic calculator 只有加和乘，但是要做成costant time不能用stack
+14. closest point to all buildings
    https://www.1point3acres.com/bbs/thread-1071180-1-1.html
 1. 249 Group Shifted Strings
 2.  1091 Shortest Path in Binary Matrix 输出路径
@@ -215,7 +216,7 @@
 54. 253 Meeting Rooms II 高频
 55. 127 Word Ladder
 56. Find largest subtree sum in a binary tree https://www.1point3acres.com/bbs/thread-1054551-1-1.html
-57. 129  Sum Root to Leaf Numbers 高频 root-to-leaf的path上有多个负数的话：如果负数的个数是奇数，这个path就被当作负数，是偶数个的话就被当作正数 https://www.1point3acres.com/bbs/thread-1054478-1-1.html
+57. 129  Sum Root to Leaf Numbers 高频 root-to-leaf的path上有多个负数的话：如果负数的个数是奇数，这个path就被当作负数，是偶数个的话就被当作正数 https://www.1point3acres.com/bbs/thread-1054478-1-1.html 
 58. Addition of String Numbers https://leetcode.com/discuss/interview-question/551052/facebook-phone-enterprise-engineer-addition-of-string-numbers
 59. 350 Intersection of Two Arrays II
 60. 138 Copy List with Random Pointer 高频 掌握O（1）space写法
