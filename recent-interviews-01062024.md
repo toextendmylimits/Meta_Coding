@@ -52,8 +52,9 @@
 8. 1060 Missing Element in Sorted Array O(n), binary search
 9. 190 Reverse Bits (AI coding, follow-up meomrization https://www.1point3acres.com/bbs/thread-1076475-1-1.html)
 10. 39 Combination Sum
-11. basic calculator 只有加和乘，但是要做成costant time不能用stack
-12. closest point to all buildings
+11. 二叉树改成链表 https://www.1point3acres.com/bbs/thread-1072426-1-1.html
+12. basic calculator 只有加和乘，但是要做成costant time不能用stack
+13. closest point to all buildings
    https://www.1point3acres.com/bbs/thread-1071180-1-1.html
 1. 249 Group Shifted Strings
 2.  1091 Shortest Path in Binary Matrix 输出路径
