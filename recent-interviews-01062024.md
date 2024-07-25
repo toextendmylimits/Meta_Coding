@@ -295,7 +295,8 @@ metrics是engagement metric like tapping， 然后问了 fetching/querying (show
 15. wikipedia crawler，需要crawl url exact once, 以及distribute load to clusterwikipedia crawler，需要crawl url exact once, 以及distribute load to cluster https://www.1point3acres.com/bbs/thread-1052293-1-1.html
 
 Please check https://medium.com/@oak_98247/top-meta-software-engineer-system-design-product-architecture-interview-questions-cd0bb56777c0  
-https://leetcode.com/discuss/interview-experience/4428743/Meta-Onsite-System-Design-Questions
+https://leetcode.com/discuss/interview-experience/4428743/Meta-Onsite-System-Design-Questions  
+https://www.1point3acres.com/bbs/thread-1077724-1-1.html  
 Infra
 messaging system 2  
 Design something similar to Instagram reels.  
