@@ -3,7 +3,7 @@
 ### Functional requirements
 - create posts
 - follow people
-- view feed, posts ranked 
+- view feed
 ---------out of scope--------
 - like or comment posts
 - post can be private
@@ -30,3 +30,5 @@
   GET /feed -> Post[]
 - follow people  
   PUT /users/{id}/follow    
+
+## High-level design
