@@ -57,3 +57,4 @@
 | 48. Rotate Image | Not that difficult, but still memorize
 | 131. Palindrome Partitioning |
 | 224. Basic Calculator | Memorize
+| 234. Palindrome Linked List | Memorize
