@@ -35,3 +35,9 @@ Time is really running out. In the remaining 4 days of this week, I should reall
 1. 25 July 2024 I should practice 10 system design questions
 2. 26 July 2024 I should reveiew all these system design questions, and practice the remaining 30 or so coding questions
 3. 27 July 2024 I should review both system design and coding questions
+
+# Major change on 27 Jul 2024
+Luckily my interviews were postponed to 6 Aug 2024, so I have more time to prepare. However, time is still limited, and I should aim to work on the remaining system design questions this weekend.
+So the plan is:
+1. Work on proximity service, local delivery like gopuff/uber eat, hotel booking service, youtube, search/typehead search complete
+2. 
