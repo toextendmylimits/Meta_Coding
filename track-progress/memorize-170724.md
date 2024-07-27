@@ -39,8 +39,7 @@
 | 282. Expression Add Operators | Difficult, memorize
 | 301. Remove Invalid Parentheses | Difficult, memorize
 | 489. Robot Room Cleaner | Difficult, memorize
-
 | 38. Count and Say | Solve it but still memorize
 | 1060. Missing Element in Sorted Array | Difficult
 | 62. Unique Paths | Beware follow up to print all paths
-| 116. Populating Next Right Pointers in Each Node | Difficult, memorize
+| 116. Populating Next Right Pointers in Each Node | Difficult, memorize, also practice 117. Populating Next Right Pointers in Each Node II
