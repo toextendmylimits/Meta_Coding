@@ -34,3 +34,4 @@
 | 5. Longest Palindromic Substring | Memorize code
 | 57. Insert Interval | Familiar, quick look
 | 173. Binary Search Tree Iterator | Difficult, practice more
+| 3. Multiply Strings | Difficult, Memorize
