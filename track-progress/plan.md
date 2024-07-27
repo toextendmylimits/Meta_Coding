@@ -40,4 +40,4 @@ Time is really running out. In the remaining 4 days of this week, I should reall
 Luckily my interviews were postponed to 6 Aug 2024, so I have more time to prepare. However, time is still limited, and I should aim to work on the remaining system design questions this weekend.
 So the plan is:
 1. Work on proximity service, local delivery like gopuff/uber eat, hotel booking service, youtube, search/typehead search complete
-2. top k, facebook messager, chess game
+2. top k, facebook messager, chess game, leaderboard
