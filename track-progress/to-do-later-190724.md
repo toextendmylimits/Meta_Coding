@@ -13,3 +13,4 @@
 | 10. Regular Expression Matching | Difficult
 | 304. Range Sum Query 2D - Immutable |
 | 494. Target Sum | Difficult
+| 1043. Partition Array for Maximum Sum | Too difficult and low frequent, skip it for now
