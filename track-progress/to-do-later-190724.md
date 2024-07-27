@@ -12,3 +12,4 @@
 | 525. Contiguous Array | Difficult
 | 10. Regular Expression Matching | Difficult
 | 304. Range Sum Query 2D - Immutable |
+| 494. Target Sum | Difficult
