@@ -49,4 +49,4 @@
 | 958. Check Completeness of a Binary Tree | Memorize
 | 75. Sort Colors | Memorize
 | 9. Palindrome Number |
-| 79. Word Search | Memorize
+| 79. Word Search | Memorize, also practice 212. Word Search II
