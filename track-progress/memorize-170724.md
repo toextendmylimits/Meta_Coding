@@ -63,3 +63,4 @@
 | 468. Validate IP Address | Difficult, practice more
 | 480. Sliding Window Median | Difficult
 | 1011. Capacity To Ship Packages Within D Days | Memorize
+| 128. Longest Consecutive Sequence | Not that easy, memorize
