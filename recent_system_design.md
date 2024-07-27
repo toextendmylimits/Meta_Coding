@@ -1,7 +1,7 @@
 # System design questions that appear in recent interviews
 1. Whatsapp/Facebook messager
 2. Design a typeahead box for a search engine.
-4. 
+4. FB live comments how are data stored cross regions? how were data synced cross regions? Can US users sees comments from European users? how to handle peak scenario, such as some live stream event? https://www.1point3acres.com/bbs/thread-1067711-1-1.html
 1. 酒店预订系统
 2. 编程竞赛(coding contest)和实时分数排名(https://www.1point3acres.com/bbs/thread-1076708-1-1.html)
 3. top k
