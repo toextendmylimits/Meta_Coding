@@ -43,3 +43,4 @@
 | 38. Count and Say | Solve it but still memorize
 | 1060. Missing Element in Sorted Array | Difficult
 | 62. Unique Paths | Beware follow up to print all paths
+| 116. Populating Next Right Pointers in Each Node | Difficult, memorize
