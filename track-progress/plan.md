@@ -41,3 +41,5 @@ Luckily my interviews were postponed to 6 Aug 2024, so I have more time to prepa
 So the plan is:
 1. Work on proximity service, local delivery like gopuff/uber eat, hotel booking service, youtube, search/typehead search complete
 2. top k, facebook messager, chess game, leaderboard
+
+I should also finish the remaining 30 frequent coding questions.
