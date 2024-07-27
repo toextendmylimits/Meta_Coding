@@ -46,3 +46,4 @@
 | 1443. Minimum Time to Collect All Apples in a Tree |
 | 317. Shortest Distance from All Buildings | 
 | 658. Find K Closest Elements | Difficult, memeorize
+| 958. Check Completeness of a Binary Tree | Memorize
