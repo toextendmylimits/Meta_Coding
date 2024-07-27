@@ -58,3 +58,4 @@
 | 131. Palindrome Partitioning |
 | 224. Basic Calculator | Memorize
 | 234. Palindrome Linked List | Memorize
+| 269. Alien Dictionary | Difficult, Memorize
