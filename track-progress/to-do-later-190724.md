@@ -9,3 +9,4 @@
 | 489. Robot Room Cleaner | 
 | 4. Median of Two Sorted Arrays | Too difficult, very low chance
 ｜ 691. Stickers to Spell Word ｜ Difficult, but should still practice
+| 525. Contiguous Array | Difficult
