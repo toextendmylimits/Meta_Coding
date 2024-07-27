@@ -43,3 +43,4 @@
 | 1060. Missing Element in Sorted Array | Difficult
 | 62. Unique Paths | Beware follow up to print all paths
 | 116. Populating Next Right Pointers in Each Node | Difficult, memorize, also practice 117. Populating Next Right Pointers in Each Node II
+| 1443. Minimum Time to Collect All Apples in a Tree |
