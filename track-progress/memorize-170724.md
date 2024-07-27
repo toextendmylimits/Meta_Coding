@@ -41,3 +41,4 @@
 | 489. Robot Room Cleaner | Difficult, memorize
 
 | 38. Count and Say | Solve it but still memorize
+| 1060. Missing Element in Sorted Array | Difficult
