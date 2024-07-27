@@ -37,3 +37,4 @@
 | 3. Multiply Strings | Difficult, Memorize----
 ---------------haven't practiced yet------------
 | 282. Expression Add Operators | Difficult, memorize
+|301. Remove Invalid Parentheses |  Difficult, memorize
