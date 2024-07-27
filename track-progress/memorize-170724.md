@@ -53,3 +53,4 @@
 | 124. Binary Tree Maximum Path Sum | Difficult
 | 127. Word Ladder | Difficult, memorize
 | 825. Friends Of Appropriate Ages | Difficult
+| 977. Squares of a Sorted Array |
