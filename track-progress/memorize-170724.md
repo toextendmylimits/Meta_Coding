@@ -54,3 +54,4 @@
 | 127. Word Ladder | Difficult, memorize
 | 825. Friends Of Appropriate Ages | Difficult
 | 977. Squares of a Sorted Array |
+| 48. Rotate Image | Not that difficult, but still memorize
