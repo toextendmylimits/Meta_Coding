@@ -47,3 +47,4 @@
 | 317. Shortest Distance from All Buildings | 
 | 658. Find K Closest Elements | Difficult, memeorize
 | 958. Check Completeness of a Binary Tree | Memorize
+| 75. Sort Colors | Memorize
