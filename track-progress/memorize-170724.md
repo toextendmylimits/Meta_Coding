@@ -39,3 +39,5 @@
 | 282. Expression Add Operators | Difficult, memorize
 | 301. Remove Invalid Parentheses | Difficult, memorize
 | 489. Robot Room Cleaner | Difficult, memorize
+
+| 38. Count and Say | Solve it but still memorize
