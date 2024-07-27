@@ -64,3 +64,5 @@
 | 480. Sliding Window Median | Difficult
 | 1011. Capacity To Ship Packages Within D Days | Memorize
 | 128. Longest Consecutive Sequence | Not that easy, memorize
+| 153. Find Minimum in Rotated Sorted Array | Memorize
+| 529. Minesweeper | Difficult, memorize
