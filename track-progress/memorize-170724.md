@@ -52,3 +52,4 @@
 | 79. Word Search | Memorize, also practice 212. Word Search II
 | 124. Binary Tree Maximum Path Sum | Difficult
 | 127. Word Ladder | Difficult, memorize
+| 825. Friends Of Appropriate Ages | Difficult
