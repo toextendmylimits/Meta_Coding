@@ -312,8 +312,7 @@ cloud sharing
 Top k frequently played songs for an apple music like service.  
 Ad aggregator 2  
 Web crawler (Slight variation) 2  
-Job scheduler  
-System to store and search (query) through facebook status updates.  
+Job scheduler   
 System to store and search (query) through facebook status updates. These are text based updates.  
 Ticket booking workflow. Really deep dives into concurrency control and race condition resolutions.  
 ## BQ
