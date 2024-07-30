@@ -45,3 +45,9 @@ BQ 大哥完全focus on failure
 * 有什么你让你的team努力的方向，最后证明错了
 * 有什么你和你的同事有意见不一致，怎么解决
 * 有什么你和你的经理有意见不一致，怎么解决
+
+Project failed expectation
+Manager or upper level told you to do something but you think it was not good use of your time
+Argue on something but it turned out that you were wrong
+Turn down experimental idea
+Fe‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍edback from others that are actionable
