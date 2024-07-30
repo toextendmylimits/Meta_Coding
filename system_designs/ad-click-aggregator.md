@@ -48,8 +48,9 @@ Use real time analytics with stream processing
 3. How to ensure we don't lose data
 4. - message queue retention date of 7 days
    - checkpointing stream processor save states to permenant data store peoriodically
-5.  How can we prevent abuse from users clicking on ads multiple times?  Generate a Unique impression ID
-6. How can we ensure that advertisers can query metrics at low latency?
+5.  How to reconcile data
+6.  How can we prevent abuse from users clicking on ads multiple times?  Generate a Unique impression ID
+7. How can we ensure that advertisers can query metrics at low latency?
 
 # Reference
 https://www.hellointerview.com/learn/system-design/answer-keys/ad-click-aggregator
