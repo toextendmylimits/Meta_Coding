@@ -5,6 +5,12 @@ Design an Ad Click Aggregator
 1. Users can click on an ad and be redirected to the advertiser's website
 2. Advertisers can query ad click metrics over time with a minimum granularity of 1 minute
 
+----------out of scope-----------  
+- Ad targeting
+- Ad serving
+- Cross device tracking
+- Integration with offline marketing channels
+  
 ## Scale
 1. 10m active ad
 2. 10k ad click per second
@@ -16,6 +22,9 @@ Design an Ad Click Aggregator
 4. Idempotent click tracking. We should not count the same click multiple times.
 5. Scalability - 10k cliks per second
 
+---------out of scope-----------
+- Fraud or spam detection
+- Conversion tracking
 # API
 getAdMetrics/{adId}
 
