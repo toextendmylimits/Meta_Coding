@@ -47,7 +47,7 @@ I should also finish the remaining 30 frequent coding questions.
 
 ## 2 August 2024
 I only have 4 days to prepare for Meta interviews including today. To be highly effective, I should really make the best use of time, so I should not spend any time chatting with others randomly, or surfing the internet for fun. Every minute count now! My plan for the final days are:  
-1. Today I should practice hacker version of web crawler, and also practice top k, leaderboard, chess game
-2. 3 August I should prepare for the common behaviour questions, and review these system design questions again, work on 20 questions or so
-3. 4 August I should review common behaviour questions, system design questions, and work on aonther 20 questions
+1. Today I should practice hacker version of web crawler, and also practice top k, leaderboard, chess game, and work on 20 coding questions
+2. 3 August I should prepare for the common behaviour questions, and review these system design questions again, work on 20 coding questions or so
+3. 4 August I should review common behaviour questions, system design questions, and work on aonther 20 coding questions
 4. 5 August I should review all these things again
