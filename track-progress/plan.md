@@ -44,3 +44,7 @@ So the plan is:
 3. facebook status search 
 
 I should also finish the remaining 30 frequent coding questions.
+
+## 2 August 2024
+I only have 4 days to prepare for Meta interviews including today. To be highly effective, I should really make the best use of time, so I should not spend any time chatting with others randomly, or surfing the internet for fun. Every minute count now! My plan for the final days are:
+1. 
