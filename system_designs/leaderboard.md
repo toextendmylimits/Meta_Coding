@@ -28,11 +28,17 @@
 userId,  
 score  
 
-SQL databases are not performant when we have to process large amounts of continuously changing information.   
+### SQL databases are not performant when we have to process large amounts of continuously changing information.   
 Attempting to do a rank operation over millions of rows is going to take 10s of seconds, which is not   
 acceptable for the desired real-time approach. Since the data is constantly changing, it is also not feasible to consider a cache.
 
-Redis solution  
+### Redis solution  
 Sorted set
+Storage: 26bytes * 25million  = 900 M  
+Read replica  
 
+## Deep dive
+- Data sharding
+  1. Fixed partition
+  2. Hash partition
 ## Deep dive
