@@ -314,7 +314,9 @@ Ad aggregator 2
 Web crawler (Slight variation) 2  
 Job scheduler   
 System to store and search (query) through facebook status updates. These are text based updates.  
-Ticket booking workflow. Really deep dives into concurrency control and race condition resolutions.  
+Ticket booking workflow. Really deep dives into concurrency control and race condition resolutions.    
+酒店预定系统  
+
 ## BQ
 1. BQ: 常规问题。自豪项目，conflict
 2. BQ: 常规，conflict，有没有被push back，什么时候step up to do something out of your sco‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍pe
