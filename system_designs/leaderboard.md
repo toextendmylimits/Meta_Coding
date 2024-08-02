@@ -37,6 +37,8 @@ Sorted set
 Storage: 26bytes * 25million  = 900 M  
 Read replica  
 
+User and Point table in MySQL
+
 ## Deep dive
 - Data sharding
   1. Fixed partition
