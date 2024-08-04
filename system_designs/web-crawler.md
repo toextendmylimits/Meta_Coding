@@ -38,3 +38,29 @@
 4. Save text data in database
 5. Extract URLs from the text and add to frontier
 6. Repeat steps 1-5 until all URLs have been crawled
+
+## Deep dive
+### Fault tolerance
+- What about if we fail to fetch a URL?
+  set timer, 
+  SQS(Amazon Simple Queue service) exponentional backoff
+  DLQ(dead letter queue)
+- What happens if a crawler goes down?
+### Politeness
+How can we ensure politeness and adhere to robots.txt?
+- Respect robot.txt
+- Rate limiting
+### Scalibility
+DNS Caching/Mutiple DNS providers, round robin
+
+### Efficiency
+Hash store meata data with index
+
+### Crawler trap
+add a depth
+
+### Some additional deep dives you might consider
+- How to handle dynamic content
+- How to monitor the health of the system? Datadog or new relic
+- How to handler large file? Use content-length to decide size and skip large file
+- How to handle continual update? URL Scheduler based on popularity and last crawl time
