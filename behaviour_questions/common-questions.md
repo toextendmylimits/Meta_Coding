@@ -53,7 +53,7 @@
 - Describe a time when you had to quickly learn something new and complex in order to ramp up for a project or solve a problem
   Build bepsoke RFQ - Learn how the product works
   
-- Tell me a specific example of how a new skill set you grew in recent years help you improve
+- Tell me a specific example of how a new skill set you grew in recent years help you improve  
   Write clear technical documenation - lead to working on requirement of order book rebuild
 
 - What is a current area of improvement or development for you?  
