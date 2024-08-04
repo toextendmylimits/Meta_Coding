@@ -30,3 +30,17 @@
 
 - Tell me about a time you needed to push for a change that you knew would be unpopular with some people  
   Push developers to write more unit test
+
+## Embracing Ambiguity 
+- Tell me about a time when you needed to act quickly on something but did not have a clear idea on how to best proceed
+- Tell me about a time when you didn't have all of the desired info to solve a tech problem and how it was resolved  
+  Solve urgent production issue after a holiday
+  
+- Tell me about a time you had to pivot mid-project due to project requirements or stakeholders expectations changing
+  Have bespoke RFQ - timeline was moved up by a few weeks
+  
+- Tell me about a time when you had to adopt an experimental approach to resolving something  
+  Orderbook rebuild - change how panic functionality works
+
+- Tell me about a project you were on that grew in scope and timeline in an unexpected way  
+  Order book rebuild - add a few new functionality mid market match
