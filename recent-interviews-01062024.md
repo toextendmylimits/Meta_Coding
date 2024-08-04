@@ -44,7 +44,6 @@
 ### 根据面经自己整理的
 1. 76 Minimum Window Substring
 2. 116 Populating Next Right Pointers in Each Node
-3. Leetcode word ladder, 只用返回一个有效的路径
 4. 127 Word Ladder
 5. 1778 Shortest Path in a Hidden Grid
 6. 79 Word Search
