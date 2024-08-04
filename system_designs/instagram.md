@@ -47,4 +47,13 @@ uploadedBy,
 timestamp
 
 ## High-level design
-  
+
+## Design deep dive
+- celebrity issue fan out hyrbid pull/push
+- inactive users pull
+- CDN cache popular content
+- Data partition by postId
+- Data replication 3 copies, 2 copy in data center, 1 copy in different data center
+- avoid duplicate both client side and server side
+- moderate content machine learning
+
