@@ -51,3 +51,7 @@ I only have 4 days to prepare for Meta interviews including today. To be highly 
 2. 3 August I should prepare for the common behaviour questions, and review these system design questions again, work on 20 coding questions or so
 3. 4 August I should review common behaviour questions, system design questions, and work on aonther 20 coding questions
 4. 5 August I should review all these things again
+
+## 4 Aug 2024
+What I should do tomorrow  
+1. Review system design questions: hacker web crawler, instagram, ad clicks aggregator, FB live commenting, whatsapp, dropbox, 
