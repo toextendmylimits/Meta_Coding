@@ -22,8 +22,9 @@
 - Tell me about a time when you faced pushback regarding your approach on a project
   Orderbook rebuild - release the changes
   
-- Tell me about a time you disagreed with a colleague and later found out your initial stance was not entirely correct.
-  ### Need answer for this!!!
+- Tell me about a time you disagreed with a colleague and later found out your initial stance was not entirely correct.  
+  1. disagreement with kotlin/java, concern of compatibility issue and steep learning curve were not valid
+  1. how to manage code change use feature toggle or specific branch
 
 - Describe a decision you disagreed with, and how it impacted your work  
   Choice of programming language Kotlin/Java
