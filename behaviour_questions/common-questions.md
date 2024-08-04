@@ -19,7 +19,7 @@
 
 ## Resolving Conflict 
 - Tell me about the most difficult working relationship that you've had
-- Tell me about a time when you faced pushback regarding your approach on a project
+- Tell me about a time when you faced pushback regarding your approach on a project  
   Orderbook rebuild - release the changes
   
 - Tell me about a time you disagreed with a colleague and later found out your initial stance was not entirely correct.  
