@@ -34,7 +34,8 @@
 - follow people  
   POST /follow
 - view feed  
-  GET /feeds?cursor=,pageSize=
+  GET /feeds?cursor=,pageSize=  
+  thumbnail,  
 
 ## Data models
 Metadata:
@@ -52,6 +53,7 @@ timestamp
 - celebrity issue fan out hyrbid pull/push
 - inactive users pull
 - CDN cache popular content
+- How to upload large video/photo? MultiPartFile
 - Data partition by postId
 - Data replication 3 copies, 2 copy in data center, 1 copy in different data center
 - avoid duplicate both client side and server side
