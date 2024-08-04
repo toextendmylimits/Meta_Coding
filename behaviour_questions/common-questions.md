@@ -44,3 +44,21 @@
 
 - Tell me about a project you were on that grew in scope and timeline in an unexpected way  
   Order book rebuild - add a few new functionality mid market match
+
+## Growing Continuously 
+- Tell me about a time that a peer or manager gave you specific, actionable feedback for improvement.
+  Work on auction platform - feedback to improve communication  
+  Orderbook rebuild - automated test were neglected
+  
+- Describe a time when you had to quickly learn something new and complex in order to ramp up for a project or solve a problem
+  
+- Tell me a specific example of how a new skill set you grew in recent years help you improve - What is a current area of improvement or development for you?
+- 
+- How did you build your knowledge of the tech details in this space?
+  Read books, watch video tutorials, talk with people who has the knowledge
+  
+- Tell me about a specific skill set you develop after observing peers or mentors leveraging such skills.  
+  Presentation skills
+  
+- Describe a specific example that demonstrates how you balanced your own prof development with the day to day demands of your role  
+  Went through some online courses about domain knowledge - financial markets
