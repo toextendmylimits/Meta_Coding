@@ -6,6 +6,8 @@
 - view feed of images
 
 -------------out of scope--------
+- remove duplicate
+- moderate content
 - search
 - make comments
 - likes
