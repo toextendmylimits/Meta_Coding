@@ -37,7 +37,7 @@
   Solve urgent production issue after a holiday
   
 - Tell me about a time you had to pivot mid-project due to project requirements or stakeholders expectations changing  
-  Have bespoke RFQ - timeline was moved up by a few weeks
+  Have mid market match of derivatives - timeline was moved up by a few weeks
   
 - Tell me about a time when you had to adopt an experimental approach to resolving something  
   Orderbook rebuild - change how panic functionality works
@@ -51,11 +51,14 @@
   Orderbook rebuild - automated test were neglected
   
 - Describe a time when you had to quickly learn something new and complex in order to ramp up for a project or solve a problem
+  Build bepsoke RFQ - Learn how the product works
   
-- Tell me a specific example of how a new skill set you grew in recent years help you improve - What is a current area of improvement or development for you?
+- Tell me a specific example of how a new skill set you grew in recent years help you improve
+-
+- What is a current area of improvement or development for you?
 - 
-- How did you build your knowledge of the tech details in this space?
-  Read books, watch video tutorials, talk with people who has the knowledge
+- How did you build your knowledge of the tech details in this space?  
+  Read books, watch video tutorials, talk with people who has the knowledge  
   
 - Tell me about a specific skill set you develop after observing peers or mentors leveraging such skills.  
   Presentation skills
