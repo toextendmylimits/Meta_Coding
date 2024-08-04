@@ -65,7 +65,7 @@
 18. 有点像leetcode interval intersection list 但是找的是union  
     https://www.1point3acres.com/bbs/thread-1067273-1-1.html
 1.  121 Best Time to Buy and Sell Stock
-2.  140. Word Break II  
+2.  140 Word Break II  
     要四零 （这道题我写出来之后加问了如果dictionary很长如何优化：经提示修改了code，答案如下：先把input dictionary list存成一个dictionary，举个例子 如果given string是 “abcd” 那么可能的word是 [a,ab,abc,abcd] 看一下是否在dictionary 里面 再按照愿题的方法dfs）  
     https://www.1point3acres.com/bbs/thread-1067273-1-1.html
 1.  695 Max Area of Island
@@ -73,20 +73,16 @@
     followup是有没有别的做法，复杂度是什么  
     https://www.1point3acres.com/bbs/thread-1067172-1-1.html
 1.  739 Daily Temperatures
-2.  - calculator变种， 表达式只有加法和乘法， 商量了一下能不能用stack做，被拒绝了，要求constant space，最后写完口头跑test的时候发现有点bug
 1.  1541 Minimum Insertions to Balance a Parentheses String
 2.  1443 Minimum Time to Collect All Apples in a Tree
 3.  30 Substring with Concatenation of All Words   简化版的伞领，只用判断string是不是concatenation
 4.  895 Maximum Frequency Stack
 5.  merge 3 sorted list. expand into merge k sorted list
 6.  71 Simplify Path 实现cd。两个input， 一个current dir 一个cd 的dir， output cd之后的dir, 无 follow up
-7. 227 Basic Calculator II 简化版，只有加和乘。口头说了stack 方法和最优解O(N)/O(1) 方法，最后写了最优解， 无follow up。
-8. 1091 Shortest Path in Binary Matrix 要output path吗？backtracking instead of bfs
 9. 第一轮 LC 1249 Minimum Remove to Make Valid parentheses Follow up: LC 301 remove invalid parenth‍‌‌‌‌‍‍‌‌‍‌‍‌‍‌‍‌‌‌‌‍eses
 10. 435 Non-overlapping Intervals
 11. 找不到题号 大概题意就是让sort一个数组 已知每一个元素离它的sorted position距离不超过k https://www.geeksforgeeks.org/nearly-sorted-algorithm/
 12. 480 Sliding Window Median
-13. 1209 Remove All Adjacent Duplicates in String II
 14. Merging Distinct Elements from Two Sorted Arrays https://www.1point3acres.com/bbs/thread-1060301-1-1.html
 15. 691. Stickers to Spell Word 高频
 
