@@ -56,7 +56,7 @@
 - Tell me a specific example of how a new skill set you grew in recent years help you improve
   Write clear technical documenation - lead to working on requirement of order book rebuild
 
-- What is a current area of improvement or development for you?
+- What is a current area of improvement or development for you?  
   Improve my understanding of new domain knowledge
 
 - How did you build your knowledge of the tech details in this space?  
