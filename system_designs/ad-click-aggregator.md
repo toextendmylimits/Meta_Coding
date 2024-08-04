@@ -50,7 +50,7 @@ Use real time analytics with stream processing
    - checkpointing stream processor save states to permenant data store peoriodically
 5.  How to reconcile data
 6.  How can we prevent abuse from users clicking on ads multiple times?  Generate a Unique impression ID
-7. How can we ensure that advertisers can query metrics at low latency?
+7. How can we ensure that advertisers can query metrics at low latency? Pre-compute hourly, daily, monthly result
 
 # Reference
 https://www.hellointerview.com/learn/system-design/answer-keys/ad-click-aggregator
