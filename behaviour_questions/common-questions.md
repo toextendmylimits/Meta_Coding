@@ -36,7 +36,7 @@
 - Tell me about a time when you didn't have all of the desired info to solve a tech problem and how it was resolved  
   Solve urgent production issue after a holiday
   
-- Tell me about a time you had to pivot mid-project due to project requirements or stakeholders expectations changing
+- Tell me about a time you had to pivot mid-project due to project requirements or stakeholders expectations changing  
   Have bespoke RFQ - timeline was moved up by a few weeks
   
 - Tell me about a time when you had to adopt an experimental approach to resolving something  
