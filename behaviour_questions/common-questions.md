@@ -17,3 +17,15 @@
 - Tell me about a time when you faced a significant setback that forced you to reprioritize your work  
   Orderbook rebuild - reporioritize automated tests
 
+## Resolving Conflict 
+- Tell me about the most difficult working relationship that you've had
+- Tell me about a time when you faced pushback regarding your approach on a project
+  Orderbook rebuild - release the changes
+  
+- Tell me about a time you disagreed with a colleague and later found out your initial stance was not entirely correct.
+
+- Describe a decision you disagreed with, and how it impacted your work  
+  Choice of programming language Kotlin/Java
+
+- Tell me about a time you needed to push for a change that you knew would be unpopular with some people  
+  Push developers to write more unit test
