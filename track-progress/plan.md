@@ -54,6 +54,6 @@ I only have 4 days to prepare for Meta interviews including today. To be highly 
 
 ## 4 Aug 2024
 What I should do tomorrow  
-1. Review system design questions: leetcode, hacker web crawler/web crawler, instagram/newsfeed, ad clicks aggregator, FB live commenting, whatsapp, dropbox/youtube, Ticket master/hotel, proximity, leaderboard, uber, status search/typehead,
+1. Review system design questions: leetcode, hacker web crawler/web crawler, instagram/newsfeed, ad clicks aggregator, FB live commenting, whatsapp, dropbox/youtube, Ticket master/hotel, proximity, top k, leaderboard, uber, status search/typehead,
 2. Review common behaviour questions
 3. Memorize code 
