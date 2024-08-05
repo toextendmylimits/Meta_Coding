@@ -66,7 +66,7 @@
   1. Read books, watch video tutorials, talk with people who has the knowledge  
   
 - Tell me about a specific skill set you develop after observing peers or mentors leveraging such skills.  
-  1. Presentation skills
+  1. Presentation skills by keeping it simple and use more pictures
   
 - Describe a specific example that demonstrates how you balanced your own prof development with the day to day demands of your role   
   1. Went through some online courses about domain knowledge - financial markets
