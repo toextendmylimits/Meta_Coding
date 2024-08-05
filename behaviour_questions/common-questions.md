@@ -51,7 +51,7 @@
 ## Growing Continuously 
 - Tell me about a time that a peer or manager gave you specific, actionable feedback for improvement.
   1. Work on auction platform - feedback to improve communication  
-  1. Orderbook rebuild - automated test were neglected
+  1. Orderbook rebuild - automated test were neglected and not planned earlier
   
 - Describe a time when you had to quickly learn something new and complex in order to ramp up for a project or solve a problem
   Build bepsoke RFQ - Learn how the product works
