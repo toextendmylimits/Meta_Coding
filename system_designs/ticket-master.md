@@ -45,3 +45,6 @@
 - GET /events/search?keyword={keyword}&start={start}&end={end} -> Partial Events[]
 
 ## High-level designs
+
+## Design deep dive
+- How to avoid double booking?
