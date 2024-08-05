@@ -16,7 +16,7 @@
   Database migration - liquibase  
   
 - Tell me about a time when you faced a significant setback that forced you to reprioritize your work  
-  Orderbook rebuild - reporioritize automated tests
+  Orderbook rebuild - automation test engineer away: reporioritize automated tests, developers write automation test
 
 ## Resolving Conflict 
 - Tell me about the most difficult working relationship that you've had
