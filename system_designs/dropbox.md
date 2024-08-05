@@ -34,4 +34,8 @@
 - share file  
   POST /files/{fileId}/share  
   Reqeust: {users:[]}
-  
+
+## Design deep dive
+- support large files? progress indicator/resume download, chunk files on client side
+- How can we make uploads and downloads as fast as possible? compress files
+- How can you ensure file security? HTTPS,encrypt file on transmission; Encrypt file on rest; presigned url to control permission
