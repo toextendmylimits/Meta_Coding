@@ -12,7 +12,8 @@
 - Tell me about a time when you needed to overcome a barrier in your work to achieve an end result
 - Tell me about a time when you took initiative to complete an important project for your team
 - Tell me about a time when you volunteered to take on a important portion of a critical project  
-  Orderbook rebuild - gather requirements
+  Orderbook rebuild - gather requirements  
+  Database migration - liquibase  
   
 - Tell me about a time when you faced a significant setback that forced you to reprioritize your work  
   Orderbook rebuild - reporioritize automated tests
