@@ -44,3 +44,7 @@
 - How video processing works
 - How to improve latency
 - How to support resumable uploads
+- How can we handle processing a video to support adaptive bitrate streaming?
+- How do we scale to a large number of videos uploaded / watched a day?
+  1. User cache for metadata, CDN
+  2. Queue for video processing service
