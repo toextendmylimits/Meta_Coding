@@ -28,7 +28,8 @@
   1. how to manage code change use feature toggle or specific branch
 
 - Describe a decision you disagreed with, and how it impacted your work  
-  Choice of programming language Kotlin/Java
+  Choice of programming language Kotlin/Java  
+  Disagree with whether developers should do more manual test  
 
 - Tell me about a time you needed to push for a change that you knew would be unpopular with some people  
   Push developers to write more unit test
