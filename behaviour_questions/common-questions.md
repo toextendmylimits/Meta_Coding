@@ -57,16 +57,16 @@
   1. Build bepsoke RFQ of derivatives - Learn how the product works
   
 - Tell me a specific example of how a new skill set you grew in recent years help you improve  
-  Write clear technical documenation - lead to working on requirement of order book rebuild
+  1. Write clear technical documenation - lead to working on requirement of order book rebuild
 
 - What is a current area of improvement or development for you?  
-  Improve my understanding of new domain knowledge
+  1. Improve my understanding of new domain knowledge
 
 - How did you build your knowledge of the tech details in this space?  
-  Read books, watch video tutorials, talk with people who has the knowledge  
+  1. Read books, watch video tutorials, talk with people who has the knowledge  
   
 - Tell me about a specific skill set you develop after observing peers or mentors leveraging such skills.  
-  Presentation skills
+  1. Presentation skills
   
 - Describe a specific example that demonstrates how you balanced your own prof development with the day to day demands of your role   
-  Went through some online courses about domain knowledge - financial markets
+  1. Went through some online courses about domain knowledge - financial markets
