@@ -48,3 +48,7 @@
 
 ## Design deep dive
 - How to avoid double booking?
+- How to scale?
+- How to handle hot event like Tylor Swift? SSE for seat update, virtual queue for popular event
+- How to implement Search? Elastic search
+- How to speed up repeated search queries? Cache CDN
