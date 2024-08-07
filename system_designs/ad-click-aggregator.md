@@ -43,7 +43,7 @@ When a user clicks on an ad which was placed by the Ad Placement Service, we wil
 Use real time analytics with stream processing
 
 ## Deep dive
-1. Scalability - horizontal scaling for click processer, message queue, stream event processer, OLAP db
+1. Scalability - horizontal scaling for click processer, message queue, stream event processer, OLAP db, Shard by adId
 2. Hot shard - Further partition by adding a randomId after adId
 3. How to ensure we don't lose data
 4. - message queue retention date of 7 days
