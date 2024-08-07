@@ -46,7 +46,7 @@ Use real time analytics with stream processing
 1. Scalability - horizontal scaling for click processer, message queue, stream event processer, OLAP db, Shard by adId
 2. Hot shard - Further partition by adding a randomId after adId
 3. How to ensure we don't lose data
-4. - message queue retention date of 7 days
+   - message queue retention date of 7 days
    - checkpointing stream processor save states to permenant data store peoriodically
 5.  How to reconcile data
 6.  How can we prevent abuse from users clicking on ads multiple times?  Generate a Unique impression ID
